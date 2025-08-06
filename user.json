@@ -1,0 +1,948 @@
+{
+  "EREN": {
+    "2": {
+      "password": "2",
+      "hwid": "C7C55743-E2D8-4B03-B135-DD15AB3166E3",
+      "expiryDate": "2222-02-02",
+      "creationDate": "2025-03-12 00:10:28",
+      "lastUsed": "2025-08-04 10:17:49",
+      "loginMessage": "Enjoy Panel"
+    },
+    "sarwal": {
+      "password": "1",
+      "hwid": "4C4C4544-004B-4810-8034-B6C04F384733",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-14 03:22:02",
+      "lastUsed": "2025-03-31 01:09:26",
+      "loginMessage": "Enjoy Panel"
+    },
+    "arise": {
+      "password": "1",
+      "hwid": "ABA61601-E860-11EC-80F2-6C2408B0159D",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-14 03:31:57",
+      "lastUsed": "2025-06-23 15:00:57",
+      "loginMessage": "Enjoy Panel"
+    },
+    "himanshu": {
+      "password": "1",
+      "hwid": "4C4C4544-0059-3710-8056-B9C04F385231",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-14 03:32:09",
+      "lastUsed": "2025-06-25 14:01:49",
+      "loginMessage": "Enjoy Panel"
+    },
+    "myt": {
+      "password": "1",
+      "hwid": "32444335-3930-4B32-3348-484B39304435",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-14 13:04:43",
+      "lastUsed": "2025-04-15 11:53:12",
+      "loginMessage": "Enjoy Panel"
+    },
+    "hasnain": {
+      "password": "1",
+      "hwid": "32444335-3834-5437-3539-395438344435",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-14 13:04:55",
+      "lastUsed": "2025-03-16 09:17:00",
+      "loginMessage": "Enjoy Panel"
+    },
+    "akas": {
+      "password": "1",
+      "hwid": "03000200-0400-0500-0006-000700080009",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-14 13:08:03",
+      "lastUsed": "2025-07-15 20:49:12",
+      "loginMessage": "Enjoy Panel"
+    },
+    "akhil": {
+      "password": "1",
+      "hwid": "588739B3-8008-A618-A80B-047C16739EDA",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-14 14:47:40",
+      "lastUsed": "2025-07-30 03:54:58",
+      "loginMessage": "Enjoy Panel"
+    },
+    "sami": {
+      "password": "1",
+      "hwid": "03000200-0400-0500-0006-000700080009",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-18 16:38:23",
+      "lastUsed": "2025-07-29 15:20:33",
+      "loginMessage": "Enjoy Panel"
+    },
+    "hamad": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-04-04 12:56:23",
+      "loginMessage": "Enjoy Panel"
+    },
+    "hakim": {
+      "password": "1",
+      "hwid": "2899BA2C-476A-12F3-E178-08BFB8B97D69",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-04-10 08:28:20",
+      "lastUsed": "2025-07-06 19:19:28",
+      "loginMessage": "Enjoy Panel"
+    },
+    "vincenzo": {
+      "password": "1",
+      "hwid": "4C4C4544-0030-4C10-8030-B1C04F435A31",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-04-10 15:06:48",
+      "lastUsed": "2025-04-21 21:52:58",
+      "loginMessage": "Enjoy Panel"
+    },
+    "eren": {
+      "password": "1",
+      "hwid": "9E723678-6FE8-AD10-A58D-D843AE6BABFF",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-04-14 10:57:14",
+      "lastUsed": "2025-07-02 14:16:41",
+      "loginMessage": "Enjoy Panel"
+    },
+    "hammad": {
+      "password": "1",
+      "hwid": "6DFDDFF3-C74F-D104-DF3C-6045CBA697CD",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-04-17 09:17:54",
+      "lastUsed": "2025-06-29 08:55:08",
+      "loginMessage": "Enjoy Panel"
+    },
+    "retro": {
+      "password": "1",
+      "hwid": "032E02B4-0499-0597-5506-ED0700080009",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-04-19 20:54:45",
+      "lastUsed": "2025-06-11 19:13:43",
+      "loginMessage": "Enjoy Panel"
+    },
+    "aqib": {
+      "password": "1",
+      "hwid": "96DACF68-642E-11E6-9C43-BC00006C0000",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-04-21 14:22:03",
+      "lastUsed": "2025-08-04 11:46:40",
+      "loginMessage": "Enjoy Panel"
+    },
+    "mehar": {
+      "password": "1",
+      "hwid": "4C4C4544-0058-3410-8030-B4C04F563732",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-04-25 10:02:15",
+      "lastUsed": "2025-07-25 10:47:36",
+      "loginMessage": "Enjoy Panel"
+    },
+    "ashish": {
+      "password": "1",
+      "hwid": "03000200-0400-0500-0006-000700080009",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-04-26 11:14:21",
+      "lastUsed": "2025-05-01 01:06:23",
+      "loginMessage": "Enjoy Panel"
+    },
+    "opr": {
+      "password": "1",
+      "hwid": "8911E0D7-51A2-D545-B3CA-74D4DD087015",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-04-29 09:58:46",
+      "lastUsed": "2025-04-29 10:08:18",
+      "loginMessage": "Enjoy Panel"
+    },
+    "awais": {
+      "password": "1",
+      "hwid": "4C4C4544-004E-5410-804D-C4C04F313032",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-01 06:27:57",
+      "lastUsed": "2025-08-01 02:09:21",
+      "loginMessage": "Enjoy Panel"
+    },
+    "bakar": {
+      "password": "1",
+      "hwid": "E2CA89B4-703E-4052-BE3A-E88088F41724",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-05 14:54:52",
+      "lastUsed": "2025-05-06 09:31:58",
+      "loginMessage": "Enjoy Panel"
+    },
+    "umer": {
+      "password": "1",
+      "hwid": "4F691B80-E15E-11E2-A52E-8851FB53ADED",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-05 14:56:30",
+      "lastUsed": "2025-07-09 17:06:01",
+      "loginMessage": "Enjoy Panel"
+    },
+    "usaid": {
+      "password": "1",
+      "hwid": "865AB200-81D7-11E4-9B59-645106381830",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-05 18:31:58",
+      "lastUsed": "2025-06-12 10:55:16",
+      "loginMessage": "Enjoy Panel"
+    },
+    "haris": {
+      "password": "1",
+      "hwid": "6443CC51-7A3E-11E6-9C43-BC0000D60000",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-06 16:31:55",
+      "lastUsed": "2025-06-23 15:42:46",
+      "loginMessage": "Enjoy Panel"
+    },
+    "mee": {
+      "password": "1",
+      "hwid": "7B8C29CE-C8C4-B619-A995-047C16DC4AFB",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-08 07:09:18",
+      "lastUsed": "2025-06-17 17:35:24",
+      "loginMessage": "Enjoy Panel"
+    },
+    "talha1": {
+      "password": "1",
+      "hwid": "9D483D00-D7DA-11DD-822A-7824AF8A9ACD",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-08 19:19:36",
+      "lastUsed": "2025-07-04 19:39:44",
+      "loginMessage": "Enjoy Panel"
+    },
+    "yousuf": {
+      "password": "1",
+      "hwid": "4C4C4544-0047-4B10-8052-B3C04F4A5831",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-10 15:41:37",
+      "lastUsed": "2025-06-23 02:00:04",
+      "loginMessage": "Enjoy Panel"
+    },
+    "aoun": {
+      "password": "1",
+      "hwid": "68A8638A-D3BC-06A0-601C-6656D0A08260",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-13 15:12:55",
+      "lastUsed": "2025-06-15 03:44:17",
+      "loginMessage": "Enjoy Panel"
+    },
+    "meow": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-14 11:43:36",
+      "loginMessage": "Enjoy Panel"
+    },
+    "habib123": {
+      "password": "1",
+      "hwid": "FB560174-E53C-11B3-7402-6589507C2505",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-16 14:00:23",
+      "lastUsed": "2025-06-06 13:55:13",
+      "loginMessage": "Enjoy Panel"
+    },
+    "erenfree": {
+      "password": "dailypass19",
+      "hwid": "free",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-17 18:28:55",
+      "lastUsed": "2025-08-06 17:43:19",
+      "loginMessage": "Free User Pass Updates every day."
+    },
+    "ali1122": {
+      "password": "1",
+      "hwid": "27AA6F58-0E93-4831-9D62-41A97B9E6893",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-18 08:10:18",
+      "lastUsed": "2025-07-09 07:14:45",
+      "loginMessage": "Enjoy Panel"
+    },
+    "hamziii": {
+      "password": "1",
+      "hwid": "4C4C4544-0050-4810-8046-C6C04F395A31",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-19 16:38:00",
+      "lastUsed": "2025-05-28 18:08:39",
+      "loginMessage": "Enjoy Panel"
+    },
+    "valor": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-21 17:30:30",
+      "loginMessage": "Enjoy Panel"
+    },
+    "maska": {
+      "password": "1",
+      "hwid": "03560274-043C-0552-ED06-1D0700080009",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-24 16:55:04",
+      "lastUsed": "2025-06-10 15:08:33",
+      "loginMessage": "Enjoy Panel"
+    },
+    "row": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-29 02:00:06",
+      "loginMessage": "Enjoy Panel"
+    },
+    "hassan": {
+      "password": "1",
+      "hwid": "4C4C4544-004A-5110-8059-C8C04F323533",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-31 17:05:39",
+      "lastUsed": "2025-07-08 06:34:41",
+      "loginMessage": "Enjoy Panel"
+    },
+    "bakar11": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-31 18:05:48",
+      "loginMessage": "Enjoy Panel"
+    },
+    "hamzasexy": {
+      "password": "1",
+      "hwid": "4ED28540-06A3-E111-8533-000EA68F75B0",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-06-01 10:07:48",
+      "lastUsed": "2025-06-08 16:14:28",
+      "loginMessage": "Enjoy Panel"
+    },
+    "insane": {
+      "password": "1",
+      "hwid": "35389B80-7FE8-11E4-903A-C4346B6BBE4E",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-06-02 08:16:28",
+      "lastUsed": "2025-08-05 20:03:55",
+      "loginMessage": "Enjoy Panel"
+    },
+    "insane6c": {
+      "password": "1",
+      "hwid": "E78C1017-D96A-E9E1-9AB0-C566A5A494B3",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-06-02 08:16:49",
+      "lastUsed": "2025-07-20 07:23:26",
+      "loginMessage": "Enjoy Panel"
+    },
+    "cyber": {
+      "password": "1",
+      "hwid": "69D79C7B-8742-11E0-BBDA-D721E5E22C27",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-06-03 19:40:50",
+      "lastUsed": "2025-06-11 14:19:08",
+      "loginMessage": "Enjoy Panel"
+    },
+    "abdullah12": {
+      "password": "1",
+      "hwid": "E5BCC380-9E25-11E5-9948-5065F339B1F6",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Enjoy Panel",
+      "creationDate": "2025-06-13 10:56:36",
+      "lastUsed": "2025-07-24 09:17:36"
+    },
+    "Boost": {
+      "password": "1",
+      "hwid": "204A8EC0-D7DA-11DD-99E6-50465DB29340",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Enjoy Panel",
+      "creationDate": "2025-06-14 07:12:01",
+      "lastUsed": "2025-06-26 11:10:25"
+    },
+    "arslan": {
+      "password": "1",
+      "hwid": "DE59E800-3887-11E1-0000-082E5F0B15F5",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-06-19T13:26:24.714Z",
+      "loginMessage": "Enjoy Panel",
+      "lastUsed": "2025-08-04 10:58:25"
+    },
+    "notgamer": {
+      "password": "1",
+      "hwid": "00000000-0000-0000-0000-448A5B2774D5",
+      "expiryDate": "2028-10-20",
+      "creationDate": "2025-06-23T13:51:50.775Z",
+      "lastUsed": "2025-08-06 00:27:59",
+      "loginMessage": "Enjoy Panel"
+    },
+    "shayan": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Enjoy Panel",
+      "creationDate": "2025-06-24 06:44:24"
+    },
+    "h7n": {
+      "password": "1",
+      "hwid": "4EF3814C-236E-11B2-A85C-F0D31975385F",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Enjoy Panel",
+      "creationDate": "2025-06-26 17:33:37",
+      "lastUsed": "2025-07-21 13:19:16"
+    },
+    "blacky": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Enjoy Panel",
+      "creationDate": "2025-07-03 15:36:02"
+    },
+    "amir": {
+      "password": "1",
+      "hwid": "E91A3D7E-CB7D-E56B-E85E-3497F6A2B419",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Enjoy Panel",
+      "creationDate": "2025-07-03 15:47:22",
+      "lastUsed": "2025-07-30 15:36:17"
+    },
+    "awais6c": {
+      "password": "1",
+      "hwid": "4C4C4544-0047-4210-8046-C7C04F533232",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Enjoy Panel",
+      "creationDate": "2025-07-07 18:46:58",
+      "lastUsed": "2025-07-08 03:03:12"
+    },
+    "boost2": {
+      "password": "1",
+      "hwid": "4C4C4544-0032-3510-805A-B6C04F353534",
+      "expiryDate": "2025-08-06 17:51:04",
+      "creationDate": "2025-07-23 17:51:16",
+      "lastUsed": "2025-07-24 12:42:11",
+      "loginMessage": "Enjoy Panel"
+    },
+    "papi": {
+      "password": "1",
+      "hwid": "D7684A55-898C-511B-AA48-D843AE4496DB",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Enjoy Panel",
+      "creationDate": "2025-07-25 20:17:39",
+      "lastUsed": "2025-07-25 20:20:23"
+    },
+    "juice": {
+      "password": "1",
+      "hwid": "E01F59BA-8FE6-4A1A-ABB3-345A607E9347",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Enjoy Panel",
+      "creationDate": "2025-07-26 14:18:44",
+      "lastUsed": "2025-07-27 16:50:34"
+    },
+    "oggy": {
+      "password": "1",
+      "hwid": "4C4C4544-0046-5310-8052-B3C04F563634",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Enjoy Oggy Bro !",
+      "creationDate": "2025-08-03 12:23:59",
+      "lastUsed": "2025-08-03 12:27:47"
+    },
+    "baristo": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-08-06",
+      "loginMessage": "Only for 2 Days !",
+      "creationDate": "2025-08-04 03:41:39"
+    },
+    "mashrafee": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "7 $ Amount Pending !",
+      "creationDate": "2025-08-04 12:06:25"
+    },
+    "zahoor": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "This user valid for 1 day !",
+      "creationDate": "2025-08-01 07:13:23"
+    },
+    "8155": {
+      "password": "1",
+      "hwid": "34A786DF-A220-3B1A-A641-D843AEB6B4B2",
+      "expiryDate": "2222-02-22",
+      "creationDate": "2025-06-16T20:28:18.471Z",
+      "loginMessage": "Enjoy Panel",
+      "lastUsed": "2025-08-05 17:42:14"
+    }
+  },
+  "INSANE": {
+    "1": {
+      "password": "1",
+      "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-14 16:50:42",
+      "lastUsed": "2025-08-03 19:45:04",
+      "loginMessage": ""
+    },
+    "2": {
+      "password": "2",
+      "hwid": "4C4C4544-0052-3410-8038-C6C04F594332",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-30 16:49:27",
+      "lastUsed": "2025-08-06 17:44:03",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "fanta": {
+      "password": "1",
+      "hwid": "3168E1C0-D7DA-11DD-8697-10C37BDCCE01",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-12 10:19:58",
+      "lastUsed": "2025-05-17 07:41:03",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "worrior": {
+      "password": "1",
+      "hwid": "4C4C4544-0035-3210-8057-B9C04F445A31",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-12 10:19:58",
+      "lastUsed": "2025-08-05 21:17:47",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "mark": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-12 10:19:58",
+      "lastUsed": "2025-04-25 20:46:45",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "asad": {
+      "password": "1",
+      "hwid": "715D7600-56C6-11E2-8E38-10604B716124",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-12 10:19:58",
+      "lastUsed": "2025-08-06 05:39:00",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "asad1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-12 10:19:58",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "usama": {
+      "password": "1",
+      "hwid": "4825C6FE-CD0C-0517-A582-2CF05D58766A",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-12 10:19:58",
+      "lastUsed": "2025-07-25 17:42:26",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "yousuf": {
+      "password": "1",
+      "hwid": "4C4C4544-0047-4B10-8052-B3C04F4A5831",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-12 10:19:58",
+      "lastUsed": "2025-05-10 05:57:11",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "shazy": {
+      "password": "1",
+      "hwid": "88DDEC52-3154-0A6E-6852-50EBF676AB44",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-12 10:19:58",
+      "lastUsed": "2025-07-26 21:28:39",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "rehan1": {
+      "password": "1",
+      "hwid": "4C4C4544-0030-3610-8048-CAC04F513232",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-12 10:19:58",
+      "lastUsed": "2025-08-03 20:19:34",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "rehan": {
+      "password": "1",
+      "hwid": "D2873580-F3DB-11E2-8F48-7446A0ACC232",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-12 10:19:58",
+      "lastUsed": "2025-06-20 21:20:57",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "dood": {
+      "password": "1",
+      "hwid": "4C4C4544-0054-5110-804A-B7C04F315231",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-13 15:44:45",
+      "lastUsed": "2025-05-29 05:45:58",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "ali1": {
+      "password": "1",
+      "hwid": "EF1EC2B8-A823-C65A-26FA-F2EA1E2E7791",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-03-13 17:16:22",
+      "lastUsed": "2025-08-03 18:16:23",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "doodly": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-04-07 10:13:14",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "zain": {
+      "password": "1",
+      "hwid": "C67E644C-33A0-11B2-A85C-EFB2DB3D1E6F",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-04-28 17:29:08",
+      "lastUsed": "2025-04-29 09:21:10",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "faded": {
+      "password": "1",
+      "hwid": "73B9AC95-D91B-12D7-2B30-727E3D84D577",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-06 16:13:43",
+      "lastUsed": "2025-08-06 16:07:45",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "ffhamza": {
+      "password": "1",
+      "hwid": "4C4C4544-0054-3710-8036-C2C04F425A31",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-09 06:34:35",
+      "lastUsed": "2025-08-04 17:45:54",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "emily": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-29 16:20:59",
+      "lastUsed": "2025-06-02 13:45:40",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "mahi": {
+      "password": "1",
+      "hwid": "4C4C4544-0054-4B10-8038-C3C04F465A31",
+      "expiryDate": "2028-11-11",
+      "creationDate": "2025-06-19T19:57:05.758Z",
+      "loginMessage": "Enjoy Panel !",
+      "lastUsed": "2025-07-14 17:30:49"
+    },
+    "noor": {
+      "password": "1",
+      "hwid": "646747BA-D62C-E148-995F-6E93091DCAE1",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-06-22 10:54:55",
+      "lastUsed": "2025-07-02 23:13:46",
+      "loginMessage": "Enjoy Panel !"
+    },
+    "hasan": {
+      "password": "1",
+      "hwid": "C91BE1CB-9062-EC91-6984-049226CE2029",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-06 11:18:01",
+      "lastUsed": "2025-08-06 16:36:28"
+    },
+    "bypasscus": {
+      "password": "1",
+      "hwid": "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-06 19:28:40",
+      "lastUsed": "2025-07-09 10:37:27"
+    },
+    "romi": {
+      "password": "1",
+      "hwid": "943B6C00-509C-11E4-A472-A0D3C14B0136",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-12 20:11:47",
+      "lastUsed": "2025-08-02 21:05:36"
+    },
+    "kalil": {
+      "password": "1",
+      "hwid": "42536F80-C4C2-11E2-B01C-8851FB46C861",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-12 20:45:25",
+      "lastUsed": "2025-07-25 11:27:07"
+    },
+    "waheed": {
+      "password": "1",
+      "hwid": "4C4C4544-0030-5710-8043-C2C04F473432",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-18 08:58:50",
+      "lastUsed": "2025-07-21 17:24:28"
+    },
+    "jony": {
+      "password": "1",
+      "hwid": "71666C28-8D03-4A3F-765E-04D4C4ADE15E",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-20 19:46:52",
+      "lastUsed": "2025-07-28 22:04:14"
+    },
+    "zunair": {
+      "password": "1",
+      "hwid": "B7EA2774-4E6D-1320-0924-105832000000",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-22 06:31:51",
+      "lastUsed": "2025-08-05 05:36:02"
+    },
+    "mian": {
+      "password": "1",
+      "hwid": "6634FA1D-9C0B-11E7-9C43-BC0000A60000",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-23 20:44:49",
+      "lastUsed": "2025-08-03 20:26:02"
+    },
+    "tester2": {
+      "password": "1",
+      "hwid": "204A8EC0-D7DA-11DD-99E6-50465DB29340",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-27 19:49:29",
+      "lastUsed": "2025-08-04 12:33:19"
+    },
+    "grim": {
+      "password": "1",
+      "hwid": "0DF71078-F688-D0B7-5BC5-6036B1B46498",
+      "expiryDate": "2025-8-8",
+      "creationDate": "2025-08-05 10:34:32",
+      "lastUsed": "2025-08-05 11:37:29"
+    }
+  },
+  "FAKEDAMAGEFIX": {
+    "maska": {
+      "password": "1",
+      "hwid": "03560274-043C-0552-ED06-1D0700080009",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Fake Damage Safe but don't do this for extra safety :\r\nDON'T LOGOUT YOUR ACCOUNT WHILE PANEL IS APPLIED.\r\nIF YOUR GAME CRASHES DONT OPEN THE GAME DIRECT.FIRST RESTART EMULATOR.\r\nIF YOU PLAY 4 TO 5 GAMES AND SHIFT TO ANOTHER ACCOUNT WITHOUT RESTARTING EMULATOR YOU GOT BAN.",
+      "creationDate": "2025-06-10 15:23:59",
+      "lastUsed": "2025-06-14 20:37:19"
+    },
+    "baristooo": {
+      "password": "1",
+      "hwid": "E3D3B38D-D2AB-11ED-935B-401A58155E15",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Fake Damage Safe but don't do this for extra safety :\r\nDON'T LOGOUT YOUR ACCOUNT WHILE PANEL IS APPLIED.\r\nIF YOUR GAME CRASHES DONT OPEN THE GAME DIRECT.FIRST RESTART EMULATOR.\r\nIF YOU PLAY 4 TO 5 GAMES AND SHIFT TO ANOTHER ACCOUNT WITHOUT RESTARTING EMULATOR YOU GOT BAN.",
+      "creationDate": "2025-06-10 16:03:54",
+      "lastUsed": "2025-07-07 19:50:04"
+    }
+  },
+  "ESP": {
+    "eren": {
+      "password": "1",
+      "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-06-26 03:22:05",
+      "lastUsed": "2025-07-10 01:53:03"
+    },
+    "insane": {
+      "password": "1",
+      "hwid": "4C4C4544-0059-3810-8051-CAC04F355931",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-01 19:39:20",
+      "lastUsed": "2025-08-03 05:36:03"
+    },
+    "4": {
+      "password": "4",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-01 19:48:15"
+    },
+    "erenfree": {
+      "password": "3days",
+      "hwid": "free",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-01 21:23:34",
+      "lastUsed": "2025-08-06 15:49:40"
+    },
+    "esp": {
+      "password": "1",
+      "hwid": "3D93BE4F-B909-11E6-9C43-BC0000540000",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-02 09:37:12",
+      "lastUsed": "2025-07-02 11:48:46"
+    },
+    "notgamer": {
+      "password": "1",
+      "hwid": "00000000-0000-0000-0000-448A5B2774D5",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-02 13:01:55",
+      "lastUsed": "2025-08-01 00:29:40"
+    },
+    "amir": {
+      "password": "1",
+      "hwid": "E91A3D7E-CB7D-E56B-E85E-3497F6A2B419",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-03 17:02:26",
+      "lastUsed": "2025-07-30 13:52:29"
+    },
+    "hammad111": {
+      "password": "1",
+      "hwid": "712599B1-6E3D-32AD-A10D-EDAAE75A9F05",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-03 17:38:20",
+      "lastUsed": "2025-07-05 22:14:03"
+    },
+    "blacky": {
+      "password": "1",
+      "hwid": "37323D23-C854-11E6-9C43-BC0000A80000",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-03 17:45:18",
+      "lastUsed": "2025-07-15 06:07:35"
+    },
+    "rohan": {
+      "password": "11",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-03 18:37:43"
+    },
+    "frenzy": {
+      "password": "11",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-03 18:37:52"
+    },
+    "faded": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-05 05:56:30"
+    },
+    "hasan": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-06 11:18:18"
+    },
+    "mahi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-06 19:33:29"
+    },
+    "bypasscus": {
+      "password": "1",
+      "hwid": "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-06 20:02:40",
+      "lastUsed": "2025-07-07 06:03:22"
+    },
+    "hamza": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-07 15:32:51"
+    }
+  },
+  "B4EVER": {
+    "maska": {
+      "password": "1",
+      "hwid": "03560274-043C-0552-ED06-1D0700080009",
+      "expiryDate": "2025-12-07",
+      "loginMessage": "",
+      "creationDate": "2025-07-11 18:58:51",
+      "lastUsed": "2025-07-27 23:16:30"
+    },
+    "goten": {
+      "password": "1",
+      "hwid": "FD8BD55F-8F6C-F949-6016-60CF84600391",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-11 19:17:29",
+      "lastUsed": "2025-08-01 17:47:20"
+    },
+    "baristo": {
+      "password": "1",
+      "hwid": "E3D3B38D-D2AB-11ED-935B-401A58155E15",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-12 08:01:34",
+      "lastUsed": "2025-08-03 16:49:09"
+    },
+    "zack": {
+      "password": "1",
+      "hwid": "2B176878-E01D-3D97-4D6E-581122C7A7E3",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-21 10:51:11",
+      "lastUsed": "2025-07-26 05:31:23"
+    },
+    "kafi": {
+      "password": "1",
+      "hwid": "D3C28570-6FC7-0000-0000-000000000000",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-21 18:17:49",
+      "lastUsed": "2025-08-06 00:46:09"
+    },
+    "fire": {
+      "password": "1",
+      "hwid": "E7565CE2-D312-11EC-8E57-70A8D3922EF2",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-01 21:43:05",
+      "lastUsed": "2025-08-05 16:55:39"
+    },
+    "abdi": {
+      "password": "1",
+      "hwid": "BEA60288-033A-B616-A1FF-D843AE9FEB17",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-01 21:44:35",
+      "lastUsed": "2025-08-05 00:26:47"
+    },
+    "haji": {
+      "password": "1",
+      "hwid": "7FA37F00-C8EA-7516-A420-345A603DD267",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-04 13:46:03",
+      "lastUsed": "2025-08-06 14:15:37"
+    },
+    "moha": {
+      "password": "1",
+      "hwid": "031B021C-040D-050D-BC06-4D0700080009",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-04 13:48:19",
+      "lastUsed": "2025-08-06 14:14:33"
+    },
+    "caamir": {
+      "password": "1",
+      "hwid": "E9983DEB-AD27-EF11-A4F6-28C5C82CBB59",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-05 15:24:29",
+      "lastUsed": "2025-08-06 15:40:49"
+    }
+  },
+  "AUTHENTICATION": {
+    "maska": {
+      "password": "1",
+      "hwid": "03560274-043C-0552-ED06-1D0700080009",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-11 17:50:31",
+      "lastUsed": "2025-07-25 19:25:51"
+    },
+    "1": {
+      "password": "1",
+      "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-11 17:51:18",
+      "lastUsed": "2025-08-02 09:16:59"
+    },
+    "user12": {
+      "password": "1",
+      "hwid": "E7565CE2-D312-11EC-8E57-70A8D3922EF2",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-04 11:36:09",
+      "lastUsed": "2025-08-04 14:27:44"
+    }
+  },
+  "1": {}
+}

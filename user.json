@@ -243,7 +243,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-08-08 08:25:33",
+      "lastUsed": "2025-08-08 08:24:44",
       "loginMessage": "User Pass Updates Daily !"
     },
     "ali1122": {
@@ -472,10 +472,11 @@
     },
     "faizan": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-004E-3010-8043-B5C04F305231",
       "expiryDate": "No Expiry",
       "loginMessage": "Enjoy Brother !",
-      "creationDate": "2025-08-07 13:13:35"
+      "creationDate": "2025-08-07 13:13:35",
+      "lastUsed": "2025-08-08 08:26:16"
     },
     "matador": {
       "password": "1",

@@ -489,10 +489,11 @@
     },
     "aura": {
       "password": "1",
-      "hwid": "",
+      "hwid": "60A91E94-45C9-E211-89D4-505054503030",
       "expiryDate": "No Expiry",
       "loginMessage": "2 Rupai ki  pepsi edex bhai 6c !",
-      "creationDate": "2025-08-09 13:12:55"
+      "creationDate": "2025-08-09 13:12:55",
+      "lastUsed": "2025-08-10 17:09:32"
     },
     "waleed1": {
       "password": "1",

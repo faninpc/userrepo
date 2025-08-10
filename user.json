@@ -243,7 +243,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-08-10 07:43:00",
+      "lastUsed": "2025-08-10 07:40:57",
       "loginMessage": "User Pass Updates Daily !"
     },
     "ali1122": {
@@ -496,10 +496,11 @@
     },
     "waleed1": {
       "password": "1",
-      "hwid": "",
+      "hwid": "A26AFE6B-069F-E111-9146-0011D838A203",
       "expiryDate": "No Expiry",
       "loginMessage": "Enjoy Brother !",
-      "creationDate": "2025-08-10 05:56:16"
+      "creationDate": "2025-08-10 05:56:16",
+      "lastUsed": "2025-08-10 07:45:23"
     }
   },
   "INSANE": {

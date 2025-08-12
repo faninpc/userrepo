@@ -505,10 +505,11 @@
     },
     "laptop": {
       "password": "1",
-      "hwid": "",
+      "hwid": "CE7CE6E9-7EBD-FFCC-B05D-2C7147BA9F1C",
       "expiryDate": "No Expiry",
       "loginMessage": "2 rupai ki pepsi insane bhai 6c !",
-      "creationDate": "2025-08-11 20:13:23"
+      "creationDate": "2025-08-11 20:13:23",
+      "lastUsed": "2025-08-12 19:17:42"
     }
   },
   "INSANE": {

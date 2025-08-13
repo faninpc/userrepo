@@ -513,10 +513,11 @@
     },
     "mimitos": {
       "password": "1",
-      "hwid": "",
+      "hwid": "8742FCD3-8773-E613-9CBB-C87F54CEF444",
       "expiryDate": "No Expiry",
       "loginMessage": "Enjoy Brother !",
-      "creationDate": "2025-08-13 00:35:14"
+      "creationDate": "2025-08-13 00:35:14",
+      "lastUsed": "2025-08-13 00:47:57"
     }
   },
   "INSANE": {

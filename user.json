@@ -1002,10 +1002,11 @@
   "BYPASS": {
     "1": {
       "password": "1",
-      "hwid": "",
+      "hwid": "CA02F3F3-4501-245C-033D-04D4C4F393E6",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-16 13:01:28"
+      "creationDate": "2025-08-16 13:01:28",
+      "lastUsed": "2025-08-16 13:03:31"
     }
   }
 }

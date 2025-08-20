@@ -1019,5 +1019,13 @@
       "lastUsed": "2025-08-17 12:24:18"
     }
   },
-  "MAXGAMER": {}
+  "MAXGAMER": {
+    "max": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "You are owner of this Exe !",
+      "creationDate": "2025-08-20 17:34:30"
+    }
+  }
 }

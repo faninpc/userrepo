@@ -542,6 +542,13 @@
       "loginMessage": "This user is valid for 1 Week only !",
       "creationDate": "2025-08-20 11:59:26",
       "lastUsed": "2025-08-20 12:55:21"
+    },
+    "draco01": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-21 17:17:07"
     }
   },
   "INSANE": {

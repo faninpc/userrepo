@@ -21,7 +21,7 @@
       "hwid": "CA02F3F3-4501-245C-033D-04D4C4F393E6",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-14 03:22:02",
-      "lastUsed": "2025-08-21 15:28:48",
+      "lastUsed": "2025-08-21 20:06:40",
       "loginMessage": ""
     },
     "arise": {
@@ -780,13 +780,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Testing in Insane DataBase !",
       "creationDate": "2025-08-21 20:02:35"
-    },
-    "eren1": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-21 20:06:27"
     }
   },
   "FAKEDAMAGEFIX": {

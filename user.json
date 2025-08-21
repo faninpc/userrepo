@@ -545,10 +545,11 @@
     },
     "draco01": {
       "password": "1",
-      "hwid": "",
+      "hwid": "03D502E0-045E-0588-FB06-A80700080009",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-21 17:17:07"
+      "creationDate": "2025-08-21 17:17:07",
+      "lastUsed": "2025-08-21 17:34:16"
     }
   },
   "INSANE": {

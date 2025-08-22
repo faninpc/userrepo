@@ -1128,6 +1128,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-22 17:44:08"
+    },
+    "sigma": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-22 17:44:16"
     }
   }
 }

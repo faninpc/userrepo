@@ -243,7 +243,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-08-22 12:02:15",
+      "lastUsed": "2025-08-22 11:50:55",
       "loginMessage": "This User/Pass changes everyday !"
     },
     "ali1122": {
@@ -1064,10 +1064,11 @@
   "CYBER": {
     "eren2": {
       "password": "1",
-      "hwid": "",
+      "hwid": "CA02F3F3-4501-245C-033D-04D4C4F393E6",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-22 11:56:43"
+      "creationDate": "2025-08-22 11:56:43",
+      "lastUsed": "2025-08-22 12:05:17"
     },
     "cyber1": {
       "password": "1",

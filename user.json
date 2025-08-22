@@ -653,7 +653,7 @@
       "hwid": "EF1EC2B8-A823-C65A-26FA-F2EA1E2E7791",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-13 17:16:22",
-      "lastUsed": "2025-08-22 17:14:06",
+      "lastUsed": "2025-08-22 17:12:44",
       "loginMessage": "Enjoy Panel !"
     },
     "doodly": {
@@ -1101,10 +1101,11 @@
     },
     "cyber1": {
       "password": "1",
-      "hwid": "",
+      "hwid": "69D79C7B-8742-11E0-BBDA-D721E5E22C27",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-22 11:56:55"
+      "creationDate": "2025-08-22 11:56:55",
+      "lastUsed": "2025-08-22 17:14:16"
     }
   }
 }

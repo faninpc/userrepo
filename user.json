@@ -1061,5 +1061,13 @@
       "creationDate": "2025-08-21 12:09:48"
     }
   },
-  "CYBER": {}
+  "CYBER": {
+    "eren2": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-22 11:56:43"
+    }
+  }
 }

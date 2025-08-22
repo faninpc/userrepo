@@ -243,7 +243,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-08-22 14:27:13",
+      "lastUsed": "2025-08-22 14:12:35",
       "loginMessage": "This User/Pass changes everyday !"
     },
     "ali1122": {
@@ -1018,10 +1018,11 @@
     },
     "salz": {
       "password": "1",
-      "hwid": "",
+      "hwid": "AE55B26E-6865-F3DE-5121-1CB72CDDB1DA",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-21 14:33:13"
+      "creationDate": "2025-08-21 14:33:13",
+      "lastUsed": "2025-08-22 14:29:48"
     }
   },
   "BYPASS": {

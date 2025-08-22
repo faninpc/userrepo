@@ -1099,10 +1099,11 @@
     },
     "doma7day": {
       "password": "doma7day",
-      "hwid": "",
+      "hwid": "D0CA8BA3-7F34-8F24-0A8E-581122D97037",
       "expiryDate": "2025-08-30",
       "loginMessage": "",
-      "creationDate": "2025-08-22 17:42:39"
+      "creationDate": "2025-08-22 17:42:39",
+      "lastUsed": "2025-08-22 18:08:46"
     }
   },
   "CYBER": {

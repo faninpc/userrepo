@@ -21,7 +21,7 @@
       "hwid": "CA02F3F3-4501-245C-033D-04D4C4F393E6",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-14 03:22:02",
-      "lastUsed": "2025-08-22 10:40:10",
+      "lastUsed": "2025-08-22 12:01:16",
       "loginMessage": ""
     },
     "arise": {
@@ -1064,11 +1064,10 @@
   "CYBER": {
     "eren2": {
       "password": "1",
-      "hwid": "CA02F3F3-4501-245C-033D-04D4C4F393E6",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-22 11:56:43",
-      "lastUsed": "2025-08-22 12:00:46"
+      "creationDate": "2025-08-22 11:56:43"
     },
     "cyber1": {
       "password": "1",

@@ -1088,7 +1088,7 @@
       "expiryDate": "2025-09-22",
       "loginMessage": "",
       "creationDate": "2025-08-22 15:33:02",
-      "lastUsed": "2025-08-22 17:37:55"
+      "lastUsed": "2025-08-22 17:46:51"
     },
     "doma7day": {
       "password": "doma7day",
@@ -1114,34 +1114,6 @@
       "loginMessage": "",
       "creationDate": "2025-08-22 11:56:55",
       "lastUsed": "2025-08-22 17:14:16"
-    },
-    "chandia": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-22 17:43:56"
-    },
-    "saad": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-22 17:44:08"
-    },
-    "sigma": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-22 17:44:16"
-    },
-    "fz": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-22 17:44:23"
     }
   }
 }

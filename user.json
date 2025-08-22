@@ -243,7 +243,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-08-22 14:12:35",
+      "lastUsed": "2025-08-22 14:41:31",
       "loginMessage": "This User/Pass changes everyday !"
     },
     "ali1122": {
@@ -1059,13 +1059,6 @@
       "expiryDate": "2025-06-29",
       "loginMessage": "",
       "creationDate": "2025-08-22 14:36:54"
-    },
-    "vin7day": {
-      "password": "vin7day",
-      "hwid": "",
-      "expiryDate": "2025-06-29",
-      "loginMessage": "",
-      "creationDate": "2025-08-22 14:39:07"
     }
   },
   "CYBER": {

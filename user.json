@@ -1052,6 +1052,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Testing Purpose !",
       "creationDate": "2025-08-21 12:09:48"
+    },
+    "reak7day": {
+      "password": "reak7day",
+      "hwid": "",
+      "expiryDate": "2025-06-29",
+      "loginMessage": "",
+      "creationDate": "2025-08-22 14:36:54"
     }
   },
   "CYBER": {

@@ -1108,10 +1108,11 @@
     },
     "kg7d": {
       "password": "kg7d",
-      "hwid": "",
+      "hwid": "F156AA06-E4F4-BA4F-826A-ECA15064ED99",
       "expiryDate": "2025-08-30",
       "loginMessage": "",
-      "creationDate": "2025-08-22 18:59:37"
+      "creationDate": "2025-08-22 18:59:37",
+      "lastUsed": "2025-08-22 19:30:52"
     }
   },
   "CYBER": {

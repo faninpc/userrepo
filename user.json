@@ -393,14 +393,6 @@
       "creationDate": "2025-07-07 18:46:58",
       "lastUsed": "2025-07-08 03:03:12"
     },
-    "boost2": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2025-08-06 17:51:04",
-      "creationDate": "2025-07-23 17:51:16",
-      "lastUsed": "2025-07-24 12:42:11",
-      "loginMessage": "Enjoy Panel"
-    },
     "papi": {
       "password": "1",
       "hwid": "D7684A55-898C-511B-AA48-D843AE4496DB",
@@ -424,13 +416,6 @@
       "loginMessage": "Enjoy Oggy Bro !",
       "creationDate": "2025-08-03 12:23:59",
       "lastUsed": "2025-08-03 12:27:47"
-    },
-    "baristo": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2025-08-06",
-      "loginMessage": "Only for 2 Days !",
-      "creationDate": "2025-08-04 03:41:39"
     },
     "mashrafee": {
       "password": "1",
@@ -1067,20 +1052,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Testing Purpose !",
       "creationDate": "2025-08-21 12:09:48"
-    },
-    "reak7day": {
-      "password": "reak7day",
-      "hwid": "",
-      "expiryDate": "2025-06-29",
-      "loginMessage": "",
-      "creationDate": "2025-08-22 14:36:54"
-    },
-    "vin7day": {
-      "password": "vin7day",
-      "hwid": "",
-      "expiryDate": "2025-06-29",
-      "loginMessage": "",
-      "creationDate": "2025-08-22 15:00:53"
     },
     "reak7days": {
       "password": "reak7days",

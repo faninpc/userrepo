@@ -1070,11 +1070,10 @@
     },
     "salz123": {
       "password": "salz123",
-      "hwid": "AE55B26E-6865-F3DE-5121-1CB72CDDB1DA",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "MYself",
-      "creationDate": "2025-08-22 15:22:02",
-      "lastUsed": "2025-08-22 17:36:54"
+      "creationDate": "2025-08-22 15:22:02"
     },
     "vin7day": {
       "password": "vin7day",
@@ -1089,7 +1088,7 @@
       "expiryDate": "2025-09-22",
       "loginMessage": "",
       "creationDate": "2025-08-22 15:33:02",
-      "lastUsed": "2025-08-22 17:26:00"
+      "lastUsed": "2025-08-22 17:37:55"
     }
   },
   "CYBER": {

@@ -1066,6 +1066,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "MYself",
       "creationDate": "2025-08-22 15:22:02"
+    },
+    "vin7day": {
+      "password": "vin7day",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-22 15:22:20"
     }
   },
   "CYBER": {

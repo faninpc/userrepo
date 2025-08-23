@@ -1086,10 +1086,11 @@
     },
     "vin7day": {
       "password": "vin7day",
-      "hwid": "",
+      "hwid": "CEBBEC32-814D-BF4D-BD4A-4BFA80E80BC6",
       "expiryDate": "2025-08-29",
       "loginMessage": "",
-      "creationDate": "2025-08-22 15:22:20"
+      "creationDate": "2025-08-22 15:22:20",
+      "lastUsed": "2025-08-23 12:02:08"
     },
     "Michikatsu30Day": {
       "password": "Michikatsu123",

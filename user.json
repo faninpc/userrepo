@@ -791,9 +791,10 @@
     },
     "rajab": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0046-5010-8047-B6C04F503232",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-08-24 16:43:13"
+      "creationDate": "2025-08-24 16:43:13",
+      "lastUsed": "2025-08-24 16:59:39"
     }
   },
   "FAKEDAMAGEFIX": {

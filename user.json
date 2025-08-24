@@ -550,6 +550,13 @@
       "loginMessage": "This user is valid for 3 Hours !",
       "creationDate": "2025-08-22 17:47:12",
       "lastUsed": "2025-08-22 19:16:49"
+    },
+    "maaz": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-24 16:27:08"
     }
   },
   "INSANE": {

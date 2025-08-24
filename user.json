@@ -787,6 +787,12 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Testing in Insane DataBase !",
       "creationDate": "2025-08-21 20:02:35"
+    },
+    "rajab": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-08-24 16:43:13"
     }
   },
   "FAKEDAMAGEFIX": {

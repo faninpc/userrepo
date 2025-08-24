@@ -553,10 +553,11 @@
     },
     "maaz": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0056-4210-804C-C6C04F5A3432",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-24 16:27:08"
+      "creationDate": "2025-08-24 16:27:08",
+      "lastUsed": "2025-08-24 16:50:42"
     }
   },
   "INSANE": {

@@ -1119,10 +1119,11 @@
     },
     "hong30day": {
       "password": "hong30day",
-      "hwid": "",
+      "hwid": "39444335-3834-4C32-3458-040E3CC29A78",
       "expiryDate": "2025-09-24",
       "loginMessage": "",
-      "creationDate": "2025-08-24 14:28:05"
+      "creationDate": "2025-08-24 14:28:05",
+      "lastUsed": "2025-08-24 14:28:49"
     }
   },
   "CYBER": {

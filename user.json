@@ -784,10 +784,11 @@
     },
     "eren": {
       "password": "1",
-      "hwid": "",
+      "hwid": "140B51C8-EDCE-11E5-8043-0C7F8F101700",
       "expiryDate": "No Expiry",
       "loginMessage": "Testing in Insane DataBase !",
-      "creationDate": "2025-08-21 20:02:35"
+      "creationDate": "2025-08-21 20:02:35",
+      "lastUsed": "2025-08-25 17:14:28"
     },
     "rajab": {
       "password": "1",

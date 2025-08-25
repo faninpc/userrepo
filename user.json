@@ -1150,10 +1150,11 @@
     },
     "makara30day": {
       "password": "makara30day",
-      "hwid": "",
+      "hwid": "9EED464F-B6D2-8446-907A-74F8A6351364",
       "expiryDate": "2025-09-25",
       "loginMessage": "",
-      "creationDate": "2025-08-25 12:38:44"
+      "creationDate": "2025-08-25 12:38:44",
+      "lastUsed": "2025-08-25 13:12:40"
     }
   },
   "CYBER": {

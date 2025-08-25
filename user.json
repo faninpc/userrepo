@@ -561,10 +561,11 @@
     },
     "vaibhav": {
       "password": "1",
-      "hwid": "",
+      "hwid": "75310B67-3D80-11EF-A4F7-40C2BA5DDAAC",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-25 09:38:56"
+      "creationDate": "2025-08-25 09:38:56",
+      "lastUsed": "2025-08-25 09:41:09"
     }
   },
   "INSANE": {

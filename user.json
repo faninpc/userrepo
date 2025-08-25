@@ -1147,6 +1147,13 @@
       "loginMessage": "",
       "creationDate": "2025-08-25 08:55:52",
       "lastUsed": "2025-08-25 12:28:50"
+    },
+    "makara30day": {
+      "password": "makara30day",
+      "hwid": "",
+      "expiryDate": "2025-09-25",
+      "loginMessage": "",
+      "creationDate": "2025-08-25 12:38:44"
     }
   },
   "CYBER": {

@@ -1138,7 +1138,7 @@
       "expiryDate": "2025-09-24",
       "loginMessage": "",
       "creationDate": "2025-08-24 14:28:05",
-      "lastUsed": "2025-08-24 14:43:43"
+      "lastUsed": "2025-08-25 13:14:23"
     },
     "visa30day": {
       "password": "visa30day",
@@ -1150,11 +1150,10 @@
     },
     "makara30day": {
       "password": "makara30day",
-      "hwid": "9EED464F-B6D2-8446-907A-74F8A6351364",
+      "hwid": "",
       "expiryDate": "2025-09-25",
       "loginMessage": "",
-      "creationDate": "2025-08-25 12:38:44",
-      "lastUsed": "2025-08-25 13:13:15"
+      "creationDate": "2025-08-25 12:38:44"
     }
   },
   "CYBER": {

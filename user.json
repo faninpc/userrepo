@@ -789,6 +789,12 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-08-24 16:43:13",
       "lastUsed": "2025-08-25 18:10:50"
+    },
+    "romi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-08-25 19:49:37"
     }
   },
   "FAKEDAMAGEFIX": {

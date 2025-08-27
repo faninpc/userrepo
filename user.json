@@ -1082,6 +1082,13 @@
       "loginMessage": "You are owner of this Exe !",
       "creationDate": "2025-08-20 17:34:30",
       "lastUsed": "2025-08-27 12:55:52"
+    },
+    "maxgamer": {
+      "password": "freeuser1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-27 13:07:08"
     }
   },
   "SALZ": {

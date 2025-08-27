@@ -1057,10 +1057,11 @@
     },
     "max": {
       "password": "1",
-      "hwid": "",
+      "hwid": "8E6A1676-3E91-11E7-8FF5-54E1AD282B0B",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-27 13:04:28"
+      "creationDate": "2025-08-27 13:04:28",
+      "lastUsed": "2025-08-27 13:05:07"
     }
   },
   "BYPASS": {

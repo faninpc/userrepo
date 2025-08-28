@@ -230,14 +230,6 @@
       "lastUsed": "2025-08-28 08:05:46",
       "loginMessage": "Enjoy Panel"
     },
-    "dailyuser63": {
-      "password": "dailypass46",
-      "hwid": "dfc76c9424263be4a7aeb059e37f3ad7ce3345cb465738d9051fa5e1584e9ba4",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-08-28 14:09:30",
-      "loginMessage": ""
-    },
     "ali1122": {
       "password": "1",
       "hwid": "",
@@ -545,11 +537,11 @@
     },
     "maaz": {
       "password": "1",
-      "hwid": "",
+      "hwid": "df8a7a1d4c3250bc29fdef8d8680c2f9fbface7980dbae3d9ab3cd87fe4f03b2",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-24 16:27:08",
-      "lastUsed": "2025-08-25 03:01:31"
+      "lastUsed": "2025-08-28 14:36:03"
     },
     "vaibhav": {
       "password": "1",
@@ -558,6 +550,13 @@
       "loginMessage": "",
       "creationDate": "2025-08-26 04:46:11",
       "lastUsed": "2025-08-28 04:56:19"
+    },
+    "dailyuser99": {
+      "password": "dailypass99",
+      "hwid": "free",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-28 14:32:14"
     }
   },
   "INSANE": {
@@ -684,7 +683,7 @@
       "hwid": "73B9AC95-D91B-12D7-2B30-727E3D84D577",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-06 16:13:43",
-      "lastUsed": "2025-08-28 14:34:27",
+      "lastUsed": "2025-08-28 10:06:54",
       "loginMessage": "Enjoy Panel !"
     },
     "ffhamza": {

@@ -560,10 +560,11 @@
     },
     "arqum6c": {
       "password": "1",
-      "hwid": "",
+      "hwid": "7ee650b8a35fb81de3b3cfcc7fb16a744f01955972c72b54a14b9de201add416",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-28 16:06:09"
+      "creationDate": "2025-08-28 16:06:09",
+      "lastUsed": "2025-08-28 16:33:44"
     }
   },
   "INSANE": {

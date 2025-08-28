@@ -177,10 +177,10 @@
     },
     "haris": {
       "password": "1",
-      "hwid": "",
+      "hwid": "6443CC51-7A3E-11E6-9C43-BC0000D60000",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-06 16:31:55",
-      "lastUsed": "2025-06-23 15:42:46",
+      "lastUsed": "2025-08-28 07:46:44",
       "loginMessage": "Enjoy Panel"
     },
     "mee": {
@@ -1054,7 +1054,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-27 13:04:28",
-      "lastUsed": "2025-08-28 07:43:39"
+      "lastUsed": "2025-08-27 14:25:36"
     }
   },
   "BYPASS": {
@@ -1074,7 +1074,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "You are owner of this Exe !",
       "creationDate": "2025-08-20 17:34:30",
-      "lastUsed": "2025-08-28 07:42:14"
+      "lastUsed": "2025-08-27 16:28:53"
     },
     "maxgamer": {
       "password": "freeuser2",
@@ -1082,13 +1082,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-27 13:07:08"
-    },
-    "manu": {
-      "password": "2",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-28 07:45:36"
     }
   },
   "SALZ": {

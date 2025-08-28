@@ -66,10 +66,10 @@
     },
     "sami": {
       "password": "1",
-      "hwid": "",
+      "hwid": "03000200-0400-0500-0006-000700080009",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-18 16:38:23",
-      "lastUsed": "2025-08-28 05:22:17",
+      "lastUsed": "2025-08-28 14:14:44",
       "loginMessage": "Enjoy Panel"
     },
     "hamad": {
@@ -232,10 +232,10 @@
     },
     "dailyuser63": {
       "password": "dailypass46",
-      "hwid": "032E02B4-0499-054D-EC06-400700080009",
+      "hwid": "dfc76c9424263be4a7aeb059e37f3ad7ce3345cb465738d9051fa5e1584e9ba4",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-08-28 14:12:31",
+      "lastUsed": "2025-08-28 14:09:30",
       "loginMessage": ""
     },
     "ali1122": {

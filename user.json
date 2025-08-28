@@ -1150,11 +1150,11 @@
     },
     "hong30day": {
       "password": "hong30day",
-      "hwid": "",
+      "hwid": "99ff711293bc92ed86da16867aee9237ae92c17e968c4cb6700ce9e880223749",
       "expiryDate": "2025-09-24",
       "loginMessage": "",
       "creationDate": "2025-08-24 14:28:05",
-      "lastUsed": "2025-08-25 15:13:24"
+      "lastUsed": "2025-08-28 12:36:20"
     },
     "visa30day": {
       "password": "visa30day",

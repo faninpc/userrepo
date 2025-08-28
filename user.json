@@ -1173,10 +1173,11 @@
     },
     "sing30days": {
       "password": "sing30days",
-      "hwid": "",
+      "hwid": "ccf40629c6020b9005f633bac6dc9e06119e45bad349248a4e53722680fdc4c6",
       "expiryDate": "2025-09-28",
       "loginMessage": "Sing",
-      "creationDate": "2025-08-28 15:28:56"
+      "creationDate": "2025-08-28 15:28:56",
+      "lastUsed": "2025-08-28 15:29:55"
     }
   },
   "CYBER": {

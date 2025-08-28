@@ -1170,6 +1170,13 @@
       "loginMessage": "",
       "creationDate": "2025-08-25 12:38:44",
       "lastUsed": "2025-08-28 07:58:54"
+    },
+    "sing30days": {
+      "password": "sing30days",
+      "hwid": "",
+      "expiryDate": "2025-09-28",
+      "loginMessage": "Sing",
+      "creationDate": "2025-08-28 15:28:56"
     }
   },
   "CYBER": {

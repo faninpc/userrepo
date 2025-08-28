@@ -803,6 +803,12 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-08-25 19:49:37",
       "lastUsed": "2025-08-26 20:19:24"
+    },
+    "1daybyinsane": {
+      "password": "freepanel",
+      "hwid": "",
+      "expiryDate": "2025-08-30",
+      "creationDate": "2025-08-28 17:33:57"
     }
   },
   "FAKEDAMAGEFIX": {

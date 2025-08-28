@@ -1175,7 +1175,7 @@
   "CYBER": {
     "eren2": {
       "password": "1",
-      "hwid": "CA02F3F3-4501-245C-033D-04D4C4F393E6",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-22 11:56:43",
@@ -1183,7 +1183,7 @@
     },
     "cyber1": {
       "password": "1",
-      "hwid": "69D79C7B-8742-11E0-BBDA-D721E5E22C27",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-22 11:56:55",

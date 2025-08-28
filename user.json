@@ -1205,6 +1205,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-28 03:34:04"
+    },
+    "draco": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-28 03:34:20"
     }
   }
 }

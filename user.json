@@ -1198,6 +1198,13 @@
       "loginMessage": "",
       "creationDate": "2025-08-28 03:39:29",
       "lastUsed": "2025-08-28 03:55:02"
+    },
+    "draco": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-28 04:09:47"
     }
   },
   "SNIPER": {}

@@ -691,7 +691,7 @@
       "hwid": "73B9AC95-D91B-12D7-2B30-727E3D84D577",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-06 16:13:43",
-      "lastUsed": "2025-08-28 03:10:21",
+      "lastUsed": "2025-08-28 03:33:52",
       "loginMessage": "Enjoy Panel !"
     },
     "ffhamza": {
@@ -1198,20 +1198,5 @@
       "lastUsed": "2025-08-23 19:16:52"
     }
   },
-  "AIM": {
-    "draco": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-28 03:33:18"
-    },
-    "draco1": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-28 03:33:25"
-    }
-  }
+  "AIM": {}
 }

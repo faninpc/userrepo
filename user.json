@@ -2,7 +2,7 @@
   "EREN": {
     "2": {
       "password": "2",
-      "hwid": "4C4C4544-0052-3410-8038-C6C04F594332",
+      "hwid": "",
       "expiryDate": "2222-02-02",
       "creationDate": "2025-03-12 00:10:28",
       "lastUsed": "2025-08-28 11:47:31",
@@ -18,7 +18,7 @@
     },
     "eren": {
       "password": "1",
-      "hwid": "f9d1f7862d087b79057b92079a42fa71f58bdce59350896ee9196a470dcfaac1",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-14 03:22:02",
       "lastUsed": "2025-08-28 09:51:22",
@@ -66,7 +66,7 @@
     },
     "sami": {
       "password": "1",
-      "hwid": "03000200-0400-0500-0006-000700080009",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-18 16:38:23",
       "lastUsed": "2025-08-28 05:22:17",
@@ -121,7 +121,7 @@
     },
     "mehar": {
       "password": "1",
-      "hwid": "4C4C4544-0058-3410-8030-B4C04F563732",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-04-25 10:02:15",
       "lastUsed": "2025-08-28 05:34:16",
@@ -145,7 +145,7 @@
     },
     "awais": {
       "password": "1",
-      "hwid": "4C4C4544-004E-5410-804D-C4C04F313032",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-01 06:27:57",
       "lastUsed": "2025-08-28 18:17:05",
@@ -177,7 +177,7 @@
     },
     "haris": {
       "password": "1",
-      "hwid": "6443CC51-7A3E-11E6-9C43-BC0000D60000",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-06 16:31:55",
       "lastUsed": "2025-08-28 07:46:44",
@@ -185,7 +185,7 @@
     },
     "mee": {
       "password": "1",
-      "hwid": "ae5009762526e7c6a86721f8e1bcc8b68e3a4270bfe005651905504a36c82810",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-08 07:09:18",
       "lastUsed": "2025-08-28 12:16:46",
@@ -224,7 +224,7 @@
     },
     "habib123": {
       "password": "1",
-      "hwid": "5eff9ab1af60736a99cdf2ea8d83aa3d1c3f5aa1011a574402aa3a63a7efb472",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-16 14:00:23",
       "lastUsed": "2025-08-28 08:05:46",
@@ -232,7 +232,7 @@
     },
     "dailyuser63": {
       "password": "dailypass46",
-      "hwid": "free",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
       "lastUsed": "2025-08-28 12:37:53",
@@ -301,7 +301,7 @@
     },
     "insane": {
       "password": "1",
-      "hwid": "35389B80-7FE8-11E4-903A-C4346B6BBE4E",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-06-02 08:16:28",
       "lastUsed": "2025-08-28 08:48:01",
@@ -309,7 +309,7 @@
     },
     "insane6c": {
       "password": "1",
-      "hwid": "cae34f3e0d904f3bccb3f938c2d499b23725685dbb1be7a31c909720c9bf4343",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-06-02 08:16:49",
       "lastUsed": "2025-08-28 13:27:58",
@@ -371,7 +371,7 @@
     },
     "amir": {
       "password": "1",
-      "hwid": "c3f7fa269697728e9370bcfc310db7002333c5d4eebea183c6a919b84e1d95c3",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Enjoy Panel",
       "creationDate": "2025-07-03 15:47:22",
@@ -411,7 +411,7 @@
     },
     "mashrafee": {
       "password": "1",
-      "hwid": "318eeedd31265e3b02820a0f7c0ce80411961b6c5326dba9a5b524acae8faf60",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Mashrafee don't love me anymore !",
       "creationDate": "2025-08-04 12:06:25",
@@ -426,7 +426,7 @@
     },
     "8155": {
       "password": "1",
-      "hwid": "9d86e19d177706b54790ca225d35c1eec2e60c219b5e2ba1ffe09dcaeab70c33",
+      "hwid": "",
       "expiryDate": "2222-02-22",
       "creationDate": "2025-06-16T20:28:18.471Z",
       "loginMessage": "Enjoy Panel",
@@ -482,7 +482,7 @@
     },
     "arqum": {
       "password": "1",
-      "hwid": "39d00ba15ac6888410adbdea236692cf3b2c8206c1f3d7701ae7d7072b2514df",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Enjoy Brother u are one of the best lesbian i met on discord !",
       "creationDate": "2025-08-17 18:00:10",
@@ -529,7 +529,7 @@
     },
     "aarexx": {
       "password": "1",
-      "hwid": "3E453B00-51B5-1017-A9D1-BD52812BFA61",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "3500 PKR REMAINING PAYMENT !",
       "creationDate": "2025-08-22 15:44:50",

@@ -935,7 +935,7 @@
   "B4EVER": {
     "maska": {
       "password": "1",
-      "hwid": "03560274-043C-0552-ED06-1D0700080009",
+      "hwid": "",
       "expiryDate": "2025-12-07",
       "loginMessage": "",
       "creationDate": "2025-07-11 18:58:51",
@@ -943,7 +943,7 @@
     },
     "goten": {
       "password": "1",
-      "hwid": "FD8BD55F-8F6C-F949-6016-60CF84600391",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-11 19:17:29",
@@ -951,7 +951,7 @@
     },
     "baristo": {
       "password": "1",
-      "hwid": "E3D3B38D-D2AB-11ED-935B-401A58155E15",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-12 08:01:34",
@@ -959,7 +959,7 @@
     },
     "zack": {
       "password": "1",
-      "hwid": "2B176878-E01D-3D97-4D6E-581122C7A7E3",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-21 10:51:11",
@@ -967,7 +967,7 @@
     },
     "kafi": {
       "password": "1",
-      "hwid": "D3C28570-6FC7-0000-0000-000000000000",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-21 18:17:49",
@@ -975,7 +975,7 @@
     },
     "fire": {
       "password": "1",
-      "hwid": "E7565CE2-D312-11EC-8E57-70A8D3922EF2",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-01 21:43:05",
@@ -983,7 +983,7 @@
     },
     "abdi": {
       "password": "1",
-      "hwid": "BEA60288-033A-B616-A1FF-D843AE9FEB17",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-01 21:44:35",
@@ -991,7 +991,7 @@
     },
     "haji": {
       "password": "1",
-      "hwid": "7FA37F00-C8EA-7516-A420-345A603DD267",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-04 13:46:03",
@@ -999,7 +999,7 @@
     },
     "moha": {
       "password": "1",
-      "hwid": "031B021C-040D-050D-BC06-4D0700080009",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-04 13:48:19",
@@ -1007,7 +1007,7 @@
     },
     "caamir": {
       "password": "1",
-      "hwid": "E9983DEB-AD27-EF11-A4F6-28C5C82CBB59",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-05 15:24:29",

@@ -551,7 +551,7 @@
       "creationDate": "2025-08-26 04:46:11",
       "lastUsed": "2025-08-29 04:47:29"
     },
-    "dailyuser99": {
+    "dailyuser63": {
       "password": "dailypass99",
       "hwid": "free",
       "expiryDate": "No Expiry",
@@ -1237,4 +1237,5 @@
     }
   },
   "SNIPER": {}
+
 }

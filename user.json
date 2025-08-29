@@ -1068,7 +1068,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-27 13:04:28",
-      "lastUsed": "2025-08-29 15:42:37"
+      "lastUsed": "2025-08-29 15:31:31"
     }
   },
   "BYPASS": {
@@ -1106,10 +1106,11 @@
     },
     "manu": {
       "password": "1",
-      "hwid": "",
+      "hwid": "9fae826ad2fd4fc15b6afacafc64c2fa56db2dfe16b99bbd37f4658948097f35",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-29 13:55:48"
+      "creationDate": "2025-08-29 13:55:48",
+      "lastUsed": "2025-08-29 15:43:12"
     }
   },
   "SALZ": {

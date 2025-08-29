@@ -813,9 +813,10 @@
     },
     "mzmr": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0046-4710-804C-B9C04F334832",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-08-29 16:37:45"
+      "creationDate": "2025-08-29 16:37:45",
+      "lastUsed": "2025-08-29 16:43:49"
     }
   },
   "FAKEDAMAGEFIX": {

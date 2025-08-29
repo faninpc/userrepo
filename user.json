@@ -810,6 +810,12 @@
       "expiryDate": "2025-08-30",
       "creationDate": "2025-08-28 17:33:57",
       "lastUsed": "2025-08-29 09:58:42"
+    },
+    "mzmr": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-08-29 16:37:45"
     }
   },
   "FAKEDAMAGEFIX": {

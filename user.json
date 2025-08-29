@@ -1082,7 +1082,7 @@
     },
     "bypassfree": {
       "password": "3daystrial",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-29 15:35:31"

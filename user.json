@@ -1224,6 +1224,13 @@
       "loginMessage": "",
       "creationDate": "2025-08-30 07:06:42",
       "lastUsed": "2025-08-30 13:16:26"
+    },
+    "reak30days": {
+      "password": "reak30days",
+      "hwid": "",
+      "expiryDate": "2025-09-30",
+      "loginMessage": "",
+      "creationDate": "2025-08-30 14:58:12"
     }
   },
   "CYBER": {

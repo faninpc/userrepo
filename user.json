@@ -488,14 +488,6 @@
       "creationDate": "2025-08-18 19:25:34",
       "lastUsed": "2025-08-21 11:48:09"
     },
-    "toch1": {
-      "password": "12",
-      "hwid": "",
-      "expiryDate": "2025-08-27",
-      "loginMessage": "This user is valid for 1 Week only !",
-      "creationDate": "2025-08-20 11:59:26",
-      "lastUsed": "2025-08-20 12:55:21"
-    },
     "draco01": {
       "password": "1",
       "hwid": "",
@@ -511,13 +503,6 @@
       "loginMessage": "",
       "creationDate": "2025-08-22 14:42:42",
       "lastUsed": "2025-08-29 08:24:33"
-    },
-    "boost4": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2025-08-26",
-      "loginMessage": "",
-      "creationDate": "2025-08-22 15:04:51"
     },
     "aarexx": {
       "password": "1",
@@ -804,13 +789,6 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-08-25 19:49:37",
       "lastUsed": "2025-08-26 20:19:24"
-    },
-    "1daybyinsane": {
-      "password": "freepanel",
-      "hwid": "free",
-      "expiryDate": "2025-08-30",
-      "creationDate": "2025-08-28 17:33:57",
-      "lastUsed": "2025-08-29 09:58:42"
     },
     "mzmr": {
       "password": "1",
@@ -1129,14 +1107,6 @@
       "loginMessage": "Testing Purpose !",
       "creationDate": "2025-08-21 12:09:48"
     },
-    "reak7days": {
-      "password": "reak7days",
-      "hwid": "",
-      "expiryDate": "2025-08-29",
-      "loginMessage": "",
-      "creationDate": "2025-08-22 15:18:17",
-      "lastUsed": "2025-08-28 23:48:07"
-    },
     "salz123": {
       "password": "salz123",
       "hwid": "free",
@@ -1145,14 +1115,6 @@
       "creationDate": "2025-08-22 15:22:02",
       "lastUsed": "2025-08-23 09:42:58"
     },
-    "vin7day": {
-      "password": "vin7day",
-      "hwid": "CEBBEC32-814D-BF4D-BD4A-4BFA80E80BC6",
-      "expiryDate": "2025-08-29",
-      "loginMessage": "",
-      "creationDate": "2025-08-22 15:22:20",
-      "lastUsed": "2025-08-23 12:04:38"
-    },
     "Michikatsu30Day": {
       "password": "Michikatsu123",
       "hwid": "AD8E6C0C-4075-E44B-B46E-4D6D18E242EA",
@@ -1160,30 +1122,6 @@
       "loginMessage": "",
       "creationDate": "2025-08-22 15:33:02",
       "lastUsed": "2025-08-28 18:38:14"
-    },
-    "doma7day": {
-      "password": "doma7day",
-      "hwid": "D0CA8BA3-7F34-8F24-0A8E-581122D97037",
-      "expiryDate": "2025-08-30",
-      "loginMessage": "",
-      "creationDate": "2025-08-22 17:42:39",
-      "lastUsed": "2025-08-24 09:33:58"
-    },
-    "kg7d": {
-      "password": "kg7d",
-      "hwid": "F156AA06-E4F4-BA4F-826A-ECA15064ED99",
-      "expiryDate": "2025-08-30",
-      "loginMessage": "",
-      "creationDate": "2025-08-22 18:59:37",
-      "lastUsed": "2025-08-27 14:43:57"
-    },
-    "DRKH7D": {
-      "password": "DRKH7D",
-      "hwid": "E4554120-A258-11E5-AEBB-9C5C8E756E77",
-      "expiryDate": "2025-08-30",
-      "loginMessage": "",
-      "creationDate": "2025-08-23 07:52:31",
-      "lastUsed": "2025-08-27 00:22:06"
     },
     "hong30day": {
       "password": "hong30day",

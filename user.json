@@ -1216,6 +1216,13 @@
       "loginMessage": "Sing",
       "creationDate": "2025-08-28 15:28:56",
       "lastUsed": "2025-08-28 15:29:55"
+    },
+    "reak30days": {
+      "password": "reak30days",
+      "hwid": "",
+      "expiryDate": "2025-09-30",
+      "loginMessage": "",
+      "creationDate": "2025-08-30 03:32:32"
     }
   },
   "CYBER": {

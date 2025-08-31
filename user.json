@@ -811,13 +811,6 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-08-29 16:37:45",
       "lastUsed": "2025-08-31 03:43:06"
-    },
-    "insane1day": {
-      "password": "1day",
-      "hwid": "free",
-      "expiryDate": "2025-09-01",
-      "creationDate": "2025-08-30 09:08:22",
-      "lastUsed": "2025-08-30 14:00:11"
     }
   },
   "FAKEDAMAGEFIX": {

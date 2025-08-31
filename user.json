@@ -66,10 +66,11 @@
     },
     "hamad": {
       "password": "1",
-      "hwid": "",
+      "hwid": "CC51F4BA-8BB6-EA11-8104-BCE92FEF83BA",
       "expiryDate": "No Expiry",
       "creationDate": "2025-04-04 12:56:23",
-      "loginMessage": "Enjoy Panel"
+      "loginMessage": "Enjoy Panel",
+      "lastUsed": "2025-08-31 12:59:06"
     },
     "hakim": {
       "password": "1",

@@ -539,10 +539,11 @@
     },
     "dono974": {
       "password": "1",
-      "hwid": "",
+      "hwid": "ec4929fccb897533b8a76091407967298e346faa44d442bdde4555154360d7f6",
       "expiryDate": "2025-11-01",
       "loginMessage": "🚨 Important Notice to All Players 🚨 \r\n\n\nMany players are currently facing bans, and this issue is not related to our panel. It appears that Garena has once again intensified its restrictions on emulator users.\n Unfortunately, even fair players—those who have not used any external tools—are being affected. To stay safe, we strongly recommend avoiding the use of emulators whenever possible.\n Please play responsibly and protect your accounts.\n Stay safe!",
-      "creationDate": "2025-09-01 11:37:10"
+      "creationDate": "2025-09-01 11:37:10",
+      "lastUsed": "2025-09-01 13:31:53"
     }
   },
   "INSANE": {

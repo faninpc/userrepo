@@ -669,7 +669,7 @@
       "hwid": "73B9AC95-D91B-12D7-2B30-727E3D84D577",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-06 16:13:43",
-      "lastUsed": "2025-09-01 12:09:03",
+      "lastUsed": "2025-09-01 12:29:04",
       "loginMessage": "Enjoy Panel !"
     },
     "ffhamza": {
@@ -1172,11 +1172,10 @@
     },
     "devit7days": {
       "password": "devit7days",
-      "hwid": "11b29f2f6079aa902e81fec97606a2066d1d1704de2fa2a2475a35f9d05a6146",
+      "hwid": "",
       "expiryDate": "2025-09-07",
       "loginMessage": "",
-      "creationDate": "2025-09-01 12:18:38",
-      "lastUsed": "2025-09-01 12:25:34"
+      "creationDate": "2025-09-01 12:18:38"
     }
   },
   "CYBER": {

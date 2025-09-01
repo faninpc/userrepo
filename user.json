@@ -1172,10 +1172,11 @@
     },
     "devit7days": {
       "password": "devit7days",
-      "hwid": "",
+      "hwid": "11b29f2f6079aa902e81fec97606a2066d1d1704de2fa2a2475a35f9d05a6146",
       "expiryDate": "2025-09-07",
       "loginMessage": "",
-      "creationDate": "2025-09-01 12:18:38"
+      "creationDate": "2025-09-01 12:18:38",
+      "lastUsed": "2025-09-01 12:21:51"
     }
   },
   "CYBER": {

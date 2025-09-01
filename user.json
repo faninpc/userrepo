@@ -1152,7 +1152,7 @@
       "expiryDate": "2025-09-28",
       "loginMessage": "Sing",
       "creationDate": "2025-08-28 15:28:56",
-      "lastUsed": "2025-08-31 16:17:44"
+      "lastUsed": "2025-09-01 12:23:47"
     },
     "an7days": {
       "password": "an7days",
@@ -1172,11 +1172,10 @@
     },
     "devit7days": {
       "password": "devit7days",
-      "hwid": "11b29f2f6079aa902e81fec97606a2066d1d1704de2fa2a2475a35f9d05a6146",
+      "hwid": "",
       "expiryDate": "2025-09-07",
       "loginMessage": "",
-      "creationDate": "2025-09-01 12:18:38",
-      "lastUsed": "2025-09-01 12:22:56"
+      "creationDate": "2025-09-01 12:18:38"
     }
   },
   "CYBER": {

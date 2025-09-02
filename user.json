@@ -1170,6 +1170,13 @@
       "loginMessage": "",
       "creationDate": "2025-09-01 12:18:38",
       "lastUsed": "2025-09-01 12:38:00"
+    },
+    "rakmodff30days": {
+      "password": "rakmodff30days",
+      "hwid": "",
+      "expiryDate": "2025-10-03",
+      "loginMessage": "",
+      "creationDate": "2025-09-02 04:56:55"
     }
   },
   "CYBER": {

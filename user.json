@@ -1165,10 +1165,11 @@
     },
     "rakmodff30days": {
       "password": "rakmodff30days",
-      "hwid": "",
+      "hwid": "AEA6ADA6-C3A6-0A17-A769-345A60A3726B",
       "expiryDate": "2025-10-03",
       "loginMessage": "",
-      "creationDate": "2025-09-02 04:56:55"
+      "creationDate": "2025-09-02 04:56:55",
+      "lastUsed": "2025-09-02 08:29:41"
     }
   },
   "CYBER": {

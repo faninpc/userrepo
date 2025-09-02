@@ -542,6 +542,12 @@
       "hwid": "free",
       "expiryDate": "2025-09-03 13:11:56",
       "creationDate": "2025-09-02 13:12:02"
+    },
+    "talha1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-09-02 17:39:09"
     }
   },
   "INSANE": {

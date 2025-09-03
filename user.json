@@ -533,7 +533,8 @@
       "password": "123",
       "hwid": "free",
       "expiryDate": "2025-09-03 13:11:56",
-      "creationDate": "2025-09-02 13:12:02"
+      "creationDate": "2025-09-02 13:12:02",
+      "lastUsed": "2025-09-03 11:55:05"
     },
     "talha1": {
       "password": "1",

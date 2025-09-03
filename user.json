@@ -1183,6 +1183,13 @@
       "loginMessage": "",
       "creationDate": "2025-09-02 04:56:55",
       "lastUsed": "2025-09-02 08:46:48"
+    },
+    "virak30days": {
+      "password": "virak30days",
+      "hwid": "",
+      "expiryDate": "2025-10-04",
+      "loginMessage": "",
+      "creationDate": "2025-09-03 15:28:57"
     }
   },
   "CYBER": {

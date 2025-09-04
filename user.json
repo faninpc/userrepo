@@ -1045,6 +1045,13 @@
       "loginMessage": "",
       "creationDate": "2025-08-27 13:04:28",
       "lastUsed": "2025-08-31 18:01:33"
+    },
+    "cyber": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-09-04 14:34:29"
     }
   },
   "BYPASS": {

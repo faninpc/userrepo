@@ -1184,6 +1184,13 @@
       "loginMessage": "",
       "creationDate": "2025-09-03 15:28:57",
       "lastUsed": "2025-09-04 03:38:20"
+    },
+    "user1_30days": {
+      "password": "123123",
+      "hwid": "",
+      "expiryDate": "2025-10-05",
+      "loginMessage": "",
+      "creationDate": "2025-09-04 10:46:14"
     }
   },
   "CYBER": {

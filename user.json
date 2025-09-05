@@ -1080,10 +1080,11 @@
     },
     "haider": {
       "password": "1",
-      "hwid": "",
+      "hwid": "f47968a404af8233b40cce00c9e102a919f9a3617627888c62f358c4c657cd61",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-09-05 03:42:53"
+      "creationDate": "2025-09-05 03:42:53",
+      "lastUsed": "2025-09-05 12:10:43"
     }
   },
   "MAXGAMER": {

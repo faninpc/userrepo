@@ -1217,10 +1217,11 @@
     },
     "rakuser2x30days": {
       "password": "rakuser2x30days",
-      "hwid": "",
+      "hwid": "539B23B3-878C-C816-AB64-D843AE9CE145",
       "expiryDate": "2025-10-06",
       "loginMessage": "",
-      "creationDate": "2025-09-05 11:51:09"
+      "creationDate": "2025-09-05 11:51:09",
+      "lastUsed": "2025-09-05 11:53:55"
     }
   },
   "CYBER": {

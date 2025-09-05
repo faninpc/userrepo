@@ -5,7 +5,7 @@
       "hwid": "4C4C4544-0052-3410-8038-C6C04F594332",
       "expiryDate": "2222-02-02",
       "creationDate": "2025-03-12 00:10:28",
-      "lastUsed": "2025-09-05 10:25:59",
+      "lastUsed": "2025-09-05 09:03:05",
       "loginMessage": "🚨 Important Notice to All Players 🚨 \r\n\n\nMany players are currently facing bans, and this issue is not related to our panel. It appears that Garena has once again intensified its restrictions on emulator users.\n Unfortunately, even fair players—those who have not used any external tools—are being affected. To stay safe, we strongly recommend avoiding the use of emulators whenever possible.\n Please play responsibly and protect your accounts.\n Stay safe!"
     },
     "eren": {
@@ -1073,10 +1073,11 @@
     },
     "mian": {
       "password": "1",
-      "hwid": "",
+      "hwid": "8dd1c64814b96221365ca4c5fc950c17c28374a07f40e9b5b5fc3008b8aea93b",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-09-05 03:42:45"
+      "creationDate": "2025-09-05 03:42:45",
+      "lastUsed": "2025-09-05 10:27:16"
     },
     "haider": {
       "password": "1",

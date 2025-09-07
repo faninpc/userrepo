@@ -556,13 +556,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-09-07 14:06:49"
-    },
-    "edison": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "Enjoy Panel Brother !",
-      "creationDate": "2025-09-07 16:44:15"
     }
   },
   "INSANE": {
@@ -764,7 +757,7 @@
       "hwid": "6634FA1D-9C0B-11E7-9C43-BC0000A60000",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-23 20:44:49",
-      "lastUsed": "2025-09-07 16:47:05"
+      "lastUsed": "2025-09-07 13:14:49"
     },
     "haider": {
       "password": "1",
@@ -1121,7 +1114,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-29 13:55:48",
-      "lastUsed": "2025-09-07 16:28:19"
+      "lastUsed": "2025-09-07 16:46:06"
     }
   },
   "SALZ": {

@@ -545,10 +545,11 @@
     },
     "sami": {
       "password": "1",
-      "hwid": "",
+      "hwid": "b7b363acb7af5586aa2cb056d5afbc0bd21082720e789b2a0db91d3fe8913162",
       "expiryDate": "No Expiry",
       "loginMessage": "Use Sniper Scope on your own Risk !",
-      "creationDate": "2025-09-07 13:34:57"
+      "creationDate": "2025-09-07 13:34:57",
+      "lastUsed": "2025-09-08 12:02:46"
     },
     "eren": {
       "password": "1",

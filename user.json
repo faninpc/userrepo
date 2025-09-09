@@ -1272,10 +1272,11 @@
     },
     "heacmondays": {
       "password": "heacmondays",
-      "hwid": "",
+      "hwid": "9b7628fd4c6a225d8e4a8e82fcc0bfd198a0872a6448e99b54d12b161e687164",
       "expiryDate": "2025-10-10",
       "loginMessage": "",
-      "creationDate": "2025-09-09 15:56:44"
+      "creationDate": "2025-09-09 15:56:44",
+      "lastUsed": "2025-09-09 17:04:23"
     }
   },
   "CYBER": {

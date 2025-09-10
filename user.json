@@ -575,10 +575,11 @@
     },
     "maaz": {
       "password": "1",
-      "hwid": "",
+      "hwid": "0d3005823d36d02a84aa93e69c83a9d8f368cd6346ca2fda9995d78c5f2c4759",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-09-10 17:46:54"
+      "creationDate": "2025-09-10 17:46:54",
+      "lastUsed": "2025-09-10 17:47:52"
     }
   },
   "INSANE": {

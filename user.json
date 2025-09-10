@@ -1176,7 +1176,7 @@
     },
     "visa30day": {
       "password": "visa30day",
-      "hwid": "",
+      "hwid": "6328ae19ec18833095541e214e5b9c5eb45b65eb7498020cfa7698554ec509a2",
       "expiryDate": "2025-09-25",
       "loginMessage": "",
       "creationDate": "2025-08-25 08:55:52",

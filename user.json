@@ -1176,11 +1176,11 @@
     },
     "visa30day": {
       "password": "visa30day",
-      "hwid": "",
+      "hwid": "D62EB8B4-AD99-1161-DCE8-E56F8DED3000",
       "expiryDate": "2025-09-25",
       "loginMessage": "",
       "creationDate": "2025-08-25 08:55:52",
-      "lastUsed": "2025-09-05 08:55:30"
+      "lastUsed": "2025-09-10 07:00:17"
     },
     "makara30day": {
       "password": "makara30day",

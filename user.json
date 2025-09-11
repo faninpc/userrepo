@@ -1288,7 +1288,7 @@
     },
     "votha30days": {
       "password": "votha30days",
-      "hwid": "03000200-0400-0500-0006-000700080009",
+      "hwid": "",
       "expiryDate": "2025-10-12",
       "loginMessage": "",
       "creationDate": "2025-09-11 10:15:08",

@@ -2,11 +2,27 @@
   "EREN": {
     "2": {
       "password": "2",
-      "hwid": "4C4C4544-0052-3410-8038-C6C04F594332",
+      "hwid": "123456789XYZ",
       "expiryDate": "2222-02-02",
       "creationDate": "2025-03-12 00:10:28",
-      "lastUsed": "2025-09-06 22:43:50",
+      "lastUsed": "2025-09-12 05:49:14",
       "loginMessage": "🚨 Important Notice to All Players 🚨 \r\n\n\nMany players are currently facing bans, and this issue is not related to our panel. It appears that Garena has once again intensified its restrictions on emulator users.\n Unfortunately, even fair players—those who have not used any external tools—are being affected. To stay safe, we strongly recommend avoiding the use of emulators whenever possible.\n Please play responsibly and protect your accounts.\n Stay safe!"
+    },
+    "515": {
+      "password": "1",
+      "hwid": "35779722f2661becce85df5b2866afd8843be66ed1a0b42a941a468363ab86c3",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-09-07 19:12:29",
+      "lastUsed": "2025-09-07 19:50:47"
+    },
+    "8155": {
+      "password": "1",
+      "hwid": "9d86e19d177706b54790ca225d35c1eec2e60c219b5e2ba1ffe09dcaeab70c33",
+      "expiryDate": "2222-02-22",
+      "creationDate": "2025-06-16T20:28:18.471Z",
+      "loginMessage": "🚨 Important Notice to All Players 🚨 \r\n\n\nMany players are currently facing bans, and this issue is not related to our panel. It appears that Garena has once again intensified its restrictions on emulator users.\n Unfortunately, even fair players—those who have not used any external tools—are being affected. To stay safe, we strongly recommend avoiding the use of emulators whenever possible.\n Please play responsibly and protect your accounts.\n Stay safe!",
+      "lastUsed": "2025-09-06 11:14:33"
     },
     "arise": {
       "password": "1",
@@ -385,14 +401,6 @@
       "loginMessage": "🚨 Important Notice to All Players 🚨 \r\n\n\nMany players are currently facing bans, and this issue is not related to our panel. It appears that Garena has once again intensified its restrictions on emulator users.\n Unfortunately, even fair players—those who have not used any external tools—are being affected. To stay safe, we strongly recommend avoiding the use of emulators whenever possible.\n Please play responsibly and protect your accounts.\n Stay safe!",
       "creationDate": "2025-08-01 07:13:23"
     },
-    "8155": {
-      "password": "1",
-      "hwid": "9d86e19d177706b54790ca225d35c1eec2e60c219b5e2ba1ffe09dcaeab70c33",
-      "expiryDate": "2222-02-22",
-      "creationDate": "2025-06-16T20:28:18.471Z",
-      "loginMessage": "🚨 Important Notice to All Players 🚨 \r\n\n\nMany players are currently facing bans, and this issue is not related to our panel. It appears that Garena has once again intensified its restrictions on emulator users.\n Unfortunately, even fair players—those who have not used any external tools—are being affected. To stay safe, we strongly recommend avoiding the use of emulators whenever possible.\n Please play responsibly and protect your accounts.\n Stay safe!",
-      "lastUsed": "2025-09-06 11:14:33"
-    },
     "faizan": {
       "password": "1",
       "hwid": "7c38142886629609665da896e376644dc8484ca17850af8d68e3d7fdbfcf5d1e",
@@ -558,14 +566,6 @@
       "loginMessage": "",
       "creationDate": "2025-09-07 17:00:05",
       "lastUsed": "2025-09-07 17:02:20"
-    },
-    "515": {
-      "password": "1",
-      "hwid": "35779722f2661becce85df5b2866afd8843be66ed1a0b42a941a468363ab86c3",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-09-07 19:12:29",
-      "lastUsed": "2025-09-07 19:50:47"
     },
     "usmancracker": {
       "password": "1",
@@ -854,6 +854,12 @@
     }
   },
   "ESP": {
+    "4": {
+      "password": "4",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-01 19:48:15"
+    },
     "insane": {
       "password": "1",
       "hwid": "",
@@ -861,12 +867,6 @@
       "loginMessage": "",
       "creationDate": "2025-07-01 19:39:20",
       "lastUsed": "2025-08-03 05:36:03"
-    },
-    "4": {
-      "password": "4",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-07-01 19:48:15"
     },
     "erenfree": {
       "password": "3days",
@@ -1045,14 +1045,6 @@
     }
   },
   "AUTHENTICATION": {
-    "maska": {
-      "password": "1",
-      "hwid": "03560274-043C-0552-ED06-1D0700080009",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-07-11 17:50:31",
-      "lastUsed": "2025-07-25 19:25:51"
-    },
     "1": {
       "password": "1",
       "hwid": "CA02F3F3-4501-245C-033D-04D4C4F393E6",
@@ -1060,6 +1052,14 @@
       "loginMessage": "",
       "creationDate": "2025-07-11 17:51:18",
       "lastUsed": "2025-09-06 04:20:24"
+    },
+    "maska": {
+      "password": "1",
+      "hwid": "03560274-043C-0552-ED06-1D0700080009",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-11 17:50:31",
+      "lastUsed": "2025-07-25 19:25:51"
     },
     "user12": {
       "password": "1",

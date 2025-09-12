@@ -1,14 +1,10 @@
 {
-  "token334122": {
-    "read": ["EREN"],
-    "write": []
-  },
 "admintoken10198879630": {
     "read": ["EREN", "INSANE", "MAXGAMER", "SALZ", "CYBER", "AIM", "SNIPER", "B4EVER"],
     "write": ["EREN", "INSANE", "MAXGAMER", "SALZ", "CYBER", "AIM", "SNIPER", "B4EVER"]
   },
-  "token334482": {
-    "read": ["EREN", "INSANE"],
-    "write": ["EREN"]
+  "tokencyber2331551bc6": {
+    "read": ["CYBER"],
+    "write": ["CYBER"]
   }
 }

@@ -1,0 +1,10 @@
+{
+  "token334122": {
+    "read": ["EREN"],
+    "write": []
+  },
+  "token334482": {
+    "read": ["EREN", "INSANE"],
+    "write": ["EREN"]
+  }
+}

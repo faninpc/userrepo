@@ -528,13 +528,6 @@
       "creationDate": "2025-09-07 06:43:58",
       "lastUsed": "2025-09-12 13:43:07"
     },
-    "---------------------------\r\nNot Found\r\n---------------------------\r\nUser not found.\r\n---------------------------\r\nOK   \r\n---------------------------\r\nsami": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "Use Sniper Scope on your own Risk !",
-      "creationDate": "2025-09-07 13:33:20"
-    },
     "sami": {
       "password": "1",
       "hwid": "b7b363acb7af5586aa2cb056d5afbc0bd21082720e789b2a0db91d3fe8913162",
@@ -1386,4 +1379,5 @@
       "creationDate": "2025-09-07 09:12:46"
     }
   }
+
 }

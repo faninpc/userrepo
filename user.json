@@ -1074,7 +1074,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-21 14:33:13",
-      "lastUsed": "2025-09-13 16:15:12"
+      "lastUsed": "2025-09-13 16:38:52"
     },
     "max": {
       "password": "1",
@@ -1296,11 +1296,10 @@
     },
     "TongFei30Days": {
       "password": "TongFei30Days",
-      "hwid": "12950d19c78c5bafae4e33c5844eda78418fd4ceba92d07ce6cb4f129d55bd6b",
+      "hwid": "",
       "expiryDate": "2025-10-14",
       "loginMessage": "",
-      "creationDate": "2025-09-13 16:16:03",
-      "lastUsed": "2025-09-13 16:37:48"
+      "creationDate": "2025-09-13 16:16:03"
     }
   },
   "CYBER": {

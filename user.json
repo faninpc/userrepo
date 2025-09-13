@@ -608,7 +608,7 @@
     },
     "worrior": {
       "password": "1",
-      "hwid": "4C4C4544-0035-3210-8057-B9C04F445A31",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-12 10:19:58",
       "lastUsed": "2025-09-13 16:51:08",
@@ -687,7 +687,7 @@
     },
     "ali1": {
       "password": "1",
-      "hwid": "c550401e0bcfa669716b46755493c46ce01c6815118114fa86c2a397ea32540e",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-13 17:16:22",
       "lastUsed": "2025-09-09 17:52:46",
@@ -718,7 +718,7 @@
     },
     "ffhamza": {
       "password": "1",
-      "hwid": "4C4C4544-0054-3710-8036-C2C04F425A31",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-09 06:34:35",
       "lastUsed": "2025-09-13 14:53:30",
@@ -778,28 +778,28 @@
     },
     "zunair": {
       "password": "1",
-      "hwid": "e3db0e998aab70c72076e5168fad4277ac0f40f0f49a6e946ce57a6b0dfd9b6e",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-22 06:31:51",
       "lastUsed": "2025-09-13 13:02:04"
     },
     "mian": {
       "password": "1",
-      "hwid": "8dd1c64814b96221365ca4c5fc950c17c28374a07f40e9b5b5fc3008b8aea93b",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-23 20:44:49",
       "lastUsed": "2025-09-13 10:53:54"
     },
     "haider": {
       "password": "1",
-      "hwid": "f47968a404af8233b40cce00c9e102a919f9a3617627888c62f358c4c657cd61",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-08-15 18:28:53",
       "lastUsed": "2025-09-12 20:51:31"
     },
     "rajab": {
       "password": "1",
-      "hwid": "4C4C4544-0046-5010-8047-B6C04F503232",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-08-24 16:43:13",
       "lastUsed": "2025-09-13 17:07:43"
@@ -813,21 +813,21 @@
     },
     "shoaib": {
       "password": "1",
-      "hwid": "93aef1c61f02aef1eeb7b02f8045f8b185a0ce1418a4f27c16d82af43e4faa19",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-09-02 16:53:52",
       "lastUsed": "2025-09-13 07:53:40"
     },
     "talha": {
       "password": "1",
-      "hwid": "1fe2d715cbaecb65fa8da4c1b6772d2663b2bcb82fcf485b490b891577547c0a",
+      "hwid": "",
       "expiryDate": "2025-10-02",
       "creationDate": "2025-09-02 17:39:36",
       "lastUsed": "2025-09-13 14:26:02"
     },
     "muneeb": {
       "password": "1",
-      "hwid": "4C4C4544-0052-3410-8038-C6C04F594332",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-09-07 13:18:10",

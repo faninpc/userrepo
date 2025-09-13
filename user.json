@@ -1310,10 +1310,11 @@
     },
     "p7pro7days": {
       "password": "p7pro7days",
-      "hwid": "",
+      "hwid": "0e5096b49cbb903fdc2665efcfb3fcca742f7218e635abb54634a560bfa93a3a",
       "expiryDate": "2025-09-21",
       "loginMessage": "",
-      "creationDate": "2025-09-13 18:23:01"
+      "creationDate": "2025-09-13 18:23:01",
+      "lastUsed": "2025-09-13 18:31:58"
     }
   },
   "CYBER": {

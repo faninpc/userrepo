@@ -806,10 +806,10 @@
     },
     "romi": {
       "password": "1",
-      "hwid": "",
+      "hwid": "943B6C00-509C-11E4-A472-A0D3C14B0136",
       "expiryDate": "No Expiry",
       "creationDate": "2025-08-25 19:49:37",
-      "lastUsed": "2025-09-13 11:22:52"
+      "lastUsed": "2025-09-13 19:56:45"
     },
     "shoaib": {
       "password": "1",
@@ -820,10 +820,10 @@
     },
     "talha": {
       "password": "1",
-      "hwid": "1fe2d715cbaecb65fa8da4c1b6772d2663b2bcb82fcf485b490b891577547c0a",
+      "hwid": "",
       "expiryDate": "2025-10-02",
       "creationDate": "2025-09-02 17:39:36",
-      "lastUsed": "2025-09-13 19:55:34"
+      "lastUsed": "2025-09-13 14:26:02"
     },
     "muneeb": {
       "password": "1",

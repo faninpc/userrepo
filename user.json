@@ -1307,6 +1307,13 @@
       "expiryDate": "2025-09-15",
       "loginMessage": "",
       "creationDate": "2025-09-13 16:42:19"
+    },
+    "p7pro7days": {
+      "password": "p7pro7days",
+      "hwid": "",
+      "expiryDate": "2025-09-21",
+      "loginMessage": "",
+      "creationDate": "2025-09-13 18:23:01"
     }
   },
   "CYBER": {

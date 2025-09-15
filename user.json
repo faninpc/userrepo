@@ -1118,11 +1118,10 @@
     },
     "mian": {
       "password": "1",
-      "hwid": "8dd1c64814b96221365ca4c5fc950c17c28374a07f40e9b5b5fc3008b8aea93b",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-09-05 03:42:45",
-      "lastUsed": "2025-09-15 17:31:17"
+      "creationDate": "2025-09-05 03:42:45"
     },
     "haider": {
       "password": "1",
@@ -1291,7 +1290,7 @@
       "expiryDate": "2025-10-10",
       "loginMessage": "",
       "creationDate": "2025-09-09 15:56:44",
-      "lastUsed": "2025-09-15 15:35:23"
+      "lastUsed": "2025-09-15 17:32:55"
     },
     "votha30days": {
       "password": "votha30days",

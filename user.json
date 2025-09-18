@@ -1321,6 +1321,13 @@
       "expiryDate": "2025-09-21",
       "loginMessage": "",
       "creationDate": "2025-09-13 18:23:01"
+    },
+    "usertrial1": {
+      "password": "usertrial1",
+      "hwid": "",
+      "expiryDate": "2025-09-19",
+      "loginMessage": "",
+      "creationDate": "2025-09-18 06:13:42"
     }
   },
   "CYBER": {

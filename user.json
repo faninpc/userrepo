@@ -1332,10 +1332,11 @@
     },
     "hok30days": {
       "password": "hok30days",
-      "hwid": "",
+      "hwid": "728ba54503469e13c3e35c44a06290090c0c47b9464351739efd116858d433aa",
       "expiryDate": "2025-10-20",
       "loginMessage": "",
-      "creationDate": "2025-09-19 03:54:00"
+      "creationDate": "2025-09-19 03:54:00",
+      "lastUsed": "2025-09-19 04:02:56"
     }
   },
   "CYBER": {

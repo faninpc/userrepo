@@ -1080,7 +1080,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-21 14:33:13",
-      "lastUsed": "2025-09-19 03:50:13"
+      "lastUsed": "2025-09-19 03:53:38"
     },
     "max": {
       "password": "1",
@@ -1329,13 +1329,6 @@
       "loginMessage": "",
       "creationDate": "2025-09-18 06:13:42",
       "lastUsed": "2025-09-18 06:33:12"
-    },
-    "hok30days": {
-      "password": "hok30days",
-      "hwid": "",
-      "expiryDate": "2025-10-20",
-      "loginMessage": "",
-      "creationDate": "2025-09-19 03:50:57"
     }
   },
   "CYBER": {

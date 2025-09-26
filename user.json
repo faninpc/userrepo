@@ -1487,14 +1487,7 @@
       "creationDate": "2025-09-07 09:12:46"
     }
   },
-  "FREEEXTERNAL": {
-    "insane500sub": {
-      "password": "soon",
-      "hwid": "free",
-      "expiryDate": "2025-09-25 21:04:01",
-      "creationDate": "2025-09-24 21:04:06"
-    }
-  },
+  "FREEEXTERNAL": {},
   "REHAN": {
     "rehan": {
       "password": "1",

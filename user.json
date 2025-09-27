@@ -1200,38 +1200,6 @@
       "creationDate": "2025-08-22 15:22:02",
       "lastUsed": "2025-08-23 09:42:58"
     },
-    "Michikatsu30Day": {
-      "password": "Michikatsu123",
-      "hwid": "AD8E6C0C-4075-E44B-B46E-4D6D18E242EA",
-      "expiryDate": "2025-09-22",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-08-22 15:33:02",
-      "lastUsed": "2025-08-28 18:38:14"
-    },
-    "hong30day": {
-      "password": "hong30day",
-      "hwid": "99ff711293bc92ed86da16867aee9237ae92c17e968c4cb6700ce9e880223749",
-      "expiryDate": "2025-09-24",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-08-24 14:28:05",
-      "lastUsed": "2025-09-01 13:13:32"
-    },
-    "visa30day": {
-      "password": "visa30day",
-      "hwid": "6328ae19ec18833095541e214e5b9c5eb45b65eb7498020cfa7698554ec509a2",
-      "expiryDate": "2025-09-25",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-08-25 08:55:52",
-      "lastUsed": "2025-09-12 09:10:23"
-    },
-    "makara30day": {
-      "password": "makara30day",
-      "hwid": "44276bebe8b177c9642a566890dc06da0e327c4267e80f4af6b552b368dca2cb",
-      "expiryDate": "2025-09-25",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-08-25 12:38:44",
-      "lastUsed": "2025-09-17 09:10:47"
-    },
     "sing30days": {
       "password": "sing30days",
       "hwid": "ccf40629c6020b9005f633bac6dc9e06119e45bad349248a4e53722680fdc4c6",
@@ -1240,14 +1208,6 @@
       "creationDate": "2025-08-28 15:28:56",
       "lastUsed": "2025-09-22 11:06:11"
     },
-    "an7days": {
-      "password": "an7days",
-      "hwid": "52f418d53fcd579b7a61b4c3c97c3ba2bfdb6591bc64a477dab65ca379370b03",
-      "expiryDate": "2025-09-06",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-08-30 07:06:42",
-      "lastUsed": "2025-09-01 13:58:16"
-    },
     "reak30days": {
       "password": "reak30days",
       "hwid": "2497d25bbd072dbd35138e2a484506e0b24b4a5078bb8d9f2583b96f0786a07b",
@@ -1255,14 +1215,6 @@
       "loginMessage": "Enjoy Panel !",
       "creationDate": "2025-08-30 14:58:12",
       "lastUsed": "2025-09-11 23:59:35"
-    },
-    "devit7days": {
-      "password": "devit7days",
-      "hwid": "11b29f2f6079aa902e81fec97606a2066d1d1704de2fa2a2475a35f9d05a6146",
-      "expiryDate": "2025-09-07",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-09-01 12:18:38",
-      "lastUsed": "2025-09-01 12:38:00"
     },
     "rakmodff30days": {
       "password": "rakmodff30days",
@@ -1335,28 +1287,6 @@
       "loginMessage": "Enjoy Panel !",
       "creationDate": "2025-09-13 16:16:03"
     },
-    "makevideo2": {
-      "password": "makevideo2",
-      "hwid": "",
-      "expiryDate": "2025-09-15",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-09-13 16:42:19"
-    },
-    "p7pro7days": {
-      "password": "p7pro7days",
-      "hwid": "0e5096b49cbb903fdc2665efcfb3fcca742f7218e635abb54634a560bfa93a3a",
-      "expiryDate": "2025-09-21",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-09-13 18:23:01"
-    },
-    "usertrial1": {
-      "password": "usertrial1",
-      "hwid": "52c2a237502d89ab475912fad8c81aa8797e30cedaf7db0734c3d270c78e09d3",
-      "expiryDate": "2025-09-19",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-09-18 06:13:42",
-      "lastUsed": "2025-09-18 06:33:12"
-    },
     "hok30days": {
       "password": "hok30days",
       "hwid": "728ba54503469e13c3e35c44a06290090c0c47b9464351739efd116858d433aa",
@@ -1371,13 +1301,6 @@
       "expiryDate": "2025-09-28",
       "loginMessage": "",
       "creationDate": "2025-09-20 19:14:36"
-    },
-    "ceosal": {
-      "password": "181008",
-      "hwid": "161bef2e51b3cf06a7022b567844cb71ee7f366848e2c212b5431267f6a86f28",
-      "expiryDate": "2025-09-24",
-      "loginMessage": "",
-      "creationDate": "2025-09-20 11:33:35"
     },
     "Bun180Days": {
       "password": "Bun180Days",

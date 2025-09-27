@@ -1323,6 +1323,13 @@
       "expiryDate": "2025-10-26",
       "loginMessage": "",
       "creationDate": "2025-09-25 11:20:59"
+    },
+    "salzuser4x30days": {
+      "password": "salzuser4x30days",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-09-27 15:38:27"
     }
   },
   "CYBER": {

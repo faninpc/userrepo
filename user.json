@@ -1339,7 +1339,7 @@
     },
     "nin30days": {
       "password": "nin30days",
-      "hwid": "",
+      "hwid": "03e428df9053b6c59e00e14b54dddf14786416fcf05f880828f91e16ae22b585",
       "expiryDate": "2025-10-29",
       "loginMessage": "",
       "creationDate": "2025-09-28 10:30:19"

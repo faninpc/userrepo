@@ -1420,7 +1420,14 @@
       "creationDate": "2025-09-07 09:12:46"
     }
   },
-  "FREEEXTERNAL": {},
+  "FREEEXTERNAL": {
+    "ifuckyou": {
+      "password": "garena",
+      "hwid": "",
+      "expiryDate": "2025-10-01 04:52:08",
+      "creationDate": "2025-09-30 04:52:13"
+    }
+  },
   "REHAN": {
     "rehan": {
       "password": "1",

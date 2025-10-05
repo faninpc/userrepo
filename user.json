@@ -799,13 +799,6 @@
       "creationDate": "2025-09-02 16:53:52",
       "lastUsed": "2025-09-13 07:53:40"
     },
-    "talha": {
-      "password": "1",
-      "hwid": "dbbb6fdbd7d0851235c8d2ac9f03b422a5d6961b344c5c5594b3d3ef00694659",
-      "expiryDate": "2025-10-02",
-      "creationDate": "2025-09-02 17:39:36",
-      "lastUsed": "2025-09-14 12:38:20"
-    },
     "muneeb": {
       "password": "1",
       "hwid": "bced9574819cc058a9d26f76f7ac55fa8cd404f8bbab74e5f2322e64763b83b9",
@@ -1195,54 +1188,6 @@
       "loginMessage": "Enjoy Panel !",
       "creationDate": "2025-08-21 12:09:48"
     },
-    "salz123": {
-      "password": "salz123",
-      "hwid": "",
-      "expiryDate": "2025-06-26",
-      "loginMessage": "",
-      "creationDate": "2025-08-22 15:22:02",
-      "lastUsed": "2025-08-23 09:42:58"
-    },
-    "sing30days": {
-      "password": "sing30days",
-      "hwid": "ccf40629c6020b9005f633bac6dc9e06119e45bad349248a4e53722680fdc4c6",
-      "expiryDate": "2025-09-28",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-08-28 15:28:56",
-      "lastUsed": "2025-09-22 11:06:11"
-    },
-    "reak30days": {
-      "password": "reak30days",
-      "hwid": "2497d25bbd072dbd35138e2a484506e0b24b4a5078bb8d9f2583b96f0786a07b",
-      "expiryDate": "2025-09-30",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-08-30 14:58:12",
-      "lastUsed": "2025-09-11 23:59:35"
-    },
-    "rakmodff30days": {
-      "password": "rakmodff30days",
-      "hwid": "52c2a237502d89ab475912fad8c81aa8797e30cedaf7db0734c3d270c78e09d3",
-      "expiryDate": "2025-10-03",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-09-02 04:56:55",
-      "lastUsed": "2025-09-02 08:46:48"
-    },
-    "virak30days": {
-      "password": "virak30days",
-      "hwid": "ec6e56c7ba191866487c47b7aba795982d409ee3d3db95bdc28514a390f9b27b",
-      "expiryDate": "2025-10-04",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-09-03 15:28:57",
-      "lastUsed": "2025-09-10 11:54:44"
-    },
-    "user1_30days": {
-      "password": "123123",
-      "hwid": "141987c4f41333835dbdd4c3faeba5e0561d0b5bfd418898652b459d4b021c18",
-      "expiryDate": "2025-10-05",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-09-04 10:46:14",
-      "lastUsed": "2025-09-10 03:36:30"
-    },
     "rakuser2x30days": {
       "password": "rakuser2x30days",
       "hwid": "a049cb8f3d07fbd506403682649feffaace5669691768c2f513ae68584e0266b",
@@ -1297,13 +1242,6 @@
       "loginMessage": "Enjoy Panel !",
       "creationDate": "2025-09-19 03:54:00",
       "lastUsed": "2025-09-22 05:04:50"
-    },
-    "bl7day": {
-      "password": "bl7day",
-      "hwid": "a697bed71541a771a8b1d27d9187e9ff021bdacd163b94f9da488fbbaded582a",
-      "expiryDate": "2025-09-28",
-      "loginMessage": "",
-      "creationDate": "2025-09-20 19:14:36"
     },
     "Bun180Days": {
       "password": "Bun180Days",
@@ -1433,14 +1371,7 @@
       "creationDate": "2025-09-07 09:12:46"
     }
   },
-  "FREEEXTERNAL": {
-    "ifuckyou": {
-      "password": "garena",
-      "hwid": "free",
-      "expiryDate": "2025-10-01 04:52:08",
-      "creationDate": "2025-09-30 04:52:13"
-    }
-  },
+  "FREEEXTERNAL": {},
   "REHAN": {
     "rehan": {
       "password": "1",

@@ -1277,6 +1277,13 @@
       "expiryDate": "2025-10-07",
       "loginMessage": "",
       "creationDate": "2025-10-05 04:37:02"
+    },
+    "zoo30days": {
+      "password": "zoo30days",
+      "hwid": "",
+      "expiryDate": "2025-11-06",
+      "loginMessage": "",
+      "creationDate": "2025-10-05 04:38:08"
     }
   },
   "CYBER": {

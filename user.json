@@ -1197,7 +1197,7 @@
     },
     "salz123": {
       "password": "salz123",
-      "hwid": "free",
+      "hwid": "",
       "expiryDate": "2025-06-25",
       "loginMessage": "",
       "creationDate": "2025-08-22 15:22:02",

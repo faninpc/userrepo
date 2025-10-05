@@ -1284,6 +1284,13 @@
       "expiryDate": "2025-11-06",
       "loginMessage": "",
       "creationDate": "2025-10-05 04:38:08"
+    },
+    "rakuser2x7days": {
+      "password": "rakuser2x7days",
+      "hwid": "",
+      "expiryDate": "2025-10-13",
+      "loginMessage": "",
+      "creationDate": "2025-10-05 04:55:54"
     }
   },
   "CYBER": {

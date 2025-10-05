@@ -1308,6 +1308,13 @@
     }
   },
   "CYBER": {
+    "1": {
+      "password": "1",
+      "hwid": "b800db3c6681f097402a892f369f58f602df95d1fc932fdbb25185be627edc37",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-10-05 16:06:39"
+    },
     "eren2": {
       "password": "1",
       "hwid": "ecf966de0ec28b246cd31c7c8c738a01d00188b63b3cbd978d18c0faf6021523",
@@ -1361,13 +1368,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-10-05 11:24:30"
-    },
-    "1": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-10-05 16:06:39"
     }
   },
   "AIM": {

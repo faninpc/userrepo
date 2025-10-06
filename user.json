@@ -571,7 +571,7 @@
     },
     "eren6c": {
       "password": "tempuser",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "No Expiry",
       "loginMessage": "This user is temporary !",
       "creationDate": "2025-10-06 18:23:03"

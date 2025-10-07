@@ -571,7 +571,7 @@
     },
     "dailyuser15": {
       "password": "dailypass40",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "No Expiry",
       "loginMessage": "User/Pass changes daily !",
       "creationDate": "2025-10-07 13:24:10"

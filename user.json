@@ -844,6 +844,12 @@
       "expiryDate": "2025-10-09 00:46:44",
       "creationDate": "2025-10-05 00:46:51",
       "lastUsed": "2025-10-07 09:58:47"
+    },
+    "khan": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-10-08 04:44:43"
     }
   },
   "FAKEDAMAGEFIX": {

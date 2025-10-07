@@ -575,6 +575,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "This user is temporary !",
       "creationDate": "2025-10-06 18:23:03"
+    },
+    "dailyuser15": {
+      "password": "dailypass40",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "User/Pass changes daily !",
+      "creationDate": "2025-10-07 13:24:10"
     }
   },
   "INSANE": {

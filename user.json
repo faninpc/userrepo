@@ -834,10 +834,10 @@
     },
     "4day": {
       "password": "1",
-      "hwid": "",
+      "hwid": "36DF0200-B6C7-11E5-AA60-480FCF34CB03",
       "expiryDate": "2025-10-09 00:46:44",
       "creationDate": "2025-10-05 00:46:51",
-      "lastUsed": "2025-10-06 12:38:45"
+      "lastUsed": "2025-10-07 09:58:47"
     }
   },
   "FAKEDAMAGEFIX": {

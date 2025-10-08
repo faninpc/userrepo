@@ -193,10 +193,11 @@
     },
     "valor": {
       "password": "1",
-      "hwid": "",
+      "hwid": "917cfa6383d9e79691acce086745d3b934bb2f4a8318b319bcd78828aa430d60",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-21 17:30:30",
-      "loginMessage": "No Recoil, 2x Scope Tracking and much more coming Soon !"
+      "loginMessage": "No Recoil, 2x Scope Tracking and much more coming Soon !",
+      "lastUsed": "2025-10-08 08:09:59"
     },
     "maska": {
       "password": "1",

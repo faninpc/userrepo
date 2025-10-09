@@ -1327,6 +1327,13 @@
       "expiryDate": "2025-11-10",
       "loginMessage": "",
       "creationDate": "2025-10-09 10:03:14"
+    },
+    "hong30day": {
+      "password": "hong30day",
+      "hwid": "",
+      "expiryDate": "2025-11-10",
+      "loginMessage": "",
+      "creationDate": "2025-10-09 11:30:17"
     }
   },
   "CYBER": {

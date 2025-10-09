@@ -1320,6 +1320,13 @@
       "expiryDate": "2025-10-14",
       "loginMessage": "",
       "creationDate": "2025-10-06 11:30:48"
+    },
+    "salzuser3x30days": {
+      "password": "salzuser3x30days",
+      "hwid": "",
+      "expiryDate": "2025-11-10",
+      "loginMessage": "",
+      "creationDate": "2025-10-09 10:03:14"
     }
   },
   "CYBER": {

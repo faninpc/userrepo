@@ -1300,13 +1300,6 @@
     }
   },
   "CYBER": {
-    "1": {
-      "password": "1",
-      "hwid": "dcc32efce65f22214499b1c10302ca7974ebb9f023589d2ab3563a2d48a7c767",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-10-05 16:06:39"
-    },
     "sigma": {
       "password": "1",
       "hwid": "3c976ff6cd8116df84cb9457fedd2d7115db33bc6b6ad6c55c2d65c4f308b43f",

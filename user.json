@@ -827,19 +827,6 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-09-21 00:42:20"
     },
-    "rayyan": {
-      "password": "1",
-      "hwid": "faea89b5bd13bd79736b070dceab767d9227bb30043ea3e51e41d6b0376b4414",
-      "expiryDate": "2025-10-05 20:57:14",
-      "creationDate": "2025-09-28 20:57:24"
-    },
-    "4day": {
-      "password": "1",
-      "hwid": "36DF0200-B6C7-11E5-AA60-480FCF34CB03",
-      "expiryDate": "2025-10-09 00:46:44",
-      "creationDate": "2025-10-05 00:46:51",
-      "lastUsed": "2025-10-07 09:58:47"
-    },
     "khan": {
       "password": "1",
       "hwid": "70084479898b232b145fe9bf65a66a65970e968820f7de99641b65af6858c491",
@@ -1195,22 +1182,6 @@
       "loginMessage": "Enjoy Panel !",
       "creationDate": "2025-08-21 12:09:48"
     },
-    "rakuser2x30days": {
-      "password": "rakuser2x30days",
-      "hwid": "a049cb8f3d07fbd506403682649feffaace5669691768c2f513ae68584e0266b",
-      "expiryDate": "2025-10-06",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-09-05 11:51:09",
-      "lastUsed": "2025-09-06 03:35:46"
-    },
-    "boyonx30Days": {
-      "password": "boyonx30Days",
-      "hwid": "76398b189d0fbbab7b45d6054579d6102c04c5301d622e832a86834722ba53d6",
-      "expiryDate": "2025-10-07",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-09-06 11:41:24",
-      "lastUsed": "2025-09-10 10:00:48"
-    },
     "lyhour35days": {
       "password": "lyhour35days",
       "hwid": "e14973ae0adacd28172debd03357f6fd5ca9f7b60bd858cf4532df7af0155729",
@@ -1218,14 +1189,6 @@
       "loginMessage": "",
       "creationDate": "2025-09-09 05:07:13",
       "lastUsed": "2025-10-05 16:27:14"
-    },
-    "heacmondays": {
-      "password": "heacmondays",
-      "hwid": "9b7628fd4c6a225d8e4a8e82fcc0bfd198a0872a6448e99b54d12b161e687164",
-      "expiryDate": "2025-10-10",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-09-09 15:56:44",
-      "lastUsed": "2025-09-22 08:48:33"
     },
     "votha30days": {
       "password": "votha30days",
@@ -1277,13 +1240,6 @@
       "expiryDate": "2025-10-29",
       "loginMessage": "",
       "creationDate": "2025-09-28 10:30:19"
-    },
-    "salz1day": {
-      "password": "salz1day",
-      "hwid": "1a59e887dde5ffb1af709ac00d94085cf68d8d466dacd47ac3c41bc727d580a7",
-      "expiryDate": "2025-10-07",
-      "loginMessage": "",
-      "creationDate": "2025-10-05 04:37:02"
     },
     "zoo30days": {
       "password": "zoo30days",

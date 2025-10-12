@@ -1410,7 +1410,7 @@
   "FREEEXTERNAL": {
     "free": {
       "password": "insane",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2025-10-14",
       "creationDate": "2025-10-12 17:03:38"
     }

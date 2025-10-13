@@ -1405,14 +1405,7 @@
       "creationDate": "2025-09-07 09:12:46"
     }
   },
-  "FREEEXTERNAL": {
-    "free": {
-      "password": "insane",
-      "hwid": "free",
-      "expiryDate": "2025-10-14",
-      "creationDate": "2025-10-12 17:03:38"
-    }
-  },
+  "FREEEXTERNAL": {},
   "REHAN": {
     "rehan": {
       "password": "1",

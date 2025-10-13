@@ -1200,14 +1200,6 @@
       "creationDate": "2025-09-09 05:07:13",
       "lastUsed": "2025-10-05 16:27:14"
     },
-    "votha30days": {
-      "password": "votha30days",
-      "hwid": "141aaf4b5543cb85e4621540321bfbf0972ab343823ad4f9f40cfa6fbefaca81",
-      "expiryDate": "2025-10-12",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-09-11 10:15:08",
-      "lastUsed": "2025-09-11 10:28:29"
-    },
     "TongFei30Days": {
       "password": "TongFei30Days",
       "hwid": "12950d19c78c5bafae4e33c5844eda78418fd4ceba92d07ce6cb4f129d55bd6b",
@@ -1257,13 +1249,6 @@
       "expiryDate": "2025-11-06",
       "loginMessage": "",
       "creationDate": "2025-10-05 04:38:08"
-    },
-    "rakuser2x7days": {
-      "password": "rakuser2x7days",
-      "hwid": "4bfb895e2e57d76162b302ba7717bc65d819caccc05c4c0ae8eef1c52467ca86",
-      "expiryDate": "2025-10-13",
-      "loginMessage": "",
-      "creationDate": "2025-10-05 04:55:54"
     },
     "visa30daysv2": {
       "password": "visa30daysv2",

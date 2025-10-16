@@ -1308,6 +1308,13 @@
       "expiryDate": "2025-11-17",
       "loginMessage": "",
       "creationDate": "2025-10-16 09:17:55"
+    },
+    "navin10day": {
+      "password": "navin10day",
+      "hwid": "",
+      "expiryDate": "2025-10-27",
+      "loginMessage": "",
+      "creationDate": "2025-10-16 09:18:35"
     }
   },
   "CYBER": {

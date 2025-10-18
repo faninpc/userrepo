@@ -1287,6 +1287,13 @@
       "expiryDate": "2025-10-27",
       "loginMessage": "",
       "creationDate": "2025-10-16 09:18:35"
+    },
+    "lyhour7days": {
+      "password": "lyhour7days",
+      "hwid": "",
+      "expiryDate": "2025-10-26",
+      "loginMessage": "",
+      "creationDate": "2025-10-18 09:05:38"
     }
   },
   "CYBER": {

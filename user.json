@@ -838,12 +838,6 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-10-11 08:22:51"
-    },
-    "rayyan": {
-      "password": "1",
-      "hwid": "faea89b5bd13bd79736b070dceab767d9227bb30043ea3e51e41d6b0376b4414",
-      "expiryDate": "2025-10-14 12:41:26",
-      "creationDate": "2025-10-12 12:41:34"
     }
   },
   "FAKEDAMAGEFIX": {
@@ -1194,21 +1188,6 @@
       "loginMessage": "Enjoy Panel !",
       "creationDate": "2025-08-21 12:09:48"
     },
-    "lyhour35days": {
-      "password": "lyhour35days",
-      "hwid": "e14973ae0adacd28172debd03357f6fd5ca9f7b60bd858cf4532df7af0155729",
-      "expiryDate": "2025-10-17",
-      "loginMessage": "",
-      "creationDate": "2025-09-09 05:07:13",
-      "lastUsed": "2025-10-05 16:27:14"
-    },
-    "TongFei30Days": {
-      "password": "TongFei30Days",
-      "hwid": "12950d19c78c5bafae4e33c5844eda78418fd4ceba92d07ce6cb4f129d55bd6b",
-      "expiryDate": "2025-10-14",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-09-13 16:16:03"
-    },
     "hok30days": {
       "password": "hok30days",
       "hwid": "728ba54503469e13c3e35c44a06290090c0c47b9464351739efd116858d433aa",
@@ -1266,13 +1245,6 @@
       "expiryDate": "2025-11-06",
       "loginMessage": "",
       "creationDate": "2025-10-05 12:24:08"
-    },
-    "salzuser3x7days": {
-      "password": "salzuser3x7days",
-      "hwid": "4071ae46d14226d367a8313bcd026abc293ecde11a831b051ef6ecd2d448dd4a",
-      "expiryDate": "2025-10-14",
-      "loginMessage": "",
-      "creationDate": "2025-10-06 11:30:48"
     },
     "salzuser3x30days": {
       "password": "salzuser3x30days",

@@ -1314,6 +1314,13 @@
       "expiryDate": "2025-11-20",
       "loginMessage": "",
       "creationDate": "2025-10-20 06:40:01"
+    },
+    "free7days": {
+      "password": "free7days",
+      "hwid": "",
+      "expiryDate": "2025-10-29",
+      "loginMessage": "",
+      "creationDate": "2025-10-21 16:31:01"
     }
   },
   "CYBER": {

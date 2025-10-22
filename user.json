@@ -1321,6 +1321,13 @@
       "expiryDate": "2025-10-29",
       "loginMessage": "",
       "creationDate": "2025-10-21 16:31:01"
+    },
+    "ra30days": {
+      "password": "ra30days",
+      "hwid": "",
+      "expiryDate": "2025-11-23",
+      "loginMessage": "",
+      "creationDate": "2025-10-22 08:28:38"
     }
   },
   "CYBER": {

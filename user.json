@@ -1187,14 +1187,6 @@
       "loginMessage": "Enjoy Panel !",
       "creationDate": "2025-08-21 12:09:48"
     },
-    "hok30days": {
-      "password": "hok30days",
-      "hwid": "728ba54503469e13c3e35c44a06290090c0c47b9464351739efd116858d433aa",
-      "expiryDate": "2025-10-20",
-      "loginMessage": "Enjoy Panel !",
-      "creationDate": "2025-09-19 03:54:00",
-      "lastUsed": "2025-09-22 05:04:50"
-    },
     "Bun180Days": {
       "password": "Bun180Days",
       "hwid": "25d21b39337c30372e4f16bf11b07ccb91a9d8062cbf0e27bfb98e5da70d655b",
@@ -1266,13 +1258,6 @@
       "loginMessage": "",
       "creationDate": "2025-10-09 11:37:32"
     },
-    "salzuserx7day": {
-      "password": "salzuserx7day",
-      "hwid": "",
-      "expiryDate": "2025-10-20",
-      "loginMessage": "",
-      "creationDate": "2025-10-12 05:09:58"
-    },
     "user1_30days": {
       "password": "123123",
       "hwid": "141987c4f41333835dbdd4c3faeba5e0561d0b5bfd418898652b459d4b021c18",
@@ -1300,13 +1285,6 @@
       "expiryDate": "2025-10-28",
       "loginMessage": "",
       "creationDate": "2025-10-19 08:48:02"
-    },
-    "1daysal": {
-      "password": "1daysal",
-      "hwid": "",
-      "expiryDate": "2025-10-20",
-      "loginMessage": "",
-      "creationDate": "2025-10-19 10:24:15"
     },
     "sofy30days": {
       "password": "123",

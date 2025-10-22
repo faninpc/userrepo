@@ -1292,6 +1292,13 @@
       "expiryDate": "2025-11-23",
       "loginMessage": "",
       "creationDate": "2025-10-22 08:28:38"
+    },
+    "salzuser5x30days": {
+      "password": "salzuser5x30days",
+      "hwid": "",
+      "expiryDate": "2025-11-23",
+      "loginMessage": "",
+      "creationDate": "2025-10-22 16:58:59"
     }
   },
   "CYBER": {

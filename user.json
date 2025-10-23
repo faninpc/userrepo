@@ -568,6 +568,13 @@
       "expiryDate": "2025-11-23",
       "loginMessage": "This user is valid for 1 Month !\r\nRemaining Payment : 300 PKR !",
       "creationDate": "2025-10-23 01:50:47"
+    },
+    "eren": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-10-23 08:54:37"
     }
   },
   "INSANE": {

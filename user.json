@@ -596,6 +596,13 @@
       "expiryDate": "2025-11-25",
       "loginMessage": "",
       "creationDate": "2025-10-25 09:40:08"
+    },
+    "erenis6c": {
+      "password": "1day",
+      "hwid": "",
+      "expiryDate": "2025-10-27",
+      "loginMessage": "User is only for 1 Day to use more than this time period Visit :\r\nerenxiter.netlify.app",
+      "creationDate": "2025-10-25 12:30:08"
     }
   },
   "INSANE": {

@@ -1334,6 +1334,13 @@
       "expiryDate": "2025-11-23",
       "loginMessage": "",
       "creationDate": "2025-10-22 16:58:59"
+    },
+    "phan7days": {
+      "password": "123",
+      "hwid": "",
+      "expiryDate": "2025-11-05",
+      "loginMessage": "",
+      "creationDate": "2025-10-27 03:52:57"
     }
   },
   "CYBER": {

@@ -815,7 +815,7 @@
     },
     "romi": {
       "password": "1",
-      "hwid": "0b9bae8a51e2da395bf327a6932d783293b95e97b0ce66f166cd6bd2f3793b0b",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-08-25 19:49:37",
       "lastUsed": "2025-10-19 23:54:10"
@@ -852,12 +852,6 @@
       "hwid": "70084479898b232b145fe9bf65a66a65970e968820f7de99641b65af6858c491",
       "expiryDate": "No Expiry",
       "creationDate": "2025-10-08 04:44:43"
-    },
-    "rehanff": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-10-11 08:22:51"
     },
     "shafay": {
       "password": "1",

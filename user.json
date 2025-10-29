@@ -378,14 +378,6 @@
       "creationDate": "2025-08-09 13:12:55",
       "lastUsed": "2025-09-02 16:07:44"
     },
-    "waleed1": {
-      "password": "1",
-      "hwid": "bd59fcfe35a5acc7be75d35fc7e9ee9548189b2ee0d472913d933ae968eab34b",
-      "expiryDate": "No Expiry",
-      "loginMessage": "No Recoil, 2x Scope Tracking and much more coming Soon !",
-      "creationDate": "2025-08-10 05:56:16",
-      "lastUsed": "2025-09-01 11:15:03"
-    },
     "laptop": {
       "password": "1",
       "hwid": "CE7CE6E9-7EBD-FFCC-B05D-2C7147BA9F1C",
@@ -1511,5 +1503,4 @@
       "creationDate": "2025-09-15 12:47:42"
     }
   }
-
 }

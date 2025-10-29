@@ -1409,7 +1409,7 @@
     },
     "draco1": {
       "password": "1",
-      "hwid": "d3ed68cf80ca90c46f76fdd447ed1c56633ce81dceae40bf8d1f6c9ed9e382bd",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-08-28 04:13:51",

@@ -1187,27 +1187,6 @@
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-09-21 13:27:52"
     },
-    "my30days": {
-      "password": "my30days",
-      "hwid": "f23cb3e0967726b3f4711d40182c07aad432cbcda44e857bba8545ee2aa94ae8",
-      "expiryDate": "2025-10-26",
-      "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
-      "creationDate": "2025-09-25 11:20:59"
-    },
-    "salzuser4x30days": {
-      "password": "salzuser4x30days",
-      "hwid": "8e1a75d0b06d4a65977179ea123fbd1f567e33be74f491827c55b9477912be52",
-      "expiryDate": "2025-10-28",
-      "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
-      "creationDate": "2025-09-27 15:39:33"
-    },
-    "nin30days": {
-      "password": "nin30days",
-      "hwid": "03e428df9053b6c59e00e14b54dddf14786416fcf05f880828f91e16ae22b585",
-      "expiryDate": "2025-10-29",
-      "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
-      "creationDate": "2025-09-28 10:30:19"
-    },
     "zoo30days": {
       "password": "zoo30days",
       "hwid": "d13710fb218dd890fdfd243fa131c66e4ea30dc75cb8f4134ecabd35cb59cd4c",
@@ -1258,40 +1237,12 @@
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-10-16 09:17:55"
     },
-    "navin10day": {
-      "password": "navin10day",
-      "hwid": "b38c7e6495584a28154c3ba84b5f25cd966e320e032ee299ebad8ce766652ebb",
-      "expiryDate": "2025-10-27",
-      "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
-      "creationDate": "2025-10-16 09:18:35"
-    },
-    "lyhour7days": {
-      "password": "lyhour7days",
-      "hwid": "e14973ae0adacd28172debd03357f6fd5ca9f7b60bd858cf4532df7af0155729",
-      "expiryDate": "2025-10-26",
-      "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
-      "creationDate": "2025-10-18 09:05:38"
-    },
-    "navin2x7days": {
-      "password": "navin2x7days",
-      "hwid": "713c5f88a3a053e41bcab13537e2d926a22cfdaf3071bef5265066f6e9930252",
-      "expiryDate": "2025-10-28",
-      "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
-      "creationDate": "2025-10-19 08:48:02"
-    },
     "sofy30days": {
       "password": "123",
       "hwid": "ae48a278fe8c0d344ea901b8818d64754e116c1949ffef618163c9dceab291c1",
       "expiryDate": "2025-11-20",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-10-20 06:40:01"
-    },
-    "free7days": {
-      "password": "free7days",
-      "hwid": "eb03a299b5a376ad4bcbdd617c218e869636e1a7eb1b448c70e78d539d743737",
-      "expiryDate": "2025-10-29",
-      "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
-      "creationDate": "2025-10-21 16:31:01"
     },
     "ra30days": {
       "password": "ra30days",
@@ -1421,13 +1372,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-09-25 16:05:48"
-    },
-    "nitro69": {
-      "password": "1week",
-      "hwid": "c44a3ac259a576d7376a5a2c40e21c6db595ec2c353cf9f8b13888091f6ce5d0",
-      "expiryDate": "2025-10-27",
-      "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
-      "creationDate": "2025-10-20 03:32:50"
     }
   },
   "SNIPER": {},
@@ -1446,12 +1390,6 @@
       "hwid": "0b9bae8a51e2da395bf327a6932d783293b95e97b0ce66f166cd6bd2f3793b0b",
       "expiryDate": "No Expiry",
       "creationDate": "2025-10-21 21:03:49"
-    },
-    "25hrsexternal": {
-      "password": "free",
-      "hwid": "free",
-      "expiryDate": "2025-10-24 09:17:48",
-      "creationDate": "2025-10-23 08:17:57"
     }
   },
   "REHAN": {

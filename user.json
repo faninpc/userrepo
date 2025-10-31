@@ -1399,7 +1399,7 @@
     },
     "freeob51": {
       "password": "external",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2025-11-01 21:22:00",
       "creationDate": "2025-10-31 21:22:04"
     }

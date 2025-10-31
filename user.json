@@ -987,7 +987,7 @@
     },
     "bypasscus": {
       "password": "1",
-      "hwid": "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-06 20:02:40",
       "lastUsed": "2025-07-07 06:03:22"

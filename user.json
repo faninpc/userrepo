@@ -1270,6 +1270,13 @@
       "expiryDate": "2025-11-05",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-10-27 03:52:57"
+    },
+    "salz30daysv6": {
+      "password": "salz30daysv6",
+      "hwid": "",
+      "expiryDate": "2025-11-02",
+      "loginMessage": "",
+      "creationDate": "2025-11-02 15:22:12"
     }
   },
   "CYBER": {

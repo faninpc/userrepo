@@ -1110,7 +1110,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-21 14:33:13",
-      "lastUsed": "2025-11-03 09:20:21"
+      "lastUsed": "2025-11-03 09:21:31"
     },
     "max": {
       "password": "1",
@@ -1277,13 +1277,6 @@
       "expiryDate": "2025-12-04",
       "loginMessage": "",
       "creationDate": "2025-11-02 15:22:12"
-    },
-    "drkh": {
-      "password": "123",
-      "hwid": "",
-      "expiryDate": "2025-11-08",
-      "loginMessage": "",
-      "creationDate": "2025-11-03 09:20:41"
     }
   },
   "CYBER": {

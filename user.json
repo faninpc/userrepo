@@ -876,6 +876,13 @@
       "hwid": "1fd8f828c5a15440ecae5416c768903ec53bf23fb5729faae384e0bb4403d9e0",
       "expiryDate": "No Expiry",
       "creationDate": "2025-10-31 21:30:05"
+    },
+    "doodly1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-11-04 16:00:36"
     }
   },
   "FAKEDAMAGEFIX": {

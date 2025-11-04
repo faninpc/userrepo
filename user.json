@@ -348,7 +348,7 @@
     },
     "faizan": {
       "password": "1",
-      "hwid": "",
+      "hwid": "b40209adcd2118e057d97071679a434aa1f7bfec75ed8aac3f6b8da7135dbb3e",
       "expiryDate": "No Expiry",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-08-07 13:13:35",
@@ -1287,6 +1287,13 @@
     }
   },
   "CYBER": {
+    "11": {
+      "password": "11",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-11-02 16:43:07"
+    },
     "sigma": {
       "password": "1",
       "hwid": "3c976ff6cd8116df84cb9457fedd2d7115db33bc6b6ad6c55c2d65c4f308b43f",
@@ -1359,13 +1366,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-10-27 19:47:31"
-    },
-    "11": {
-      "password": "11",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-11-02 16:43:07"
     }
   },
   "AIM": {

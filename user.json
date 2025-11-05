@@ -1305,6 +1305,13 @@
       "expiryDate": "2025-11-11",
       "loginMessage": "",
       "creationDate": "2025-11-03 09:21:47"
+    },
+    "hour3days": {
+      "password": "123",
+      "hwid": "",
+      "expiryDate": "2025-11-09",
+      "loginMessage": "",
+      "creationDate": "2025-11-05 10:00:26"
     }
   },
   "CYBER": {

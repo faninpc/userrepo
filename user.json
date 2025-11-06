@@ -1447,21 +1447,5 @@
       "expiryDate": "2025-11-01 21:22:00",
       "creationDate": "2025-10-31 21:22:04"
     }
-  },
-  "TESTCATE": {
-    "test": {
-      "password": "test",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-11-06 22:09:44"
-    },
-    "test1": {
-      "password": "test11",
-      "hwid": "",
-      "expiryDate": "2025-06-25",
-      "loginMessage": "",
-      "creationDate": "2025-11-06 22:15:42"
-    }
   }
 }

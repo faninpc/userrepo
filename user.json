@@ -1448,5 +1448,13 @@
       "creationDate": "2025-10-31 21:22:04"
     }
   },
-  "TESTCATE": {}
+  "TESTCATE": {
+    "test": {
+      "password": "test",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-11-06 22:09:44"
+    }
+  }
 }

@@ -607,6 +607,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "This user changes frequently to get a permanent user you have to buy the product !\r\nYou can message me on Discord or Whatsapp or can get quickly from this Web !\r\nhttps://erenxiter.netlify.app/",
       "creationDate": "2025-11-06 20:02:36"
+    },
+    "test": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-06-25",
+      "loginMessage": "",
+      "creationDate": "2025-11-06 21:20:33"
     }
   },
   "INSANE": {

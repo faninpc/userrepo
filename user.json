@@ -598,10 +598,11 @@
     },
     "awais123sa": {
       "password": "12s21",
-      "hwid": "4aeeb243d5a66a0bb3a5d26630bd9059f57146c4a54051c405f5db1a68c260df",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-11-06 18:23:10"
+      "creationDate": "2025-11-06 18:23:10",
+      "lastReset": "2025-11-07T11:10:15.597Z"
     },
     "dailyuser942": {
       "password": "dailypass261",

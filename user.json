@@ -1274,7 +1274,7 @@
     },
     "salzuser5x30days": {
       "password": "salzuser5x30days",
-      "hwid": "",
+      "hwid": "ff29f55fd39baf2c0a67633aca06b098be1b72fb215672614293b5453b1805d6",
       "expiryDate": "2025-11-23",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-10-22 16:58:59"

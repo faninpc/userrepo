@@ -499,10 +499,11 @@
     },
     "basit": {
       "password": "1",
-      "hwid": "13058eaca8565058ba6b07938ba1213814f50a5a357bd8800dd74968458078c8",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
-      "creationDate": "2025-09-27 08:42:24"
+      "creationDate": "2025-09-27 08:42:24",
+      "lastReset": "2025-11-08T13:51:02.296Z"
     },
     "yousuf11": {
       "password": "1",

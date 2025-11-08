@@ -571,10 +571,11 @@
     },
     "waleed1213": {
       "password": "ads23e",
-      "hwid": "bd3a65413938bbfdb56f4e8577824192c7d3a5958e5630bbb2a7f961bc806d3c",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
-      "creationDate": "2025-10-29 05:57:51"
+      "creationDate": "2025-10-29 05:57:51",
+      "lastReset": "2025-11-08T19:33:21.073Z"
     },
     "user2313": {
       "password": "sa213d12",

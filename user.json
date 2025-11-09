@@ -1356,6 +1356,13 @@
       "expiryDate": "2025-11-12",
       "loginMessage": "",
       "creationDate": "2025-11-08 14:18:10"
+    },
+    "fafa31days": {
+      "password": "123123",
+      "hwid": "",
+      "expiryDate": "2025-12-10",
+      "loginMessage": "",
+      "creationDate": "2025-11-09 09:20:30"
     }
   },
   "CYBER": {

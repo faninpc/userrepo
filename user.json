@@ -1112,7 +1112,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-21 14:33:13",
-      "lastUsed": "2025-11-09 10:24:11"
+      "lastUsed": "2025-11-09 10:29:06"
     },
     "max": {
       "password": "1",
@@ -1366,11 +1366,10 @@
     },
     "30daysx12": {
       "password": "123321",
-      "hwid": "03000200-0400-0500-0006-000700080009",
+      "hwid": "",
       "expiryDate": "2025-12-10",
       "loginMessage": "",
-      "creationDate": "2025-11-09 10:24:58",
-      "lastUsed": "2025-11-09 10:28:56"
+      "creationDate": "2025-11-09 10:24:58"
     }
   },
   "CYBER": {

@@ -1500,12 +1500,6 @@
       "hwid": "b7b5040a954096d02c6ed4bf65dd8a6e1b639e9c8411a3f4f7a5ab4dbf82219b",
       "expiryDate": "No Expiry",
       "creationDate": "2025-10-31 20:35:38"
-    },
-    "freeob51": {
-      "password": "external",
-      "hwid": "free",
-      "expiryDate": "2025-11-01 21:22:00",
-      "creationDate": "2025-10-31 21:22:04"
     }
   }
 }

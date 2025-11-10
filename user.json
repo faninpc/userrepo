@@ -421,11 +421,12 @@
     },
     "vaibhav": {
       "password": "1",
-      "hwid": "9a850027057ca1e40fac87c67f5f0bc8d31d943c9da657a094f457111901c305",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-08-26 04:46:11",
-      "lastUsed": "2025-08-29 04:47:29"
+      "lastUsed": "2025-08-29 04:47:29",
+      "lastReset": "2025-11-10T14:52:17.138Z"
     },
     "arqum6c": {
       "password": "1",

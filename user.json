@@ -1181,6 +1181,13 @@
     }
   },
   "SALZ": {
+    "123": {
+      "password": "321",
+      "hwid": "dadee6e05388d1cd94d2421c47b99d7cc0fadd4bb44e8c365c16628dffaa98fe",
+      "expiryDate": "2025-11-11",
+      "loginMessage": "",
+      "creationDate": "2025-11-10 11:32:46"
+    },
     "123123": {
       "password": "123123",
       "hwid": "387c36b2f0cb28d773ac462ddf9ef2d92b37205d27c89c9ef7e5cc202b37f8f2",
@@ -1370,13 +1377,6 @@
       "expiryDate": "2025-12-10",
       "loginMessage": "",
       "creationDate": "2025-11-09 10:24:58"
-    },
-    "123": {
-      "password": "321",
-      "hwid": "",
-      "expiryDate": "2025-11-11",
-      "loginMessage": "",
-      "creationDate": "2025-11-10 11:32:46"
     }
   },
   "CYBER": {

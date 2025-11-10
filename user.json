@@ -1503,7 +1503,7 @@
     },
     "free": {
       "password": "24hrsexternal",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2025-11-11 10:07:05",
       "creationDate": "2025-11-10 09:07:11"
     }

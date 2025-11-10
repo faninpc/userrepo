@@ -1370,6 +1370,13 @@
       "expiryDate": "2025-12-10",
       "loginMessage": "",
       "creationDate": "2025-11-09 10:24:58"
+    },
+    "123": {
+      "password": "321",
+      "hwid": "",
+      "expiryDate": "2025-11-11",
+      "loginMessage": "",
+      "creationDate": "2025-11-10 11:32:46"
     }
   },
   "CYBER": {

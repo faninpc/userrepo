@@ -1378,6 +1378,13 @@
       "expiryDate": "2025-12-10",
       "loginMessage": "",
       "creationDate": "2025-11-09 10:24:58"
+    },
+    "salz": {
+      "password": "123",
+      "hwid": "",
+      "expiryDate": "2026-04-15",
+      "loginMessage": "",
+      "creationDate": "2025-11-10 18:24:08"
     }
   },
   "CYBER": {

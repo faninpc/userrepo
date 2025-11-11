@@ -1160,13 +1160,6 @@
     }
   },
   "SALZ": {
-    "123": {
-      "password": "321",
-      "hwid": "dadee6e05388d1cd94d2421c47b99d7cc0fadd4bb44e8c365c16628dffaa98fe",
-      "expiryDate": "2025-11-11",
-      "loginMessage": "",
-      "creationDate": "2025-11-10 11:32:46"
-    },
     "123321": {
       "password": "123321",
       "hwid": "b64797dd613c82fc7a31fc8224ee58845e1da319f1ec17cb3a11aca2939363a4",
@@ -1222,13 +1215,6 @@
       "expiryDate": "2025-12-04",
       "loginMessage": "",
       "creationDate": "2025-11-02 15:22:12"
-    },
-    "pheak7day": {
-      "password": "123",
-      "hwid": "",
-      "expiryDate": "2025-11-11",
-      "loginMessage": "",
-      "creationDate": "2025-11-03 09:21:47"
     },
     "pujoy31days": {
       "password": "123",
@@ -1457,12 +1443,6 @@
       "hwid": "b7b5040a954096d02c6ed4bf65dd8a6e1b639e9c8411a3f4f7a5ab4dbf82219b",
       "expiryDate": "No Expiry",
       "creationDate": "2025-10-31 20:35:38"
-    },
-    "free": {
-      "password": "24hrsexternal",
-      "hwid": "free",
-      "expiryDate": "2025-11-11 10:07:05",
-      "creationDate": "2025-11-10 09:07:11"
     }
   }
 }

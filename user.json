@@ -310,11 +310,12 @@
     },
     "juice": {
       "password": "1",
-      "hwid": "1649e138c3776d8cda4c55960ef3303985abb5b482a8b79e92566ba877105624",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-07-26 14:18:44",
-      "lastUsed": "2025-07-27 16:50:34"
+      "lastUsed": "2025-07-27 16:50:34",
+      "lastReset": "2025-11-12T15:08:50.716Z"
     },
     "mashrafee": {
       "password": "1",

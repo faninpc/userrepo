@@ -1471,5 +1471,13 @@
       "creationDate": "2025-10-31 20:35:38"
     }
   },
-  "MATADOR": {}
+  "MATADOR": {
+    "test": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-11-13 18:30:05"
+    }
+  }
 }

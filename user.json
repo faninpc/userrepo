@@ -1426,10 +1426,11 @@
     },
     "erenhehe": {
       "password": "1",
-      "hwid": "",
+      "hwid": "2d2776459f204b35601ddf8c15948b37549446400a70b484a273266a790e22e8",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-11-14 06:46:46"
+      "creationDate": "2025-11-14 06:46:46",
+      "lastUsed": "2025-11-14 06:47:01"
     }
   },
   "AIM": {

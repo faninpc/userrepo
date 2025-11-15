@@ -332,7 +332,7 @@
       "loginMessage": "Not cheating, just aggressively skilled.",
       "creationDate": "2025-08-07 21:34:30",
       "lastUsed": "2025-09-08 21:10:02",
-      "lastReset": "2025-11-15T22:18:37.180Z"
+      "lastReset": "2025-11-15T22:18:37.18Z"
     },
     "aura": {
       "password": "1",
@@ -1482,7 +1482,7 @@
     },
     "ahmad1": {
       "password": "1",
-      "hwid": "70cf5c825637b31575cceec014c5a65fc3254fe59bce5a028b942e7af4c4b4af",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-09-25 16:05:48"

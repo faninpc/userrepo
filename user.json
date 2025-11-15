@@ -327,11 +327,12 @@
     },
     "matador": {
       "password": "1",
-      "hwid": "5d356eedf545b0bd366efbe15e33f65112bf463fcb1574c3e2a93117eef6c1a2",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Not cheating, just aggressively skilled.",
       "creationDate": "2025-08-07 21:34:30",
-      "lastUsed": "2025-09-08 21:10:02"
+      "lastUsed": "2025-09-08 21:10:02",
+      "lastReset": "2025-11-15T22:18:37.180Z"
     },
     "aura": {
       "password": "1",

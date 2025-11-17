@@ -1553,6 +1553,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-13 18:30:05"
+    },
+    "issame": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-07-06",
+      "loginMessage": "",
+      "creationDate": "2025-11-17 21:20:30"
     }
   }
 }

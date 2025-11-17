@@ -613,7 +613,8 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-11-17 12:40:57"
+      "creationDate": "2025-11-17 12:40:57",
+      "lastReset": "2025-11-17T14:22:11.955Z"
     },
     "edex": {
       "password": "erenuskabaap",

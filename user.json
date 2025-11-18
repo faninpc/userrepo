@@ -1514,7 +1514,7 @@
   "MATADOR": {
     "mtd": {
       "password": "11",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-18 01:45:17"

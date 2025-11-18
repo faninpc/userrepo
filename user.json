@@ -1556,7 +1556,7 @@
     },
     "issame": {
       "password": "1",
-      "hwid": "free",
+      "hwid": "",
       "expiryDate": "2025-07-06",
       "loginMessage": "",
       "creationDate": "2025-11-17 21:20:30"

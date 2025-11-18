@@ -1520,7 +1520,7 @@
   "MATADOR": {
     "testo": {
       "password": "1",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-18 18:41:40"

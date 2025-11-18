@@ -1197,13 +1197,6 @@
     }
   },
   "SALZ": {
-    "2": {
-      "password": "2",
-      "hwid": "1bf249c2cf994c33278931399b6c79883bd2f89436614d501908f4a0002f2874",
-      "expiryDate": "2025-11-13",
-      "loginMessage": "",
-      "creationDate": "2025-11-11 11:23:38"
-    },
     "112233": {
       "password": "112233",
       "hwid": "3ff40182676fb78a9f7be255d4b1597c6ed1b3d064d59275fe41c6e61c2f5996",
@@ -1231,13 +1224,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-10-09 11:37:32"
-    },
-    "user1_30days": {
-      "password": "123123",
-      "hwid": "141987c4f41333835dbdd4c3faeba5e0561d0b5bfd418898652b459d4b021c18",
-      "expiryDate": "2025-11-17",
-      "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
-      "creationDate": "2025-10-16 09:17:55"
     },
     "sofy30days": {
       "password": "123",
@@ -1288,20 +1274,6 @@
       "loginMessage": "",
       "creationDate": "2025-11-07 11:01:06"
     },
-    "7daysx11": {
-      "password": "123",
-      "hwid": "b38c7e6495584a28154c3ba84b5f25cd966e320e032ee299ebad8ce766652ebb",
-      "expiryDate": "2025-11-16",
-      "loginMessage": "",
-      "creationDate": "2025-11-07 18:17:17"
-    },
-    "den5days": {
-      "password": "123",
-      "hwid": "ccb47bf78194f2489251a1fb19afd8ea1737ad8366b02275ca9d732c6d51c5ce",
-      "expiryDate": "2025-11-14",
-      "loginMessage": "",
-      "creationDate": "2025-11-07 18:17:55"
-    },
     "KG31Days": {
       "password": "123",
       "hwid": "ec6e56c7ba191866487c47b7aba795982d409ee3d3db95bdc28514a390f9b27b",
@@ -1315,13 +1287,6 @@
       "expiryDate": "2025-12-09",
       "loginMessage": "",
       "creationDate": "2025-11-08 14:16:57"
-    },
-    "dendi3days": {
-      "password": "123123",
-      "hwid": "c695aa08ccfdc54fe36060cb90b99af6777192f148d7b619b7c9a6292b1113ae",
-      "expiryDate": "2025-11-12",
-      "loginMessage": "",
-      "creationDate": "2025-11-08 14:18:10"
     },
     "fafa31days": {
       "password": "123123",
@@ -1553,13 +1518,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-13 18:30:05"
-    },
-    "issame": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2025-07-06",
-      "loginMessage": "",
-      "creationDate": "2025-11-17 21:20:30"
     }
   }
 }

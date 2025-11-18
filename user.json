@@ -614,6 +614,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Edex meri jaaaaaaaaaaaaaaaaan !",
       "creationDate": "2025-11-17 12:57:27"
+    },
+    "user": {
+      "password": "1day",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-11-18 04:32:24"
     }
   },
   "INSANE": {

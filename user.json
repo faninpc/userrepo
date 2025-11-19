@@ -744,11 +744,12 @@
     },
     "ffhamza": {
       "password": "1",
-      "hwid": "4bcaf7c8cb195aa90dc31f478364f893b378d2a3cdfdf6a423da622f4994874c",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-09 06:34:35",
       "lastUsed": "2025-09-13 14:53:30",
-      "loginMessage": "Enjoy Panel !"
+      "loginMessage": "Enjoy Panel !",
+      "lastReset": "2025-11-19T05:56:25.565Z"
     },
     "emily": {
       "password": "1",

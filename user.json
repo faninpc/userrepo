@@ -248,11 +248,12 @@
     },
     "Boost": {
       "password": "1",
-      "hwid": "135a9761985c6c1115cf72aa2fb172ff392e2c5093edfdc8a59865a8a3be5eff",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Not cheating, just aggressively skilled.",
       "creationDate": "2025-06-14 07:12:01",
-      "lastUsed": "2025-08-29 13:42:57"
+      "lastUsed": "2025-08-29 13:42:57",
+      "lastReset": "2025-11-19T13:52:46.037Z"
     },
     "arslan": {
       "password": "1",

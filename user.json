@@ -622,6 +622,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-18 04:32:24"
+    },
+    "boost1week": {
+      "password": "1c23",
+      "hwid": "",
+      "expiryDate": "2025-11-27",
+      "loginMessage": "",
+      "creationDate": "2025-11-19 08:20:29"
     }
   },
   "INSANE": {

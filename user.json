@@ -425,11 +425,12 @@
     },
     "talha1": {
       "password": "1",
-      "hwid": "2ca83b66654ad9f2cdf1b9313e244ad8655388478a20f486bd5d0bf725560b4c",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-09-02 17:39:09",
       "lastUsed": "2025-09-02 20:02:50",
-      "loginMessage": "Not cheating, just aggressively skilled."
+      "loginMessage": "Not cheating, just aggressively skilled.",
+      "lastReset": "2025-11-19T07:19:16.549Z"
     },
     "sami": {
       "password": "1",

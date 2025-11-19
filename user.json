@@ -1526,5 +1526,13 @@
       "creationDate": "2025-10-31 20:35:38"
     }
   },
-  "MATADOR": {}
+  "MATADOR": {
+    "matador": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "enjoy bro",
+      "creationDate": "2025-11-19 18:43:44"
+    }
+  }
 }

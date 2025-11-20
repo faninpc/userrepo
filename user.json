@@ -1513,7 +1513,7 @@
     },
     "100members": {
       "password": "free",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2025-11-21 10:02:54",
       "creationDate": "2025-11-20 09:03:00"
     }

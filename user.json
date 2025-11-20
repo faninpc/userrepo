@@ -1116,6 +1116,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-20 20:34:26"
+    },
+    "sanzt": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-11-20 20:34:44"
     }
   },
   "AUTHENTICATION": {

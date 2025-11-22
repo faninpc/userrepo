@@ -640,7 +640,7 @@
     },
     "dailyuser6": {
       "password": "dailypass2",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "No Expiry",
       "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
       "creationDate": "2025-11-22 14:36:20"

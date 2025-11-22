@@ -1163,7 +1163,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-09-04 14:34:29",
-      "lastUsed": "2025-11-22 14:03:01"
+      "lastUsed": "2025-11-22 14:12:20"
     },
     "maska12dsa": {
       "password": "d1",
@@ -1482,7 +1482,7 @@
     },
     "erox": {
       "password": "1",
-      "hwid": "230f741998885c017b9b55f1828501e630cb906e44c425ccfebb2fd52a786161",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-22 14:03:17"

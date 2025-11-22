@@ -849,7 +849,7 @@
     },
     "romi": {
       "password": "1",
-      "hwid": "0b9bae8a51e2da395bf327a6932d783293b95e97b0ce66f166cd6bd2f3793b0b",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-08-25 19:49:37",
       "lastUsed": "2025-10-19 23:54:10"
@@ -1539,7 +1539,7 @@
   "FREEEXTERNAL": {
     "romi": {
       "password": "1",
-      "hwid": "0b9bae8a51e2da395bf327a6932d783293b95e97b0ce66f166cd6bd2f3793b0b",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-10-21 21:03:49"
     },

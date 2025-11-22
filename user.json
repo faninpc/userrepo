@@ -1362,6 +1362,13 @@
       "expiryDate": "2025-12-22",
       "loginMessage": "",
       "creationDate": "2025-11-20 08:20:08"
+    },
+    "sofy15days": {
+      "password": "123",
+      "hwid": "",
+      "expiryDate": "2025-12-08",
+      "loginMessage": "",
+      "creationDate": "2025-11-22 07:12:06"
     }
   },
   "CYBER": {

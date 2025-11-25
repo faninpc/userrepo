@@ -337,11 +337,12 @@
     },
     "aura": {
       "password": "1",
-      "hwid": "ca7c0b7bfd6cc7737d56beee0b23109965d6f4e30d805ec639fd6d96f17596bd",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
       "creationDate": "2025-08-09 13:12:55",
-      "lastUsed": "2025-09-02 16:07:44"
+      "lastUsed": "2025-09-02 16:07:44",
+      "lastReset": "2025-11-25T12:28:05.468Z"
     },
     "laptop": {
       "password": "1",

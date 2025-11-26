@@ -509,13 +509,6 @@
       "creationDate": "2025-10-08 04:44:33",
       "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school."
     },
-    "uzair671": {
-      "password": "2313",
-      "hwid": "0888c9b6f4d4aadaa0354dd3e2a053f2d8f4a98118583ac2077710eefe4d02bc",
-      "expiryDate": "2025-11-23",
-      "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
-      "creationDate": "2025-10-23 01:50:47"
-    },
     "eren": {
       "password": "9630",
       "hwid": "2d2776459f204b35601ddf8c15948b37549446400a70b484a273266a790e22e8",
@@ -524,26 +517,12 @@
       "creationDate": "2025-10-23 08:54:37",
       "lastReset": "unlimited"
     },
-    "mustafa3213": {
-      "password": "123ga1",
-      "hwid": "0d91f2ecaabad49b1be812b575a9382de8363e4814e31dfbd80478b79fc40f2c",
-      "expiryDate": "2025-11-24",
-      "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
-      "creationDate": "2025-10-24 04:58:58"
-    },
     "xjod11730": {
       "password": "1334d3",
       "hwid": "f676d8757483bf8aa7799d0845535d841bad29fc6bfd60aa1ddd77ba01d670e7",
       "expiryDate": "No Expiry",
       "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
       "creationDate": "2025-10-25 09:37:26"
-    },
-    "iblamenoorr231": {
-      "password": "213421vc23",
-      "hwid": "c065499df075a1e06357ce5fc30cfc3a41264b2975a298e17bc8f87f6344fb26",
-      "expiryDate": "2025-11-25",
-      "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
-      "creationDate": "2025-10-25 09:40:08"
     },
     "waleed1213": {
       "password": "ads23e",
@@ -1234,13 +1213,6 @@
     }
   },
   "SALZ": {
-    "112233": {
-      "password": "112233",
-      "hwid": "3ff40182676fb78a9f7be255d4b1597c6ed1b3d064d59275fe41c6e61c2f5996",
-      "expiryDate": "2025-11-25",
-      "loginMessage": "",
-      "creationDate": "2025-11-17 08:33:04"
-    },
     "Bun180Days": {
       "password": "Bun180Days",
       "hwid": "25d21b39337c30372e4f16bf11b07ccb91a9d8062cbf0e27bfb98e5da70d655b",
@@ -1254,20 +1226,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-10-09 11:37:32"
-    },
-    "ra30days": {
-      "password": "ra30days",
-      "hwid": "",
-      "expiryDate": "2025-11-23",
-      "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
-      "creationDate": "2025-10-22 08:28:38"
-    },
-    "salzuser5x30days": {
-      "password": "salzuser5x30days",
-      "hwid": "ff29f55fd39baf2c0a67633aca06b098be1b72fb215672614293b5453b1805d6",
-      "expiryDate": "2025-11-23",
-      "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
-      "creationDate": "2025-10-22 16:58:59"
     },
     "salz30daysv6": {
       "password": "salz30daysv6",
@@ -1359,13 +1317,6 @@
       "expiryDate": "2025-12-19",
       "loginMessage": "",
       "creationDate": "2025-11-17 05:48:26"
-    },
-    "navit7daysx5": {
-      "password": "123",
-      "hwid": "",
-      "expiryDate": "2025-11-25",
-      "loginMessage": "",
-      "creationDate": "2025-11-17 14:12:11"
     },
     "nak30days": {
       "password": "123",
@@ -1601,12 +1552,6 @@
       "hwid": "b7b5040a954096d02c6ed4bf65dd8a6e1b639e9c8411a3f4f7a5ab4dbf82219b",
       "expiryDate": "No Expiry",
       "creationDate": "2025-10-31 20:35:38"
-    },
-    "insaneexternal": {
-      "password": "free",
-      "hwid": "free",
-      "expiryDate": "2025-11-26 14:20:52",
-      "creationDate": "2025-11-25 13:20:56"
     }
   },
   "MATADOR": {

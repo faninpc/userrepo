@@ -816,10 +816,11 @@
     },
     "waheed": {
       "password": "1",
-      "hwid": "5c114dd4d9c86ec6031bda4aee253b680cffb93589bce3babcdd1ebbc7ccb5aa",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-18 08:58:50",
-      "lastUsed": "2025-07-21 17:24:28"
+      "lastUsed": "2025-07-21 17:24:28",
+      "lastReset": "2025-11-26T12:28:03.719Z"
     },
     "jony": {
       "password": "1",

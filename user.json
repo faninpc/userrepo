@@ -1407,6 +1407,13 @@
       "expiryDate": "2025-12-05",
       "loginMessage": "",
       "creationDate": "2025-11-25 14:51:30"
+    },
+    "kami30days": {
+      "password": "123",
+      "hwid": "",
+      "expiryDate": "2025-12-27",
+      "loginMessage": "",
+      "creationDate": "2025-11-26 06:51:49"
     }
   },
   "CYBER": {

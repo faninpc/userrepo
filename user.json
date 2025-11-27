@@ -1373,6 +1373,13 @@
       "expiryDate": "2025-12-27",
       "loginMessage": "",
       "creationDate": "2025-11-26 06:51:49"
+    },
+    "bo30days": {
+      "password": "123",
+      "hwid": "",
+      "expiryDate": "2025-12-27",
+      "loginMessage": "",
+      "creationDate": "2025-11-27 13:07:49"
     }
   },
   "CYBER": {

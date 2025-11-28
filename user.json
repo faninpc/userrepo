@@ -1562,7 +1562,7 @@
     },
     "free": {
       "password": "free",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2025-11-29 21:17:28",
       "creationDate": "2025-11-28 20:17:33"
     }

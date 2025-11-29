@@ -1384,7 +1384,7 @@
     },
     "bo30days": {
       "password": "123",
-      "hwid": "2103561e69ae57018b5ed9e59ffe71f71ee5e8557219225341cac6d5b716c88f",
+      "hwid": "",
       "expiryDate": "2025-12-27",
       "loginMessage": "",
       "creationDate": "2025-11-27 13:07:49"

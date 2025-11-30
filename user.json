@@ -1396,6 +1396,13 @@
       "expiryDate": "2025-12-27",
       "loginMessage": "",
       "creationDate": "2025-11-27 13:07:49"
+    },
+    "chav": {
+      "password": "123",
+      "hwid": "",
+      "expiryDate": "2025-12-31",
+      "loginMessage": "",
+      "creationDate": "2025-11-30 10:04:08"
     }
   },
   "CYBER": {

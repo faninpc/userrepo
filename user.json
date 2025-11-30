@@ -468,10 +468,11 @@
     },
     "mian45": {
       "password": "1",
-      "hwid": "a03540be05ae52acfa9b06c97c5c34344b2cf8a3901cdda81f1d8ee0abe3a25f",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
-      "creationDate": "2025-09-24 16:44:10"
+      "creationDate": "2025-09-24 16:44:10",
+      "lastReset": "2025-11-30T07:51:07.956Z"
     },
     "kokoff": {
       "password": "1",

@@ -1236,6 +1236,13 @@
     }
   },
   "SALZ": {
+    "1": {
+      "password": "1",
+      "hwid": "633f67e61fcfe6e965ba30a6b90253f2dbc5f0ef95eab450f17b6b4b8021fad7",
+      "expiryDate": "2025-12-04",
+      "loginMessage": "",
+      "creationDate": "2025-11-30 11:25:39"
+    },
     "Bun180Days": {
       "password": "Bun180Days",
       "hwid": "25d21b39337c30372e4f16bf11b07ccb91a9d8062cbf0e27bfb98e5da70d655b",
@@ -1410,13 +1417,6 @@
       "expiryDate": "2025-12-08",
       "loginMessage": "",
       "creationDate": "2025-11-30 10:04:38"
-    },
-    "1": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2025-12-04",
-      "loginMessage": "",
-      "creationDate": "2025-11-30 11:25:39"
     }
   },
   "CYBER": {

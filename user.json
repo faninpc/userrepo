@@ -1149,6 +1149,13 @@
       "expiryDate": "2026-01-02",
       "loginMessage": "",
       "creationDate": "2025-11-30 17:34:25"
+    },
+    "test1d": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-12-02",
+      "loginMessage": "",
+      "creationDate": "2025-12-01 11:30:39"
     }
   },
   "AUTHENTICATION": {

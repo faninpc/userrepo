@@ -1413,7 +1413,7 @@
     },
     "chav": {
       "password": "123",
-      "hwid": "197845525082c9caff0f6aca7459a8db6031dd4b0808ff4730ab35f7cd8e413b",
+      "hwid": "",
       "expiryDate": "2025-12-31",
       "loginMessage": "",
       "creationDate": "2025-11-30 10:04:08"

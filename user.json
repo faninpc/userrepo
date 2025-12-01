@@ -1,5 +1,5 @@
 {
-  "EREN1": {
+  "EREN": {
     "515": {
       "password": "1",
       "hwid": "35779722f2661becce85df5b2866afd8843be66ed1a0b42a941a468363ab86c3",
@@ -1262,7 +1262,7 @@
       "lastUsed": "2025-09-27 22:44:47"
     }
   },
-  "SALZ": {
+  "SALZ1": {
     "1": {
       "password": "1",
       "hwid": "633f67e61fcfe6e965ba30a6b90253f2dbc5f0ef95eab450f17b6b4b8021fad7",
@@ -1639,4 +1639,5 @@
       "creationDate": "2025-11-20 00:22:05"
     }
   }
+
 }

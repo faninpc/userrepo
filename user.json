@@ -1152,7 +1152,7 @@
     },
     "test1d": {
       "password": "1",
-      "hwid": "",
+      "hwid": "0e9e1e2e2ace5aa9c9f0431a26a720d3835b6a3d91f50b9ab2544feb32caa02d",
       "expiryDate": "2025-12-02",
       "loginMessage": "",
       "creationDate": "2025-12-01 11:30:39"

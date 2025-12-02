@@ -1304,7 +1304,7 @@
       "lastUsed": "2025-09-27 22:44:47"
     }
   },
-  "SALZ1": {
+  "SALZ": {
     "1": {
       "password": "1",
       "hwid": "633f67e61fcfe6e965ba30a6b90253f2dbc5f0ef95eab450f17b6b4b8021fad7",
@@ -1681,4 +1681,5 @@
       "creationDate": "2025-11-20 00:22:05"
     }
   }
+
 }

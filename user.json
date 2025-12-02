@@ -1169,6 +1169,13 @@
       "expiryDate": "2025-12-02",
       "loginMessage": "",
       "creationDate": "2025-12-01 11:30:39"
+    },
+    "nak30day": {
+      "password": "123",
+      "hwid": "",
+      "expiryDate": "2025-12-21",
+      "loginMessage": "",
+      "creationDate": "2025-12-02 11:38:03"
     }
   },
   "AUTHENTICATION": {

@@ -1176,6 +1176,13 @@
       "expiryDate": "2025-12-21",
       "loginMessage": "",
       "creationDate": "2025-12-02 11:38:03"
+    },
+    "sofy30day": {
+      "password": "123",
+      "hwid": "",
+      "expiryDate": "2025-12-18",
+      "loginMessage": "",
+      "creationDate": "2025-12-02 11:38:40"
     }
   },
   "AUTHENTICATION": {

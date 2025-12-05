@@ -1216,7 +1216,7 @@
     },
     "user1_30day": {
       "password": "123",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2026-01-06",
       "loginMessage": "",
       "creationDate": "2025-12-05 08:04:58"

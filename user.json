@@ -1172,13 +1172,6 @@
       "loginMessage": "",
       "creationDate": "2025-11-30 17:34:25"
     },
-    "test1d": {
-      "password": "1",
-      "hwid": "0e9e1e2e2ace5aa9c9f0431a26a720d3835b6a3d91f50b9ab2544feb32caa02d",
-      "expiryDate": "2025-12-02",
-      "loginMessage": "",
-      "creationDate": "2025-12-01 11:30:39"
-    },
     "nak30day": {
       "password": "123",
       "hwid": "free",
@@ -1321,13 +1314,6 @@
     }
   },
   "SALZ": {
-    "1": {
-      "password": "1",
-      "hwid": "633f67e61fcfe6e965ba30a6b90253f2dbc5f0ef95eab450f17b6b4b8021fad7",
-      "expiryDate": "2025-12-04",
-      "loginMessage": "",
-      "creationDate": "2025-11-30 11:25:39"
-    },
     "Bun180Days": {
       "password": "Bun180Days",
       "hwid": "25d21b39337c30372e4f16bf11b07ccb91a9d8062cbf0e27bfb98e5da70d655b",
@@ -1341,13 +1327,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-10-09 11:37:32"
-    },
-    "salz30daysv6": {
-      "password": "salz30daysv6",
-      "hwid": "6328ae19ec18833095541e214e5b9c5eb45b65eb7498020cfa7698554ec509a2",
-      "expiryDate": "2025-12-04",
-      "loginMessage": "",
-      "creationDate": "2025-11-02 15:22:12"
     },
     "pujoy31days": {
       "password": "123",
@@ -1460,20 +1439,6 @@
       "expiryDate": "2025-12-24",
       "loginMessage": "",
       "creationDate": "2025-11-22 17:11:08"
-    },
-    "10days": {
-      "password": "123",
-      "hwid": "1826d0c57599feb152dc0e8bc04b4a1c127c999247167172cfffa0f4eba36d53",
-      "expiryDate": "2025-12-04",
-      "loginMessage": "",
-      "creationDate": "2025-11-24 10:16:56"
-    },
-    "10dayx2": {
-      "password": "123",
-      "hwid": "",
-      "expiryDate": "2025-12-05",
-      "loginMessage": "",
-      "creationDate": "2025-11-25 14:51:30"
     },
     "kami30days": {
       "password": "123",

@@ -834,10 +834,11 @@
     },
     "zunair": {
       "password": "1",
-      "hwid": "a5b00e04dd3dbaa64f7df2b939aa34b33dd26081b58c25e424001946b9f3ef6e",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-22 06:31:51",
-      "lastUsed": "2025-09-13 13:02:04"
+      "lastUsed": "2025-09-13 13:02:04",
+      "lastReset": "2025-12-07T01:56:57.893Z"
     },
     "mian": {
       "password": "1",

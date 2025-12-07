@@ -1526,10 +1526,11 @@
     },
     "cyber": {
       "password": "1",
-      "hwid": "ef0dab38c389ef8e7430bd1ba0631864d5bb2977890cc028e0d27f52834b1b83",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-10-13 10:49:42"
+      "creationDate": "2025-10-13 10:49:42",
+      "lastReset": "2025-12-07T17:24:15.479Z"
     },
     "cyberdz": {
       "password": "1",

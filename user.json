@@ -1224,6 +1224,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-12-06 20:24:49"
+    },
+    "visa20day": {
+      "password": "123",
+      "hwid": "",
+      "expiryDate": "2025-12-29",
+      "loginMessage": "",
+      "creationDate": "2025-12-09 10:26:48"
     }
   },
   "AUTHENTICATION": {

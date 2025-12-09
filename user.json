@@ -1190,13 +1190,6 @@
       "loginMessage": "",
       "creationDate": "2025-12-02 11:39:10"
     },
-    "user31days": {
-      "password": "123",
-      "hwid": "8ea9012b76492bdb26c557b4a53b6d96309e395de01a8bebe5a1cedc275ad15f",
-      "expiryDate": "2025-12-09",
-      "loginMessage": "",
-      "creationDate": "2025-12-02 11:40:19"
-    },
     "bo30day": {
       "password": "123",
       "hwid": "free",
@@ -1339,41 +1332,6 @@
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-10-09 11:37:32"
     },
-    "pujoy31days": {
-      "password": "123",
-      "hwid": "8e1a75d0b06d4a65977179ea123fbd1f567e33be74f491827c55b9477912be52",
-      "expiryDate": "2025-12-07",
-      "loginMessage": "",
-      "creationDate": "2025-11-05 10:06:18"
-    },
-    "sopheak123": {
-      "password": "123",
-      "hwid": "445c11d86022ff62a61697b122526f1b50f6024f139b6ada72429051fff9ddb2",
-      "expiryDate": "2025-12-07",
-      "loginMessage": "",
-      "creationDate": "2025-11-07 08:47:08"
-    },
-    "user31days8": {
-      "password": "123",
-      "hwid": "19e7749a97ed84a6063d908923e0a71fd3135b246ddfbf7f05979a26b6baf661",
-      "expiryDate": "2025-12-09",
-      "loginMessage": "",
-      "creationDate": "2025-11-07 11:01:06"
-    },
-    "KG31Days": {
-      "password": "123",
-      "hwid": "ec6e56c7ba191866487c47b7aba795982d409ee3d3db95bdc28514a390f9b27b",
-      "expiryDate": "2025-12-09",
-      "loginMessage": "",
-      "creationDate": "2025-11-07 18:18:42"
-    },
-    "mengyu31days": {
-      "password": "123123",
-      "hwid": "ce46bb77b0b9e639590937303938cb94d0a4d5d78721a6519eb41aaf8fb79d7f",
-      "expiryDate": "2025-12-09",
-      "loginMessage": "",
-      "creationDate": "2025-11-08 14:16:57"
-    },
     "fafa31days": {
       "password": "123123",
       "hwid": "26a07fa3b5d91395cb2a588a5fcfb7d9f22f8ef86a7baaa1f9263df4017a22db",
@@ -1437,13 +1395,6 @@
       "loginMessage": "",
       "creationDate": "2025-11-20 08:20:08"
     },
-    "sofy15days": {
-      "password": "123",
-      "hwid": "dbe34616af170c38a40f72901e5f9a7da58253853826e8545b2b0928e392f059",
-      "expiryDate": "2025-12-08",
-      "loginMessage": "",
-      "creationDate": "2025-11-22 07:12:06"
-    },
     "sak30days2": {
       "password": "123",
       "hwid": "75c164a880d986f9c969695027dfbd65ba3a7bd4ee34d372dc06bfc313412da9",
@@ -1471,13 +1422,6 @@
       "expiryDate": "2025-12-31",
       "loginMessage": "",
       "creationDate": "2025-11-30 10:04:08"
-    },
-    "7dayx9": {
-      "password": "123",
-      "hwid": "51fd8fdd32f6fd534cde607bec8afed90fd3a2f2e856c4cac85c1734462285e3",
-      "expiryDate": "2025-12-08",
-      "loginMessage": "",
-      "creationDate": "2025-11-30 10:04:38"
     },
     "zypop": {
       "password": "123",

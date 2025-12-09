@@ -194,11 +194,12 @@
     },
     "hassan": {
       "password": "1",
-      "hwid": "099730b1c5cb93635307799e8d77a656cdf354414f30eba9e2fc40e8b0cccf27",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-31 17:05:39",
       "lastUsed": "2025-07-08 06:34:41",
-      "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school."
+      "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
+      "lastReset": "2025-12-09T03:09:05.671Z"
     },
     "bakar11": {
       "password": "1",

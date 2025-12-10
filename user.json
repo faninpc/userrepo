@@ -627,10 +627,11 @@
     },
     "deathrnd": {
       "password": "1cw",
-      "hwid": "2e2dd2338730aa0f98533f53cf5dfa352186f94a0194f4cfa074a583ef61b098",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-12-01 15:48:18"
+      "creationDate": "2025-12-01 15:48:18",
+      "lastReset": "2025-12-10T16:13:18.217Z"
     },
     "eren1": {
       "password": "96301",

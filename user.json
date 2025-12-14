@@ -671,12 +671,13 @@
     },
     "dailyerenxiters": {
       "password": "dailypass2222",
-      "hwid": "ce89fb2b67a116332c6f281aee9289da0ec34598010fed5b25fbbdd62299ae7e",
+      "hwid": "free",
       "expiryDate": "No Expiry",
       "loginMessage": "Becasue bread taste better than key !",
       "creationDate": "2025-12-14 15:35:25",
       "payRemaining": "Paid",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": "free"
     }
   },
   "INSANE": {

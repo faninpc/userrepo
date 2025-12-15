@@ -1247,6 +1247,13 @@
       "expiryDate": "2025-12-29",
       "loginMessage": "",
       "creationDate": "2025-12-09 10:26:48"
+    },
+    "p31": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-01-15",
+      "loginMessage": "",
+      "creationDate": "2025-12-15 12:55:04"
     }
   },
   "AUTHENTICATION": {

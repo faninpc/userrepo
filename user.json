@@ -662,12 +662,13 @@
     },
     "lytong": {
       "password": "lytong123",
-      "hwid": "ac25e07b86525f6db07d34026a025320eaf013c7a7b6d16ab5cf8bb1942a4e97",
+      "hwid": "",
       "expiryDate": "2026-02-12",
       "loginMessage": "",
       "creationDate": "2025-12-14 15:31:13",
       "payRemaining": "Paid",
-      "contactInfo": "uR7Wc2nC7uC3mQ1vH4wS5Nw6vH4hR3pL8Bq6MZ3MZ3Hf2MZ3Wm9"
+      "contactInfo": "uR7Wc2nC7uC3mQ1vH4wS5Nw6vH4hR3pL8Bq6MZ3MZ3Hf2MZ3Wm9",
+      "lastReset": "2025-12-15T09:17:22.845Z"
     },
     "dailyerenxiters": {
       "password": "dailypass2222",

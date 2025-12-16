@@ -579,13 +579,6 @@
       "loginMessage": "",
       "creationDate": "2025-11-29 17:50:42"
     },
-    "haris4c": {
-      "password": "1c2y",
-      "hwid": "a2c8145e67d1f5a58d31c356febd5029c149eea5d7a405da3f431e7515ad51d3",
-      "expiryDate": "2025-12-15",
-      "loginMessage": "",
-      "creationDate": "2025-12-01 14:20:12"
-    },
     "deathrnd": {
       "password": "1cw",
       "hwid": "2e2dd2338730aa0f98533f53cf5dfa352186f94a0194f4cfa074a583ef61b098",
@@ -1404,20 +1397,6 @@
       "loginMessage": "",
       "creationDate": "2025-11-10 18:24:08"
     },
-    "sing": {
-      "password": "123",
-      "hwid": "52c2a237502d89ab475912fad8c81aa8797e30cedaf7db0734c3d270c78e09d3",
-      "expiryDate": "2025-12-16",
-      "loginMessage": "",
-      "creationDate": "2025-11-15 05:54:27"
-    },
-    "phen31days": {
-      "password": "123",
-      "hwid": "48d77fcd892a5052c1f55e6deb62eff32f23e9eb867f639c6591e36e8ccd48b7",
-      "expiryDate": "2025-12-16",
-      "loginMessage": "",
-      "creationDate": "2025-11-15 15:31:25"
-    },
     "lyhour31days": {
       "password": "123321",
       "hwid": "e14973ae0adacd28172debd03357f6fd5ca9f7b60bd858cf4532df7af0155729",
@@ -1674,12 +1653,6 @@
       "hwid": "6266173306814b6f7769fc7adb323a681315ef963418afc6e18051d692b3bf7f",
       "expiryDate": "2026-02-01 12:43:01",
       "creationDate": "2025-12-01 12:43:05"
-    },
-    "moiz": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2025-12-15 05:12:12",
-      "creationDate": "2025-12-13 05:12:19"
     }
   },
   "MATADOR": {

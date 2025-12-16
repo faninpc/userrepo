@@ -1672,7 +1672,7 @@
     },
     "freeagain": {
       "password": "external",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2025-12-17 23:18:28",
       "creationDate": "2025-12-16 17:18:50"
     }

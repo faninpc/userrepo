@@ -1108,6 +1108,13 @@
     }
   },
   "B4EVER": {
+    "321": {
+      "password": "1",
+      "hwid": "free",
+      "expiryDate": "2025-12-17",
+      "loginMessage": "",
+      "creationDate": "2025-12-16 12:52:22"
+    },
     "maska": {
       "password": "1",
       "hwid": "e67f626e7da9fb0554e994f414feba9733d17650a59a986f4054674ee83a8ee2",
@@ -1275,13 +1282,6 @@
       "expiryDate": "2026-01-15",
       "loginMessage": "",
       "creationDate": "2025-12-15 12:55:38"
-    },
-    "321": {
-      "password": "1",
-      "hwid": "free",
-      "expiryDate": "2025-12-17",
-      "loginMessage": "",
-      "creationDate": "2025-12-16 12:52:22"
     }
   },
   "AUTHENTICATION": {
@@ -1376,6 +1376,13 @@
     }
   },
   "SALZ": {
+    "221": {
+      "password": "1",
+      "hwid": "8aa46866c60479fe51dec275b6a650286013eb1bc87d6ddfdb920f1646b59031",
+      "expiryDate": "2025-12-17",
+      "loginMessage": "",
+      "creationDate": "2025-12-16 13:07:31"
+    },
     "Bun180Days": {
       "password": "Bun180Days",
       "hwid": "25d21b39337c30372e4f16bf11b07ccb91a9d8062cbf0e27bfb98e5da70d655b",
@@ -1460,13 +1467,6 @@
       "loginMessage": "",
       "creationDate": "2025-12-14 08:27:45",
       "lastUsed": "2025-12-14 08:29:32"
-    },
-    "221": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2025-12-17",
-      "loginMessage": "",
-      "creationDate": "2025-12-16 13:07:31"
     }
   },
   "CYBER": {

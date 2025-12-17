@@ -1672,7 +1672,7 @@
     },
     "2days": {
       "password": "free",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2025-12-19 08:55:45",
       "creationDate": "2025-12-17 08:55:51"
     }

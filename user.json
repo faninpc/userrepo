@@ -1285,6 +1285,13 @@
       "expiryDate": "2026-01-15",
       "loginMessage": "",
       "creationDate": "2025-12-15 12:55:38"
+    },
+    "ALPHA": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-12-17 14:51:36"
     }
   },
   "AUTHENTICATION": {

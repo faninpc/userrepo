@@ -858,12 +858,13 @@
       "password": "sdfdfsnjmk324jklsd",
       "hwid": "free",
       "expiryDate": "No Expiry",
-      "loginMessage": "",
+      "loginMessage": "Ads unlocked valid for 24 hrs only !",
       "creationDate": "2025-12-18 06:01:33",
-      "payRemaining": "1$ / 280 PKR / 90 INR",
+      "payRemaining": "Paid",
       "contactInfo": "",
       "lastReset": "free",
-      "payreason": "Update Fees !"
+      "payreason": "Update Fees !",
+      "daysleft": "Unlimited"
     }
   },
   "INSANE": {

@@ -1457,6 +1457,13 @@
       "expiryDate": "2026-01-28",
       "loginMessage": "",
       "creationDate": "2025-12-18 09:20:36"
+    },
+    "7dpp": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-12-26",
+      "loginMessage": "",
+      "creationDate": "2025-12-19 13:54:14"
     }
   },
   "AUTHENTICATION": {

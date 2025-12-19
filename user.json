@@ -95,13 +95,14 @@
     },
     "mehar": {
       "password": "1",
-      "hwid": "11123348f1314377054079427ea264bb3247f039492f7744f6498a6975867428",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-04-25 10:02:15",
       "lastUsed": "2025-08-28 21:27:46",
       "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
       "payRemaining": "1$ / 280 PKR / 90 INR",
-      "payreason": "Update Fees !"
+      "payreason": "Update Fees !",
+      "lastReset": "2025-12-19T07:56:17.293Z"
     },
     "ashish": {
       "password": "1",

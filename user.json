@@ -725,8 +725,8 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-29 17:50:42",
-      "payRemaining": "1$ / 280 PKR / 90 INR",
-      "payreason": "Update Fees !"
+      "payRemaining": "",
+      "payreason": ""
     },
     "deathrnd": {
       "password": "1cw",

@@ -1599,15 +1599,6 @@
       "payRemaining": "1 $ / 280 pkr / 90 inr",
       "payreason": "Update Fees !"
     },
-    "lyhour31days": {
-      "password": "123321",
-      "hwid": "e14973ae0adacd28172debd03357f6fd5ca9f7b60bd858cf4532df7af0155729",
-      "expiryDate": "2025-12-19",
-      "loginMessage": "",
-      "creationDate": "2025-11-17 05:48:26",
-      "payRemaining": "1 $ / 280 pkr / 90 inr",
-      "payreason": "Update Fees !"
-    },
     "nak30days": {
       "password": "123",
       "hwid": "7c5f7a96c9d6ded0f0e41f83d95c681d20e91a26ed955df7ea2038ae8ea2c444",
@@ -1879,12 +1870,6 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-12-16 16:54:17"
-    },
-    "2days": {
-      "password": "free",
-      "hwid": "free",
-      "expiryDate": "2025-12-19 08:55:45",
-      "creationDate": "2025-12-17 08:55:51"
     },
     "worrior": {
       "password": "1",

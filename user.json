@@ -1668,6 +1668,15 @@
       "lastUsed": "2025-12-14 08:29:32",
       "payRemaining": "1 $ / 280 pkr / 90 inr",
       "payreason": "Update Fees !"
+    },
+    "test": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-01-01",
+      "loginMessage": "",
+      "creationDate": "2025-12-20 11:28:01",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   },
   "CYBER": {

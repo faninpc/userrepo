@@ -847,12 +847,13 @@
     },
     "Eren Xiters Free User": {
       "password": "1csdw12cq1",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "No Expiry",
       "loginMessage": "This User Reset every 24 Hrs !\r\nYou need to see ads every 24 Hrs !\r\nSorry for that ..... :)",
       "creationDate": "2025-12-20 01:46:43",
       "payRemaining": "Paid",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": "free"
     }
   },
   "INSANE": {

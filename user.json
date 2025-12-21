@@ -1393,6 +1393,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-12-19 14:01:49"
+    },
+    "zack": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-12-21 11:33:54"
     }
   },
   "AUTHENTICATION": {

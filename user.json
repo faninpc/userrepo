@@ -1600,6 +1600,13 @@
       "lastUsed": "2025-12-14 08:29:32",
       "payRemaining": "1 $ / 280 pkr / 90 inr",
       "payreason": "Update Fees !"
+    },
+    "leang": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-01-01",
+      "loginMessage": "",
+      "creationDate": "2025-12-22 10:13:17"
     }
   },
   "CYBER": {

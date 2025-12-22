@@ -1407,13 +1407,6 @@
       "expiryDate": "2026-01-01",
       "loginMessage": "",
       "creationDate": "2025-12-22 10:06:21"
-    },
-    "sofy15days": {
-      "password": "123",
-      "hwid": "free",
-      "expiryDate": "2026-01-05",
-      "loginMessage": "",
-      "creationDate": "2025-12-22 10:08:03"
     }
   },
   "AUTHENTICATION": {
@@ -1439,7 +1432,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-21 14:33:13",
-      "lastUsed": "2025-12-22 10:07:27"
+      "lastUsed": "2025-12-22 10:12:15"
     },
     "max": {
       "password": "1",

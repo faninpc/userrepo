@@ -1407,6 +1407,13 @@
       "expiryDate": "2026-01-01",
       "loginMessage": "",
       "creationDate": "2025-12-22 10:06:21"
+    },
+    "salz": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-12-22 11:51:11"
     }
   },
   "AUTHENTICATION": {

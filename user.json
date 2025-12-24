@@ -1429,6 +1429,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-12-23 14:16:45"
+    },
+    "7dp": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-12-28",
+      "loginMessage": "",
+      "creationDate": "2025-12-24 08:36:12"
     }
   },
   "AUTHENTICATION": {

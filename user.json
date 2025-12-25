@@ -1451,6 +1451,13 @@
       "expiryDate": "2026-01-25",
       "loginMessage": "",
       "creationDate": "2025-12-24 10:44:24"
+    },
+    "ratana": {
+      "password": "123",
+      "hwid": "",
+      "expiryDate": "2026-12-25",
+      "loginMessage": "",
+      "creationDate": "2025-12-25 05:31:15"
     }
   },
   "AUTHENTICATION": {

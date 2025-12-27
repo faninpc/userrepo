@@ -1034,7 +1034,7 @@
     },
     "hasan": {
       "password": "1",
-      "hwid": "857300aa6c494d2d13b5fb4481096cdf1b7014536fdf435ec1ff7c3858dac7e5",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-06 11:18:01",
       "lastUsed": "2025-09-14 07:31:21"
@@ -1857,7 +1857,7 @@
     },
     "hasan": {
       "password": "1",
-      "hwid": "6c18e31a5be58cc408f4bf09ce9d9ba7721a49995ceefcf78120e060a0a52717",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-12-19 13:22:31"
     }

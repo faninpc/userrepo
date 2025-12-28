@@ -1795,6 +1795,15 @@
       "creationDate": "2025-12-22 16:54:47",
       "payRemaining": "",
       "contactInfo": ""
+    },
+    "Cyber": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-12-28 17:02:42",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   },
   "AIM": {

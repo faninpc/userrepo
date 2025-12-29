@@ -1435,13 +1435,6 @@
       "loginMessage": "",
       "creationDate": "2025-12-23 14:16:45"
     },
-    "7dp": {
-      "password": "1",
-      "hwid": "free",
-      "expiryDate": "2025-12-28",
-      "loginMessage": "",
-      "creationDate": "2025-12-24 08:36:12"
-    },
     "sofy15days": {
       "password": "123",
       "hwid": "free",
@@ -1594,24 +1587,6 @@
       "expiryDate": "2026-04-15",
       "loginMessage": "",
       "creationDate": "2025-11-10 18:24:08",
-      "payRemaining": "1 $ / 280 pkr / 90 inr",
-      "payreason": "Update Fees !"
-    },
-    "kami30days": {
-      "password": "123",
-      "hwid": "8db538c8593089794f86164c8bb9d21ec8008e40837fda55b6a32386336d1883",
-      "expiryDate": "2025-12-27",
-      "loginMessage": "",
-      "creationDate": "2025-11-26 06:51:49",
-      "payRemaining": "1 $ / 280 pkr / 90 inr",
-      "payreason": "Update Fees !"
-    },
-    "bo30days": {
-      "password": "123",
-      "hwid": "c28285cf9aa151648a321e58f9cf77e4a2c32b301c92322c3086ac8fa8dab3f9",
-      "expiryDate": "2025-12-27",
-      "loginMessage": "",
-      "creationDate": "2025-11-27 13:07:49",
       "payRemaining": "1 $ / 280 pkr / 90 inr",
       "payreason": "Update Fees !"
     },
@@ -1796,15 +1771,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-12-19 15:51:04"
-    },
-    "Mujeeb": {
-      "password": "1",
-      "hwid": "a633d65a2c8526ac85ba637cf58a78470a7caceb523ad05953f345939e18b76e",
-      "expiryDate": "2025-12-27",
-      "loginMessage": "",
-      "creationDate": "2025-12-22 16:54:47",
-      "payRemaining": "",
-      "contactInfo": ""
     },
     "Cyber": {
       "password": "1",

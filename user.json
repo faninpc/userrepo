@@ -704,12 +704,13 @@
     },
     "draco1": {
       "password": "1",
-      "hwid": "779dcda6f409c2ce2959d3d2dbe7ae9be7d2ca2d18883820679af393501eec81",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-26 20:07:02",
       "payRemaining": "Paid",
-      "payreason": ""
+      "payreason": "",
+      "lastReset": "2025-12-29T07:46:54.550Z"
     },
     "musadiq": {
       "password": "1vc1d",

@@ -1413,6 +1413,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-12-29 15:58:46"
+    },
+    "sofy30": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-01-24",
+      "loginMessage": "",
+      "creationDate": "2025-12-29 17:30:17"
     }
   },
   "AUTHENTICATION": {

@@ -1748,6 +1748,15 @@
       "creationDate": "2025-12-28 17:02:42",
       "payRemaining": "",
       "contactInfo": ""
+    },
+    "test": {
+      "password": "15 min",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Its Only For Test You Have Time To 15 Min For Testing",
+      "creationDate": "2025-12-31 10:49:33",
+      "payRemaining": "3k",
+      "contactInfo": "Wc2MZ8lA3Rk8wS5uR7fB4"
     }
   },
   "AIM": {

@@ -1441,7 +1441,7 @@
     },
     "ratana": {
       "password": "123",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2026-12-01",
       "loginMessage": "",
       "creationDate": "2026-01-01 08:09:21"

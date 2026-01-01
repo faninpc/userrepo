@@ -894,8 +894,9 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Pay your remaining pay through easypaisa/jazzcash !",
       "creationDate": "2026-01-01 14:16:51",
-      "payRemaining": "280 PKR",
-      "contactInfo": "rF4gS5Wm9nC7aP1tD3Hf2nC7cA7jR4jR4tD3Qv6tD3gS5"
+      "payRemaining": "Paid",
+      "contactInfo": "rF4gS5Wm9nC7aP1tD3Hf2nC7cA7jR4jR4tD3Qv6tD3gS5",
+      "payreason": ""
     }
   },
   "INSANE": {

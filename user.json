@@ -276,7 +276,7 @@
     },
     "insane": {
       "password": "1",
-      "hwid": "6266173306814b6f7769fc7adb323a681315ef963418afc6e18051d692b3bf7f",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-06-02 08:16:28",
       "lastUsed": "2025-09-13 12:52:08",
@@ -1658,7 +1658,7 @@
     },
     "insane": {
       "password": "1",
-      "hwid": "13c37f543bb0f18d5bcfeec8d3e6954536bc7b894ef51b099edfd7d29d1421dc",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-10-31 20:35:38"
     },

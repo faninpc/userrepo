@@ -890,12 +890,13 @@
     },
     "nexus": {
       "password": "1cx2",
-      "hwid": "ef15fb2e5072da5c44c946ffd954fb931ad22c738083bad2297b52c4474818b2",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-01-09 18:19:48",
       "payRemaining": "Paid",
-      "contactInfo": "uR7Rk8Qn6Nw6nC7Hj6q9XJm7mQ1sT9"
+      "contactInfo": "uR7Rk8Qn6Nw6nC7Hj6q9XJm7mQ1sT9",
+      "lastReset": "2026-01-11T17:01:05.636Z"
     }
   },
   "INSANE": {

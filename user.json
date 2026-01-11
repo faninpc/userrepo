@@ -1463,6 +1463,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-01-08 16:08:58"
+    },
+    "hay": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-02-12",
+      "loginMessage": "",
+      "creationDate": "2026-01-11 10:28:06"
     }
   },
   "AUTHENTICATION": {

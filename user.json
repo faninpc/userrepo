@@ -1197,6 +1197,12 @@
       "hwid": "3d1963e2b2ab7043df3afd263bd9aa3d52316cb9db719c3fc5d49af6adda18e8",
       "expiryDate": "No Expiry",
       "creationDate": "2026-01-04 12:55:58"
+    },
+    "basit": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2026-01-11 08:50:51"
     }
   },
   "FAKEDAMAGEFIX": {

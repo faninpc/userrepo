@@ -1475,6 +1475,13 @@
       "expiryDate": "2026-02-12",
       "loginMessage": "",
       "creationDate": "2026-01-12 11:38:18"
+    },
+    "run": {
+      "password": "7",
+      "hwid": "",
+      "expiryDate": "2026-01-19",
+      "loginMessage": "",
+      "creationDate": "2026-01-12 13:20:59"
     }
   },
   "AUTHENTICATION": {

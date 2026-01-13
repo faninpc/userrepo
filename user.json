@@ -1631,11 +1631,11 @@
   "CYBER": {
     "cyber": {
       "password": "1",
-      "hwid": "92e944d8b4c3a12fc9cfa7d51c1dc36c2f0b12183ab50bb39e8b45828d8b1ce5",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-10-13 10:49:42",
-      "lastReset": ""
+      "lastReset": "2026-01-13T16:17:15.723Z"
     },
     "atif": {
       "password": "1",

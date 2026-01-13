@@ -900,13 +900,14 @@
     },
     "ayub": {
       "password": "12d2",
-      "hwid": "eedffaed58ee98726021ac7897b09589fd635590eab1194b40d25b5917a9fec9",
+      "hwid": "",
       "expiryDate": "2026-03-13",
       "loginMessage": "Enjoy Ayub !\r\nUse risk feature carefully !",
       "creationDate": "2026-01-12 10:01:36",
       "payRemaining": "2 $",
       "contactInfo": "rF4Wm9Hf2Wm9nC7Qv6tD3nC7gS5gS5jR4gS5Wm9cA7tD3",
-      "payreason": "2 Months = 17 $, you have paid 15 $ !"
+      "payreason": "2 Months = 17 $, you have paid 15 $ !",
+      "lastReset": "2026-01-13T04:57:05.055Z"
     }
   },
   "INSANE": {

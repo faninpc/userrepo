@@ -881,12 +881,13 @@
     },
     "ashish": {
       "password": "1cq7j",
-      "hwid": "8cd3df9d03f07d4703f05e55907abc2fefae42635084dfa7cea666d0ff222f3a",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-01-13 10:36:55",
       "payRemaining": "Paid",
-      "contactInfo": "uR7Wc2nC7q9XhR3Nw6sT9hR3Nw6cA7aP1MZ3Hf2Bq6Hf2cA7gS5jR4xE8"
+      "contactInfo": "uR7Wc2nC7q9XhR3Nw6sT9hR3Nw6cA7aP1MZ3Hf2Bq6Hf2cA7gS5jR4xE8",
+      "lastReset": "2026-01-15T13:35:49.899Z"
     }
   },
   "INSANE": {

@@ -1584,16 +1584,6 @@
       "payRemaining": "1 $ / 280 pkr / 90 inr",
       "payreason": "Update Fees !"
     },
-    "31x": {
-      "password": "1",
-      "hwid": "141987c4f41333835dbdd4c3faeba5e0561d0b5bfd418898652b459d4b021c18",
-      "expiryDate": "2026-01-15",
-      "loginMessage": "",
-      "creationDate": "2025-12-14 08:27:45",
-      "lastUsed": "2025-12-14 08:29:32",
-      "payRemaining": "1 $ / 280 pkr / 90 inr",
-      "payreason": "Update Fees !"
-    },
     "sofy30": {
       "password": "1",
       "hwid": "dbe34616af170c38a40f72901e5f9a7da58253853826e8545b2b0928e392f059",
@@ -1723,13 +1713,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
       "creationDate": "2025-11-20 00:22:05"
-    },
-    "beny": {
-      "password": "1",
-      "hwid": "6eee2670f509c32637126a026586a5e791c601e51e559afd7c2752539265df61",
-      "expiryDate": "2026-01-14",
-      "loginMessage": "",
-      "creationDate": "2025-12-13 23:19:00"
     },
     "mimi": {
       "password": "1",

@@ -831,13 +831,14 @@
     },
     "umer": {
       "password": "1c32x",
-      "hwid": "c4d7aacecdf2a5a4ded13685821e08aace85c2c04287696b0abbf1a09c1612cd",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Pay your remaining pay through easypaisa/jazzcash !",
       "creationDate": "2026-01-01 14:16:51",
       "payRemaining": "Paid",
       "contactInfo": "rF4gS5Wm9nC7aP1tD3Hf2nC7cA7jR4jR4tD3Qv6tD3gS5",
-      "payreason": "Nothing"
+      "payreason": "Nothing",
+      "lastReset": "2026-01-15T16:36:30.024Z"
     },
     "brucee": {
       "password": "97510",

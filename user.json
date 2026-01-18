@@ -350,12 +350,12 @@
     },
     "mashrafee": {
       "password": "1",
-      "hwid": "3e1da39977945a6303a53898169d8d42e70303a5ba7215fccc5fb73b8eecc680",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
       "creationDate": "2025-08-04 12:06:25",
       "lastUsed": "2025-11-13 15:04:02",
-      "lastReset": "2025-11-13T14:57:22.262Z",
+      "lastReset": "2026-01-18T12:13:33.049Z",
       "payRemaining": "1$ / 280 PKR / 90 INR",
       "payreason": "Update Fees !"
     },

@@ -287,7 +287,7 @@
     },
     "arslan": {
       "password": "1",
-      "hwid": "6561ac8b905cf7eaa6cd228db013ee58d91748f6de9d38d0f21e6dfe9a1dbc85",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-06-19T13:26:24.714Z",
       "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
@@ -295,7 +295,8 @@
       "contactInfo": "rF4gS5Wm9nC7aP1cA7tD3nC7gS5xE8jR4jR4gS5cA7gS5",
       "payRemaining": "1$ / 280 PKR / 90 INR",
       "daysleft": "Unlimited",
-      "payreason": "Update Fees !"
+      "payreason": "Update Fees !",
+      "lastReset": "2026-01-18T14:18:06.185Z"
     },
     "h7n": {
       "password": "1",

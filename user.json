@@ -1684,12 +1684,13 @@
     },
     "khan": {
       "password": "1cqw3",
-      "hwid": "7496f6ec20c53a4da0d51dd26c18f9458c503de751b12f55f28670ea63037761",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-01-18 16:12:08",
       "payRemaining": "Paid",
-      "contactInfo": "rF4gS5Wm9nC7aP1jR4cA7nC7cA7aP1xE8jR4Qv6Qv6MZ3"
+      "contactInfo": "rF4gS5Wm9nC7aP1jR4cA7nC7cA7aP1xE8jR4Qv6Qv6MZ3",
+      "lastReset": "2026-01-18T19:07:00.061Z"
     }
   },
   "SNIPER": {},

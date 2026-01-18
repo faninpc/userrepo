@@ -1648,6 +1648,15 @@
       "creationDate": "2026-01-15 19:05:14",
       "payRemaining": "",
       "contactInfo": ""
+    },
+    "ali": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-01-18 23:01:16",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   },
   "AIM": {

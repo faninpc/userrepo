@@ -1487,6 +1487,13 @@
       "expiryDate": "2026-02-19",
       "loginMessage": "",
       "creationDate": "2026-01-19 09:13:58"
+    },
+    "kafi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-01-20 17:08:26"
     }
   },
   "AUTHENTICATION": {

@@ -1681,6 +1681,15 @@
       "creationDate": "2026-01-18 23:01:16",
       "payRemaining": "",
       "contactInfo": ""
+    },
+    "panda": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-01-21 14:12:38",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   },
   "AIM": {

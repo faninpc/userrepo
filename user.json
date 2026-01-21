@@ -1494,6 +1494,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-01-20 17:08:26"
+    },
+    "manece": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-01-21 19:12:14"
     }
   },
   "AUTHENTICATION": {

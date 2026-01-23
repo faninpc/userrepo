@@ -1683,12 +1683,13 @@
     },
     "ali": {
       "password": "1",
-      "hwid": "eb99d65d9aa16aed69df0da07665de176a6af2566ef262256540d158874fc584",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-01-18 23:01:16",
       "payRemaining": "",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": ""
     },
     "panda": {
       "password": "1",

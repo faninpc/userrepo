@@ -1504,7 +1504,7 @@
     },
     "tom": {
       "password": "1",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2027-01-24",
       "loginMessage": "",
       "creationDate": "2026-01-24 16:30:25"

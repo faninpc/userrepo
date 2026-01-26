@@ -966,11 +966,12 @@
     },
     "rehan": {
       "password": "1",
-      "hwid": "5115138c425b273d5b7518b77f3bcee8195b61139def5d462e83445370d81e0a",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-12 10:19:58",
       "lastUsed": "2025-06-20 21:20:57",
-      "loginMessage": "Enjoy Panel !"
+      "loginMessage": "Enjoy Panel !",
+      "lastReset": "2026-01-26T17:59:41.908Z"
     },
     "dood": {
       "password": "1",

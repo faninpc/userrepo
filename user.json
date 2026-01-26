@@ -803,25 +803,6 @@
       "contactInfo": "",
       "lastReset": "free"
     },
-    "haris": {
-      "password": "12caA1",
-      "hwid": "a2c8145e67d1f5a58d31c356febd5029c149eea5d7a405da3f431e7515ad51d3",
-      "expiryDate": "2026-01-19",
-      "loginMessage": "",
-      "creationDate": "2025-12-20 10:18:21",
-      "payRemaining": "Paid",
-      "contactInfo": "rF4gS5Wm9nC7aP1cA7Qv6nC7jR4aP1cA7gS5MZ3tD3Hf2",
-      "payreason": ""
-    },
-    "khan2211111": {
-      "password": "1csa2",
-      "hwid": "7bf5b3ff332d94240c63f4db7013674c128985655edddbeea8076cd15c5d43a4",
-      "expiryDate": "2026-01-19",
-      "loginMessage": "Enjoy Brother !",
-      "creationDate": "2025-12-20 14:58:19",
-      "payRemaining": "Paid",
-      "contactInfo": "uR7Wc2nC7uC3Nw6q9XJm7Wm9Wm9tD3tD3tD3tD3tD3"
-    },
     "test": {
       "password": "1",
       "hwid": "",
@@ -1628,13 +1609,6 @@
       "creationDate": "2025-11-10 18:24:08",
       "payRemaining": "1 $ / 280 pkr / 90 inr",
       "payreason": "Update Fees !"
-    },
-    "sofy30": {
-      "password": "1",
-      "hwid": "dbe34616af170c38a40f72901e5f9a7da58253853826e8545b2b0928e392f059",
-      "expiryDate": "2026-01-20",
-      "loginMessage": "",
-      "creationDate": "2026-01-12 10:58:43"
     },
     "ratana": {
       "password": "123",

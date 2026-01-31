@@ -872,12 +872,13 @@
     },
     "eren": {
       "password": "1",
-      "hwid": "a70460c32b311cfebdfc9cda10573307a033459a19ff96646c0453f2e0b492fe",
+      "hwid": "",
       "expiryDate": "2027-04-04",
       "loginMessage": "",
       "creationDate": "2026-01-27 04:36:15",
       "payRemaining": "Paid",
-      "contactInfo": "tD3Wm9tD3Wm9"
+      "contactInfo": "tD3Wm9tD3Wm9",
+      "lastReset": ""
     }
   },
   "INSANE": {

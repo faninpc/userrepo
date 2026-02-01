@@ -574,12 +574,13 @@
     },
     "hassan12d12": {
       "password": "qdqw12",
-      "hwid": "a1650d8c8b4d8d19c97eb07bbc023cdf256f73de6bacd2e30012a3d14e45fa5b",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
       "creationDate": "2025-10-29 18:46:51",
       "payRemaining": "1$ / 280 PKR / 90 INR",
-      "payreason": "Update Fees !"
+      "payreason": "Update Fees !",
+      "lastReset": ""
     },
     "awais123sa": {
       "password": "12s21",

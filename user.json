@@ -1713,12 +1713,13 @@
     },
     "panda": {
       "password": "1",
-      "hwid": "0e94a2882328220ff30fae4e5e39fcf1e82884bef1d20da4048e6d38a12768ee",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-01-27 15:49:29",
       "payRemaining": "",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": ""
     },
     "ali2": {
       "password": "1",

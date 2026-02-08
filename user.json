@@ -814,13 +814,13 @@
     },
     "nexus": {
       "password": "1cx2",
-      "hwid": "799631fa1fd39c567cf3f392ddfcc170a4411cd3a4a4c9941ffd98093d710749",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-01-09 18:19:48",
       "payRemaining": "Paid",
       "contactInfo": "uR7Rk8Qn6Nw6nC7Hj6q9XJm7mQ1sT9",
-      "lastReset": "2026-02-08T18:52:50.762Z"
+      "lastReset": ""
     },
     "ayub": {
       "password": "12d2",

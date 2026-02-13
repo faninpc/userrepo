@@ -1895,6 +1895,13 @@
       "expiryDate": "2026-03-09",
       "loginMessage": "",
       "creationDate": "2026-02-09 00:14:27"
+    },
+    "mtd": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-02-13 02:53:24"
     }
   }
 }

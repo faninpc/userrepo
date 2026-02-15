@@ -1548,6 +1548,13 @@
       "expiryDate": "2026-03-08",
       "loginMessage": "",
       "creationDate": "2026-02-08 12:57:29"
+    },
+    "bo": {
+      "password": "1y",
+      "hwid": "",
+      "expiryDate": "2027-01-15",
+      "loginMessage": "",
+      "creationDate": "2026-02-15 11:52:00"
     }
   },
   "AUTHENTICATION": {

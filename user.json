@@ -688,17 +688,6 @@
       "payRemaining": "Paid",
       "payreason": "N/A"
     },
-    "kdorhos": {
-      "password": "60days",
-      "hwid": "0f0a0cb382c43703d6916e0601c5336e58d7c06c2be05132a98eb3a48b223021",
-      "expiryDate": "2026-02-06",
-      "loginMessage": "",
-      "creationDate": "2025-12-09 13:27:37",
-      "contactInfo": "uR7Wc2nC7PL2nC7uC3mQ1vH4wS5Nw6vH4hR3pL8Bq6MZ3MZ3Hf2MZ3Wm9",
-      "payRemaining": "Paid",
-      "daysleft": "59",
-      "payreason": "N/A"
-    },
     "hammad": {
       "password": "12c4",
       "hwid": "",
@@ -729,17 +718,6 @@
       "payRemaining": "Paid",
       "contactInfo": "rF4gS5Wm9nC7aP1Wm9xE8nC7Wm9MZ3jR4Wm9aP1Hf2cA7",
       "lastReset": "2025-12-13T16:31:43.561Z",
-      "payreason": "N/A"
-    },
-    "lytong": {
-      "password": "lytong123",
-      "hwid": "d44ff85103ee1ac6fc7c3238db2bf297553e5e559a06f5ba9fa5fa47c1b9ccce",
-      "expiryDate": "2026-02-12",
-      "loginMessage": "",
-      "creationDate": "2025-12-14 15:31:13",
-      "payRemaining": "Paid",
-      "contactInfo": "uR7Wc2nC7uC3mQ1vH4wS5Nw6vH4hR3pL8Bq6MZ3MZ3Hf2MZ3Wm9",
-      "lastReset": "2025-12-15T09:17:22.845Z",
       "payreason": "N/A"
     },
     "ahloy": {
@@ -804,17 +782,6 @@
       "creationDate": "2026-01-03 02:58:56",
       "payRemaining": "Paid",
       "contactInfo": "rF4gS5tD3nC7jR4MZ3Qv6jR4cA7nC7MZ3jR4aP1jR4gS5",
-      "payreason": "N/A"
-    },
-    "1month": {
-      "password": "1x2q",
-      "hwid": "b76177594c86d0a681c9cb692c227b815355630e267f9c19830e42ab3225461c",
-      "expiryDate": "2026-02-07",
-      "loginMessage": "",
-      "creationDate": "2026-01-08 09:51:26",
-      "payRemaining": "Paid",
-      "contactInfo": "rF4gS5Wm9nC7aP1Wm9Wm9nC7MZ3xE8MZ3gS5MZ3MZ3Qv6",
-      "lastReset": "2026-01-08T09:54:36.792Z",
       "payreason": "N/A"
     },
     "nexus": {
@@ -1451,13 +1418,6 @@
       "loginMessage": "",
       "creationDate": "2026-01-17 12:21:55"
     },
-    "hour31": {
-      "password": "1",
-      "hwid": "free",
-      "expiryDate": "2026-02-07",
-      "loginMessage": "",
-      "creationDate": "2026-01-17 13:54:28"
-    },
     "leang1y": {
       "password": "1",
       "hwid": "6ced0eb8ea9b440d4f418ee137927d7b41e28202605998df5e475fbb8432ad1f",
@@ -1520,13 +1480,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-01-30 00:50:49"
-    },
-    "15d": {
-      "password": "123",
-      "hwid": "free",
-      "expiryDate": "2026-02-13",
-      "loginMessage": "",
-      "creationDate": "2026-01-29 14:08:42"
     }
   },
   "AUTHENTICATION": {
@@ -1843,12 +1796,6 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-10-31 20:35:38"
-    },
-    "basit": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-02-01 12:43:01",
-      "creationDate": "2025-12-01 12:43:05"
     },
     "asad": {
       "password": "1",

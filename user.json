@@ -311,14 +311,14 @@
     },
     "amir": {
       "password": "1",
-      "hwid": "4bf38870962b39266d0cf400ed08b021e35e3ed9314740aa0c6435c6b931bcc7",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
       "creationDate": "2025-07-03 15:47:22",
       "lastUsed": "2025-08-28 15:37:47",
       "payRemaining": "Paid",
       "payreason": "N/A",
-      "lastReset": "2026-02-07T10:24:42.382Z"
+      "lastReset": ""
     },
     "awais6c": {
       "password": "1",

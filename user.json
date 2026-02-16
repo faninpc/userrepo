@@ -859,12 +859,13 @@
     },
     "erenfreeuidbypass": {
       "password": "erenxiterssafebypass",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-02-16 16:39:41",
       "payRemaining": "Paid",
-      "contactInfo": "eD2vH4Qn6Nw6sT9Jm7Bz2"
+      "contactInfo": "eD2vH4Qn6Nw6sT9Jm7Bz2",
+      "lastReset": "free"
     }
   },
   "INSANE": {

@@ -1534,13 +1534,6 @@
       "expiryDate": "2026-02-12",
       "loginMessage": "",
       "creationDate": "2026-02-04 09:16:48"
-    },
-    "31x5": {
-      "password": "1",
-      "hwid": "cbcedc105c1e0d96fbffb81a2f0c0bd9977cb0ef07930784b296a578c041f087",
-      "expiryDate": "2026-03-08",
-      "loginMessage": "",
-      "creationDate": "2026-02-08 12:57:29"
     }
   },
   "AUTHENTICATION": {

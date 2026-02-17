@@ -1478,6 +1478,13 @@
       "expiryDate": "2025-06-25",
       "loginMessage": "",
       "creationDate": "2026-02-17 12:59:48"
+    },
+    "7dx1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-06-25",
+      "loginMessage": "",
+      "creationDate": "2026-02-17 13:01:30"
     }
   },
   "AUTHENTICATION": {

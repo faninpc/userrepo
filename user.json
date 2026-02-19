@@ -661,13 +661,13 @@
     },
     "musadiq": {
       "password": "1vc1d",
-      "hwid": "7fc1c0055e2f9ed3a3c62e26aeed9f85374bc4f14066e7f8d96affa9e4cff25d",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-28 13:53:22",
       "payRemaining": "Paid",
       "payreason": "N/A",
-      "lastReset": ""
+      "lastReset": "2026-02-19T15:45:04.208Z"
     },
     "shag": {
       "password": "1bh3",

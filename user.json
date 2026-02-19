@@ -1506,6 +1506,13 @@
       "expiryDate": "2026-03-20",
       "loginMessage": "",
       "creationDate": "2026-02-18 18:02:10"
+    },
+    "sohea": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2027-01-01",
+      "loginMessage": "",
+      "creationDate": "2026-02-19 09:57:53"
     }
   },
   "AUTHENTICATION": {

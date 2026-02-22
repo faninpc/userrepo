@@ -1186,6 +1186,15 @@
       "hwid": "653e62a932a792d9e4d78d0fcdfb4541433ec5076d7d4a90b5d4ff6e2fd43aab",
       "expiryDate": "No Expiry",
       "creationDate": "2026-02-07 08:53:02"
+    },
+    "musadiq": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-02-22 17:34:21",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   },
   "FAKEDAMAGEFIX": {

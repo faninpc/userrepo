@@ -1195,6 +1195,15 @@
       "creationDate": "2026-02-22 17:34:21",
       "payRemaining": "",
       "contactInfo": ""
+    },
+    "aqib": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-02-22 17:34:45",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   },
   "FAKEDAMAGEFIX": {

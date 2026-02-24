@@ -1546,6 +1546,13 @@
       "expiryDate": "2026-03-11",
       "loginMessage": "",
       "creationDate": "2026-02-24 03:39:12"
+    },
+    "pheak": {
+      "password": "1y",
+      "hwid": "",
+      "expiryDate": "2026-12-25",
+      "loginMessage": "",
+      "creationDate": "2026-02-24 10:14:19"
     }
   },
   "AUTHENTICATION": {

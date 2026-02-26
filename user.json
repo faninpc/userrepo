@@ -456,13 +456,14 @@
     },
     "arqum6c": {
       "password": "1",
-      "hwid": "7ee650b8a35fb81de3b3cfcc7fb16a744f01955972c72b54a14b9de201add416",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
       "creationDate": "2025-08-28 16:06:09",
       "lastUsed": "2025-08-28 16:33:44",
       "payRemaining": "Paid",
-      "payreason": "N/A"
+      "payreason": "N/A",
+      "lastReset": ""
     },
     "talha1": {
       "password": "1",

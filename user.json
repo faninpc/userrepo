@@ -1381,10 +1381,11 @@
     },
     "anzar": {
       "password": "1",
-      "hwid": "eedffaed58ee98726021ac7897b09589fd635590eab1194b40d25b5917a9fec9",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-12-19 14:01:49"
+      "creationDate": "2025-12-19 14:01:49",
+      "lastReset": "2026-02-26T13:31:12.821Z"
     },
     "za\r\nZACK": {
       "password": "1",

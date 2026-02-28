@@ -1592,6 +1592,13 @@
       "expiryDate": "2026-03-20",
       "loginMessage": "",
       "creationDate": "2026-02-28 13:29:57"
+    },
+    "30dx1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-03-28",
+      "loginMessage": "",
+      "creationDate": "2026-02-28 15:32:46"
     }
   },
   "AUTHENTICATION": {

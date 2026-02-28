@@ -1343,6 +1343,13 @@
     }
   },
   "B4EVER": {
+    "123": {
+      "password": "1",
+      "hwid": "e578eef50166948914c6b0b74dba766ee5c0643620d2000c2190360b2750d3ad",
+      "expiryDate": "2026-03-01",
+      "loginMessage": "",
+      "creationDate": "2026-02-28 16:59:11"
+    },
     "maska": {
       "password": "1",
       "hwid": "e67f626e7da9fb0554e994f414feba9733d17650a59a986f4054674ee83a8ee2",
@@ -1613,13 +1620,6 @@
       "expiryDate": "2026-03-28",
       "loginMessage": "",
       "creationDate": "2026-02-28 15:39:52"
-    },
-    "123": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-03-01",
-      "loginMessage": "",
-      "creationDate": "2026-02-28 16:59:11"
     }
   },
   "AUTHENTICATION": {

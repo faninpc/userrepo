@@ -1566,13 +1566,6 @@
       "expiryDate": "2026-03-28",
       "loginMessage": "",
       "creationDate": "2026-02-28 15:33:17"
-    },
-    "raa": {
-      "password": "31",
-      "hwid": "15dde455609797d740f5dbd690630423c089ae99f14700ca807b83047a372484",
-      "expiryDate": "2026-03-28",
-      "loginMessage": "",
-      "creationDate": "2026-02-28 15:39:52"
     }
   },
   "AUTHENTICATION": {

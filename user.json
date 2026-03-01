@@ -1945,12 +1945,13 @@
   "BYPASSEREN": {
     "eren": {
       "password": "1",
-      "hwid": "f9d1f7862d087b79057b92079a42fa71f58bdce59350896ee9196a470dcfaac1",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-03-01 18:49:33",
       "payRemaining": "PAID",
-      "contactInfo": "mX4Sg8eD2bL1Hj6"
+      "contactInfo": "mX4Sg8eD2bL1Hj6",
+      "lastReset": ""
     },
     "matador": {
       "password": "123c1",

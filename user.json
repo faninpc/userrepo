@@ -755,16 +755,6 @@
       "lastReset": "free",
       "payreason": "N/A"
     },
-    "test": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-02-26",
-      "loginMessage": "Just love your self !",
-      "creationDate": "2025-12-28 23:41:38",
-      "payRemaining": "Paid",
-      "contactInfo": "rF4gS5Wm9aP1tD3aP1Hf2Qv6cA7jR4Wm9tD3Wm9",
-      "payreason": "N/A"
-    },
     "umer": {
       "password": "1c32x",
       "hwid": "18956cb4b93d7492e0d765b8e3338f88c8fc3d8bfa2cf154d65017926b2dd385",
@@ -1343,13 +1333,6 @@
     }
   },
   "B4EVER": {
-    "123": {
-      "password": "1",
-      "hwid": "e578eef50166948914c6b0b74dba766ee5c0643620d2000c2190360b2750d3ad",
-      "expiryDate": "2026-03-01",
-      "loginMessage": "",
-      "creationDate": "2026-02-28 16:59:11"
-    },
     "maska": {
       "password": "1",
       "hwid": "e67f626e7da9fb0554e994f414feba9733d17650a59a986f4054674ee83a8ee2",
@@ -1502,20 +1485,6 @@
       "loginMessage": "",
       "creationDate": "2026-01-30 00:50:49"
     },
-    "user": {
-      "password": "pass",
-      "hwid": "",
-      "expiryDate": "2025-06-25",
-      "loginMessage": "",
-      "creationDate": "2026-02-17 12:59:48"
-    },
-    "7dx1": {
-      "password": "1",
-      "hwid": "190525c44c0cebb3bbe718e983618e2d75ff4c39046e94d8198a24b2a5e85070",
-      "expiryDate": "2025-06-25",
-      "loginMessage": "",
-      "creationDate": "2026-02-17 13:01:30"
-    },
     "bushka": {
       "password": "1",
       "hwid": "4a474239dec4abb3b9395e68f6f336281c69b85a4c504e97f72f5e01b6db4559",
@@ -1571,13 +1540,6 @@
       "expiryDate": "2026-03-04",
       "loginMessage": "",
       "creationDate": "2026-02-25 08:19:45"
-    },
-    "t": {
-      "password": "1",
-      "hwid": "e83020cadeed8df09ccb249fec62aa97f462d28b767f161e21483bd282b8d3ea",
-      "expiryDate": "2026-02-28",
-      "loginMessage": "",
-      "creationDate": "2026-02-26 19:01:19"
     },
     "Daneth": {
       "password": "30d",
@@ -1747,13 +1709,6 @@
       "expiryDate": "2027-01-12",
       "loginMessage": "",
       "creationDate": "2026-01-12 10:59:06"
-    },
-    "zury": {
-      "password": "1",
-      "hwid": "26a07fa3b5d91395cb2a588a5fcfb7d9f22f8ef86a7baaa1f9263df4017a22db",
-      "expiryDate": "2026-02-27",
-      "loginMessage": "",
-      "creationDate": "2026-01-26 17:54:35"
     },
     "leang": {
       "password": "31",

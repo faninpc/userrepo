@@ -1587,6 +1587,13 @@
       "expiryDate": "2026-12-01",
       "loginMessage": "",
       "creationDate": "2026-03-01 09:51:02"
+    },
+    "moad": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-03-01 21:18:24"
     }
   },
   "AUTHENTICATION": {

@@ -1578,7 +1578,7 @@
     },
     "dom": {
       "password": "123",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2026-12-01",
       "loginMessage": "",
       "creationDate": "2026-03-01 09:37:09"

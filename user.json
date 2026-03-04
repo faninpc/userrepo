@@ -1680,6 +1680,13 @@
       "expiryDate": "2026-03-14",
       "loginMessage": "",
       "creationDate": "2026-02-14 09:56:56"
+    },
+    "dd": {
+      "password": "dd",
+      "hwid": "",
+      "expiryDate": "2026-12-31",
+      "loginMessage": "",
+      "creationDate": "2026-03-04 14:57:04"
     }
   },
   "CYBER": {

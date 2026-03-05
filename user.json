@@ -1172,7 +1172,7 @@
       "creationDate": "2026-02-03 10:46:21",
       "payRemaining": "",
       "contactInfo": "",
-      "lastReset": "2026-03-05T12:37:41.530Z"
+      "lastReset": "2026-03-05T12:37:41.53Z"
     },
     "minahil": {
       "password": "1",
@@ -1554,6 +1554,13 @@
       "expiryDate": "2026-12-31",
       "loginMessage": "",
       "creationDate": "2026-03-05 09:54:41"
+    },
+    "10d": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-03-16",
+      "loginMessage": "",
+      "creationDate": "2026-03-05 13:08:24"
     }
   },
   "AUTHENTICATION": {

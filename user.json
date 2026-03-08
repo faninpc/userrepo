@@ -1598,6 +1598,13 @@
       "expiryDate": "2026-03-10",
       "loginMessage": "",
       "creationDate": "2026-03-08 14:01:02"
+    },
+    "Kaiser": {
+      "password": "31d",
+      "hwid": "",
+      "expiryDate": "2026-04-09",
+      "loginMessage": "",
+      "creationDate": "2026-03-08 14:44:18"
     }
   },
   "AUTHENTICATION": {

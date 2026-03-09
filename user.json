@@ -1606,6 +1606,13 @@
       "expiryDate": "2026-04-09",
       "loginMessage": "",
       "creationDate": "2026-03-08 14:44:18"
+    },
+    "Donald": {
+      "password": "31d",
+      "hwid": "",
+      "expiryDate": "2026-04-10",
+      "loginMessage": "",
+      "creationDate": "2026-03-09 15:48:17"
     }
   },
   "AUTHENTICATION": {

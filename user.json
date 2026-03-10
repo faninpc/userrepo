@@ -1343,13 +1343,6 @@
       "loginMessage": "",
       "creationDate": "2026-03-10 14:59:22"
     },
-    "32": {
-      "password": "32",
-      "hwid": "free",
-      "expiryDate": "2026-03-06",
-      "loginMessage": "",
-      "creationDate": "2026-03-05 09:44:25"
-    },
     "maska": {
       "password": "1",
       "hwid": "e67f626e7da9fb0554e994f414feba9733d17650a59a986f4054674ee83a8ee2",
@@ -1523,13 +1516,6 @@
       "loginMessage": "",
       "creationDate": "2026-02-19 09:57:53"
     },
-    "hay15": {
-      "password": "1",
-      "hwid": "be96c0739a406780eb992ee40718db2c19c51201b5ab717437f81a95112624b3",
-      "expiryDate": "2026-03-10",
-      "loginMessage": "",
-      "creationDate": "2026-02-22 12:05:14"
-    },
     "hour15": {
       "password": "1",
       "hwid": "free",
@@ -1599,13 +1585,6 @@
       "expiryDate": "2026-04-07",
       "loginMessage": "",
       "creationDate": "2026-03-07 15:38:52"
-    },
-    "RA": {
-      "password": "1d",
-      "hwid": "5528bed0a93269e9fac0467e2f65f2c6bc6590b5f526001b1d6ffa4ada693fc3",
-      "expiryDate": "2026-03-10",
-      "loginMessage": "",
-      "creationDate": "2026-03-08 14:01:02"
     },
     "Kaiser": {
       "password": "31d",
@@ -2038,13 +2017,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-01-13 23:14:22"
-    },
-    "chamali": {
-      "password": "1",
-      "hwid": "43c23393781bbf3e7167f8a0ca0860b3039b12f33255b54c7e87856b37e434ec",
-      "expiryDate": "2026-03-09",
-      "loginMessage": "",
-      "creationDate": "2026-02-09 00:14:27"
     },
     "mtd": {
       "password": "1",

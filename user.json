@@ -1623,7 +1623,7 @@
     },
     "salz": {
       "password": "123",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2026-08-10",
       "loginMessage": "",
       "creationDate": "2026-03-10 06:17:05"

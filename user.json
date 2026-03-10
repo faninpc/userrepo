@@ -1336,6 +1336,13 @@
     }
   },
   "B4EVER": {
+    "11": {
+      "password": "1d",
+      "hwid": "508de63fdc9458ceb6b2904ad3266b661bdff3b68d91728b8326bac71051dc58",
+      "expiryDate": "2026-03-11",
+      "loginMessage": "",
+      "creationDate": "2026-03-10 14:59:22"
+    },
     "32": {
       "password": "32",
       "hwid": "free",
@@ -1634,13 +1641,6 @@
       "expiryDate": "2026-08-10",
       "loginMessage": "",
       "creationDate": "2026-03-10 06:17:46"
-    },
-    "11": {
-      "password": "1d",
-      "hwid": "",
-      "expiryDate": "2026-03-11",
-      "loginMessage": "",
-      "creationDate": "2026-03-10 14:59:22"
     }
   },
   "AUTHENTICATION": {

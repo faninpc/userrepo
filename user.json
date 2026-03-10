@@ -1620,6 +1620,13 @@
       "expiryDate": "2026-08-10",
       "loginMessage": "",
       "creationDate": "2026-03-10 06:13:18"
+    },
+    "salz": {
+      "password": "123",
+      "hwid": "",
+      "expiryDate": "2026-08-10",
+      "loginMessage": "",
+      "creationDate": "2026-03-10 06:17:05"
     }
   },
   "AUTHENTICATION": {

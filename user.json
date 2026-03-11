@@ -1606,6 +1606,13 @@
       "expiryDate": "2026-08-10",
       "loginMessage": "",
       "creationDate": "2026-03-10 06:17:46"
+    },
+    "doma": {
+      "password": "1y",
+      "hwid": "",
+      "expiryDate": "2027-02-11",
+      "loginMessage": "",
+      "creationDate": "2026-03-11 01:23:32"
     }
   },
   "AUTHENTICATION": {

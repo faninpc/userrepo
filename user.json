@@ -1336,13 +1336,6 @@
     }
   },
   "B4EVER": {
-    "11": {
-      "password": "1d",
-      "hwid": "508de63fdc9458ceb6b2904ad3266b661bdff3b68d91728b8326bac71051dc58",
-      "expiryDate": "2026-03-11",
-      "loginMessage": "",
-      "creationDate": "2026-03-10 14:59:22"
-    },
     "maska": {
       "password": "1",
       "hwid": "e67f626e7da9fb0554e994f414feba9733d17650a59a986f4054674ee83a8ee2",
@@ -1515,13 +1508,6 @@
       "expiryDate": "2027-01-01",
       "loginMessage": "",
       "creationDate": "2026-02-19 09:57:53"
-    },
-    "hour15": {
-      "password": "1",
-      "hwid": "free",
-      "expiryDate": "2026-03-11",
-      "loginMessage": "",
-      "creationDate": "2026-02-24 03:39:12"
     },
     "Daneth": {
       "password": "30d",

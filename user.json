@@ -1658,10 +1658,11 @@
     },
     "hong31": {
       "password": "1",
-      "hwid": "32b444b0e2d9c663ce49b9c071caef0870b64c60cde48c89d526336ce57b6b38",
+      "hwid": "",
       "expiryDate": "2026-04-15",
       "loginMessage": "",
-      "creationDate": "2026-03-14 15:22:03"
+      "creationDate": "2026-03-14 15:22:03",
+      "lastReset": "2026-03-15T10:55:37.999Z"
     },
     "darkfoe": {
       "password": "1",

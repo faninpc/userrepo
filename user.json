@@ -1662,6 +1662,13 @@
       "expiryDate": "2026-04-15",
       "loginMessage": "",
       "creationDate": "2026-03-14 15:22:03"
+    },
+    "darkfoe": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-03-15 00:49:52"
     }
   },
   "AUTHENTICATION": {

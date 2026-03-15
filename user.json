@@ -1899,6 +1899,15 @@
       "creationDate": "2026-03-14 10:27:38",
       "payRemaining": "",
       "contactInfo": ""
+    },
+    "boss": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-03-15 13:48:05",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   },
   "AIM": {

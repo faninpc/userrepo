@@ -1677,6 +1677,13 @@
       "expiryDate": "2026-04-15",
       "loginMessage": "",
       "creationDate": "2026-03-15 08:12:30"
+    },
+    "s11": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-04-16",
+      "loginMessage": "",
+      "creationDate": "2026-03-15 12:18:43"
     }
   },
   "AUTHENTICATION": {

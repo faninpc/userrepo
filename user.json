@@ -1684,6 +1684,13 @@
       "expiryDate": "2026-04-16",
       "loginMessage": "",
       "creationDate": "2026-03-15 12:18:43"
+    },
+    "mod7d": {
+      "password": "7d",
+      "hwid": "",
+      "expiryDate": "2026-04-01",
+      "loginMessage": "",
+      "creationDate": "2026-03-15 13:43:59"
     }
   },
   "AUTHENTICATION": {

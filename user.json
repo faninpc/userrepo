@@ -1691,6 +1691,13 @@
       "expiryDate": "2026-04-01",
       "loginMessage": "",
       "creationDate": "2026-03-15 13:43:59"
+    },
+    "1dff": {
+      "password": "1d",
+      "hwid": "",
+      "expiryDate": "2026-03-18",
+      "loginMessage": "",
+      "creationDate": "2026-03-16 13:35:36"
     }
   },
   "AUTHENTICATION": {

@@ -788,17 +788,6 @@
       "lastReset": "2026-03-07T01:59:35.313Z",
       "payreason": "N/A"
     },
-    "ayub": {
-      "password": "12d2",
-      "hwid": "961b866810f7a99e8f3db6c6821b29b80125139e3a7e35a6f96726bbe5f04ac0",
-      "expiryDate": "2026-03-13",
-      "loginMessage": "Enjoy Ayub !\r\nUse risk feature carefully !",
-      "creationDate": "2026-01-12 10:01:36",
-      "payRemaining": "Paid",
-      "contactInfo": "rF4Wm9Hf2Wm9nC7Qv6tD3nC7gS5gS5jR4gS5Wm9cA7tD3",
-      "payreason": "N/A",
-      "lastReset": "2026-03-05T19:38:51.961Z"
-    },
     "ashish": {
       "password": "1cq7j",
       "hwid": "23e6d28202fe4d18caabf444174ba9c8c89f9ecd1b9aecab75909c482f9dc48b",
@@ -1336,13 +1325,6 @@
     }
   },
   "B4EVER": {
-    "21": {
-      "password": "1",
-      "hwid": "5528bed0a93269e9fac0467e2f65f2c6bc6590b5f526001b1d6ffa4ada693fc3",
-      "expiryDate": "2026-03-13",
-      "loginMessage": "",
-      "creationDate": "2026-03-11 17:40:52"
-    },
     "maska": {
       "password": "1",
       "hwid": "e67f626e7da9fb0554e994f414feba9733d17650a59a986f4054674ee83a8ee2",
@@ -1544,26 +1526,12 @@
       "loginMessage": "",
       "creationDate": "2026-03-05 09:54:41"
     },
-    "10d": {
-      "password": "1",
-      "hwid": "8f972824042b52001a9645c75dda2968c9e512f6083bb91ea630bdd8358173cd",
-      "expiryDate": "2026-03-16",
-      "loginMessage": "",
-      "creationDate": "2026-03-05 13:08:24"
-    },
     "so": {
       "password": "1y",
       "hwid": "597ea1bf80ba430536916c10bfcb36be7530d924abf77e15c4e7de84d1f02bfc",
       "expiryDate": "2027-03-05",
       "loginMessage": "",
       "creationDate": "2026-03-05 13:22:02"
-    },
-    "7dd": {
-      "password": "1",
-      "hwid": "bc3488d0fbb40f289d589d43a8e7444689f2ecc8a42888be9391646106e923b9",
-      "expiryDate": "2026-03-14",
-      "loginMessage": "",
-      "creationDate": "2026-03-07 09:47:47"
     },
     "dodo": {
       "password": "1y",
@@ -1634,13 +1602,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-03-12 20:03:06"
-    },
-    "migos": {
-      "password": "1",
-      "hwid": "6d5f907048f066f4b19107604671b9b35d050ebfdfd8dea3f19899dc8bc4c358",
-      "expiryDate": "2026-03-14",
-      "loginMessage": "",
-      "creationDate": "2026-03-13 18:56:36"
     },
     "1t": {
       "password": "1",
@@ -1832,13 +1793,6 @@
       "expiryDate": "2027-01-12",
       "loginMessage": "",
       "creationDate": "2026-01-12 10:59:06"
-    },
-    "leang": {
-      "password": "31",
-      "hwid": "6ced0eb8ea9b440d4f418ee137927d7b41e28202605998df5e475fbb8432ad1f",
-      "expiryDate": "2026-03-14",
-      "loginMessage": "",
-      "creationDate": "2026-02-14 09:56:56"
     },
     "dd": {
       "password": "dd",
@@ -2039,13 +1993,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-02-13 02:53:24"
-    },
-    "yossef": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2025-07-25",
-      "loginMessage": "",
-      "creationDate": "2026-03-16 14:09:26"
     }
   },
   "BYPASSEREN": {

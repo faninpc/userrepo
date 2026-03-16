@@ -1698,6 +1698,13 @@
       "expiryDate": "2026-03-18",
       "loginMessage": "",
       "creationDate": "2026-03-16 13:35:36"
+    },
+    "ep": {
+      "password": "31y",
+      "hwid": "",
+      "expiryDate": "2026-04-16",
+      "loginMessage": "",
+      "creationDate": "2026-03-16 13:39:35"
     }
   },
   "AUTHENTICATION": {

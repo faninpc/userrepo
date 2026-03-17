@@ -1680,6 +1680,13 @@
       "expiryDate": "2026-03-18",
       "loginMessage": "",
       "creationDate": "2026-03-17 14:02:44"
+    },
+    "leang1": {
+      "password": "1y",
+      "hwid": "",
+      "expiryDate": "2027-03-18",
+      "loginMessage": "",
+      "creationDate": "2026-03-17 14:27:41"
     }
   },
   "AUTHENTICATION": {

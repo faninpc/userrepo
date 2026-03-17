@@ -1666,6 +1666,13 @@
       "expiryDate": "2026-04-16",
       "loginMessage": "",
       "creationDate": "2026-03-16 13:39:35"
+    },
+    "1yff": {
+      "password": "1y",
+      "hwid": "",
+      "expiryDate": "2027-03-16",
+      "loginMessage": "",
+      "creationDate": "2026-03-17 07:30:40"
     }
   },
   "AUTHENTICATION": {

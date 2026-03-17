@@ -2023,5 +2023,15 @@
       "contactInfo": "aQ7Tg5Kp2Tg5uR7mX4Hj6nC7Wc2Pq8sT9Rk8Jm7Qn6"
     }
   },
-  "NOCTIS": {}
+  "NOCTIS": {
+    "testing": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-03-17 10:03:47",
+      "payRemaining": "",
+      "contactInfo": ""
+    }
+  }
 }

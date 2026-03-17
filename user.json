@@ -911,11 +911,12 @@
     },
     "usama": {
       "password": "1",
-      "hwid": "aa1fab7990a814d0db6e5b00a6262a95e8d9409da85c317e696dc7faf8f30822",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-12 10:19:58",
       "lastUsed": "2025-09-15 12:11:54",
-      "loginMessage": "Enjoy Panel !"
+      "loginMessage": "Enjoy Panel !",
+      "lastReset": "2026-03-17T18:58:52.296Z"
     },
     "yousuf": {
       "password": "1",

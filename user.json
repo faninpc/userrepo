@@ -1694,6 +1694,13 @@
       "expiryDate": "2026-03-19",
       "loginMessage": "",
       "creationDate": "2026-03-17 15:09:24"
+    },
+    "roobqate": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-03-18",
+      "loginMessage": "",
+      "creationDate": "2026-03-17 16:08:17"
     }
   },
   "AUTHENTICATION": {

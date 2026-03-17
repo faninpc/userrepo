@@ -1858,13 +1858,13 @@
     },
     "saad": {
       "password": "1",
-      "hwid": "ebc0189f9d88bcd4e254d37c7e60e2855d04fe92bfbac47bb06827f544725f62",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-03-12 15:14:03",
       "payRemaining": "",
       "contactInfo": "",
-      "lastReset": "2026-03-12T15:15:07.295Z"
+      "lastReset": ""
     },
     "rana": {
       "password": "1",

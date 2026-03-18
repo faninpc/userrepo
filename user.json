@@ -1702,6 +1702,13 @@
       "expiryDate": "2026-03-18",
       "loginMessage": "",
       "creationDate": "2026-03-17 16:08:17"
+    },
+    "ya": {
+      "password": "31d",
+      "hwid": "",
+      "expiryDate": "2026-04-19",
+      "loginMessage": "",
+      "creationDate": "2026-03-18 15:03:26"
     }
   },
   "AUTHENTICATION": {

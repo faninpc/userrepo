@@ -2050,15 +2050,6 @@
     }
   },
   "NOCTIS": {
-    "testing": {
-      "password": "1",
-      "hwid": "a35b97f4e24df5f406fe51e883cdea58e6352f1c8b72406564191b7159fca713",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-03-17 10:03:47",
-      "payRemaining": "",
-      "contactInfo": ""
-    },
     "syfer": {
       "password": "1",
       "hwid": "",

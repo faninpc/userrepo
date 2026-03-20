@@ -1910,12 +1910,13 @@
     },
     "boss": {
       "password": "1",
-      "hwid": "b3b373e0e1d3c15cc149f1e6dc10418f197c5b26665325e2852c2e3252584132",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-03-15 13:48:05",
       "payRemaining": "",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": "2026-03-20T15:02:14.673Z"
     },
     "khuzaima": {
       "password": "1",

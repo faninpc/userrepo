@@ -1723,6 +1723,13 @@
       "expiryDate": "2026-04-21",
       "loginMessage": "",
       "creationDate": "2026-03-21 01:36:12"
+    },
+    "1d": {
+      "password": "1d",
+      "hwid": "",
+      "expiryDate": "2026-03-24",
+      "loginMessage": "",
+      "creationDate": "2026-03-22 12:25:01"
     }
   },
   "AUTHENTICATION": {

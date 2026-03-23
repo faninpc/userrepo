@@ -2109,6 +2109,15 @@
       "creationDate": "2026-03-19 17:38:21",
       "payRemaining": "",
       "contactInfo": ""
+    },
+    "noctis": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-03-23 07:33:01",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   }
 }

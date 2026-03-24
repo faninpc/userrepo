@@ -899,12 +899,13 @@
     },
     "dailyuser": {
       "password": "10243",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2026-03-25",
       "loginMessage": "",
       "creationDate": "2026-03-24 19:03:02",
       "payRemaining": "paid",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": "free"
     }
   },
   "INSANE": {

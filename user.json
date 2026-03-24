@@ -1200,6 +1200,12 @@
       "payRemaining": "",
       "contactInfo": "",
       "lastReset": "2026-03-08T02:58:43.349Z"
+    },
+    "bypasscus": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2026-03-24 09:11:29"
     }
   },
   "FAKEDAMAGEFIX": {

@@ -861,7 +861,7 @@
     },
     "testuser2days": {
       "password": "12d23",
-      "hwid": "",
+      "hwid": "a03540be05ae52acfa9b06c97c5c34344b2cf8a3901cdda81f1d8ee0abe3a25f",
       "expiryDate": "2026-03-26",
       "loginMessage": "",
       "creationDate": "2026-03-24 08:17:45",

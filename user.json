@@ -1935,13 +1935,13 @@
     },
     "khuzaima": {
       "password": "1",
-      "hwid": "8077766d8a6e13113348551d18b918e1bf2d750597a1b41a210eaed14f5579b2",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-03-19 07:56:35",
       "payRemaining": "",
       "contactInfo": "",
-      "lastReset": "2026-03-19T08:04:54.836Z"
+      "lastReset": ""
     }
   },
   "AIM": {

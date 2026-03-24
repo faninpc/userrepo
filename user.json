@@ -880,12 +880,13 @@
     },
     "freeuser": {
       "password": "123213",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-03-24 13:14:14",
       "payRemaining": "Paid",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": "free"
     }
   },
   "INSANE": {

@@ -877,6 +877,15 @@
       "payRemaining": "Paid",
       "contactInfo": "uR7Wc2nC7Zp7Nw6Nw6Rk8q9XeX7lA3Dk2Jm7Nw6Rk8Jm7Bz2cA7Hf2cA7gS5",
       "payreason": "Monthly External Plus"
+    },
+    "freeuser": {
+      "password": "123213",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-03-24 13:14:14",
+      "payRemaining": "Paid",
+      "contactInfo": ""
     }
   },
   "INSANE": {

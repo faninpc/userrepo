@@ -840,15 +840,6 @@
       "contactInfo": "eD2vH4Qn6Nw6sT9Jm7Bz2",
       "lastReset": "free"
     },
-    "1month": {
-      "password": "sd2ca",
-      "hwid": "b76177594c86d0a681c9cb692c227b815355630e267f9c19830e42ab3225461c",
-      "expiryDate": "2026-03-19",
-      "loginMessage": "",
-      "creationDate": "2026-02-17 07:46:07",
-      "payRemaining": "Paid",
-      "contactInfo": "rF4gS5Wm9nC7aP1Wm9Wm9nC7MZ3xE8MZ3gS5MZ3MZ3Qv6"
-    },
     "owner": {
       "password": "1019887",
       "hwid": "a35b97f4e24df5f406fe51e883cdea58e6352f1c8b72406564191b7159fca713",
@@ -1362,13 +1353,6 @@
     }
   },
   "B4EVER": {
-    "12": {
-      "password": "1d",
-      "hwid": "",
-      "expiryDate": "2026-03-19",
-      "loginMessage": "",
-      "creationDate": "2026-03-17 15:09:24"
-    },
     "maska": {
       "password": "1",
       "hwid": "e67f626e7da9fb0554e994f414feba9733d17650a59a986f4054674ee83a8ee2",
@@ -1528,13 +1512,6 @@
       "loginMessage": "",
       "creationDate": "2026-02-18 11:50:31"
     },
-    "31x3": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-03-20",
-      "loginMessage": "",
-      "creationDate": "2026-02-18 18:02:10"
-    },
     "sohea": {
       "password": "1",
       "hwid": "0d09385e45a7c1124f657a622061adb0e5573a8cf727f6d92764f8f2b20e1374",
@@ -1548,13 +1525,6 @@
       "expiryDate": "2026-03-27",
       "loginMessage": "",
       "creationDate": "2026-02-26 19:47:15"
-    },
-    "20d": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-03-20",
-      "loginMessage": "",
-      "creationDate": "2026-02-28 13:29:57"
     },
     "d": {
       "password": "d",
@@ -1647,20 +1617,6 @@
       "loginMessage": "",
       "creationDate": "2026-03-12 20:03:06"
     },
-    "1t": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-03-24",
-      "loginMessage": "",
-      "creationDate": "2026-03-14 13:40:39"
-    },
-    "q1": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-03-24",
-      "loginMessage": "",
-      "creationDate": "2026-03-14 15:16:11"
-    },
     "hong31": {
       "password": "1",
       "hwid": "0d15745d1452461e064e7f8a3f52ab365215e6000643934f2046c9cc3e2d48f5",
@@ -1697,13 +1653,6 @@
       "loginMessage": "",
       "creationDate": "2026-03-15 13:43:59"
     },
-    "1dff": {
-      "password": "1d",
-      "hwid": "",
-      "expiryDate": "2026-03-18",
-      "loginMessage": "",
-      "creationDate": "2026-03-16 13:35:36"
-    },
     "ep": {
       "password": "31y",
       "hwid": "8e4e58b60b4ed1b00a0acec0eb5629b4fa1e09ebfc34fd76496fd9da76197b03",
@@ -1718,26 +1667,12 @@
       "loginMessage": "",
       "creationDate": "2026-03-17 07:30:40"
     },
-    "1dd": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-03-18",
-      "loginMessage": "",
-      "creationDate": "2026-03-17 14:02:44"
-    },
     "leang1": {
       "password": "1y",
       "hwid": "6ced0eb8ea9b440d4f418ee137927d7b41e28202605998df5e475fbb8432ad1f",
       "expiryDate": "2027-03-18",
       "loginMessage": "",
       "creationDate": "2026-03-17 14:27:41"
-    },
-    "roobqate": {
-      "password": "1",
-      "hwid": "9806c3f42b21a9e9cbdb5929920bb971241090e73846a48c4c230d447c737e08",
-      "expiryDate": "2026-03-18",
-      "loginMessage": "",
-      "creationDate": "2026-03-17 16:08:17"
     },
     "ya": {
       "password": "31d",
@@ -1759,13 +1694,6 @@
       "expiryDate": "2026-04-21",
       "loginMessage": "",
       "creationDate": "2026-03-21 01:36:12"
-    },
-    "1d": {
-      "password": "1d",
-      "hwid": "1cb29bf3d7e81a0915eab602bdc68b56c1fe47e92f399166da9b705a4d1354d2",
-      "expiryDate": "2026-03-24",
-      "loginMessage": "",
-      "creationDate": "2026-03-22 12:25:01"
     }
   },
   "AUTHENTICATION": {
@@ -1860,15 +1788,6 @@
     }
   },
   "SALZ": {
-    "Bun180Days": {
-      "password": "Bun180Days",
-      "hwid": "25d21b39337c30372e4f16bf11b07ccb91a9d8062cbf0e27bfb98e5da70d655b",
-      "expiryDate": "2026-03-21",
-      "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
-      "creationDate": "2025-09-21 13:27:52",
-      "payRemaining": "1 $ / 280 pkr / 90 inr",
-      "payreason": "Update Fees !"
-    },
     "salz123": {
       "password": "salz123",
       "hwid": "6424dee2890e97c0a2db0a397660d16dfea9182061f1b6e892e9be918a6a0926",
@@ -2133,15 +2052,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-03-19 01:18:16",
-      "payRemaining": "",
-      "contactInfo": ""
-    },
-    "yashir": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-03-22",
-      "loginMessage": "",
-      "creationDate": "2026-03-19 17:38:21",
       "payRemaining": "",
       "contactInfo": ""
     },

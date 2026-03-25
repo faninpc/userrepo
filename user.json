@@ -674,13 +674,13 @@
     },
     "shag": {
       "password": "1bh3",
-      "hwid": "54ee1305a340e772f053a958c536a017a7cf738d5895fd79ce20d2815dcae59f",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-29 17:50:42",
       "payRemaining": "Paid",
       "payreason": "N/A",
-      "lastReset": "2026-03-07T12:55:49.337Z"
+      "lastReset": ""
     },
     "deathrnd": {
       "password": "1cw",

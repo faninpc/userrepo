@@ -1721,6 +1721,13 @@
       "expiryDate": "2026-04-21",
       "loginMessage": "",
       "creationDate": "2026-03-21 01:36:12"
+    },
+    "zy3d": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-03-29",
+      "loginMessage": "",
+      "creationDate": "2026-03-25 09:46:50"
     }
   },
   "AUTHENTICATION": {

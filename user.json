@@ -2118,6 +2118,15 @@
       "creationDate": "2026-03-23 07:33:01",
       "payRemaining": "",
       "contactInfo": ""
+    },
+    "noctis1": {
+      "password": "xiters",
+      "hwid": "",
+      "expiryDate": "2026-04-02",
+      "loginMessage": "",
+      "creationDate": "2026-03-26 10:31:17",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   }
 }

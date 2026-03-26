@@ -2121,12 +2121,13 @@
     },
     "noctis1": {
       "password": "xiters",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2026-04-02",
       "loginMessage": "",
       "creationDate": "2026-03-26 10:31:17",
       "payRemaining": "",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": "free"
     }
   }
 }

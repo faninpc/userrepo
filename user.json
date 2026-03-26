@@ -899,12 +899,13 @@
     },
     "dailyuser": {
       "password": "10243",
-      "hwid": "100a432e281620f2dc38da46fd87af14783c43506f906f12d253973e433f59c0",
+      "hwid": "free",
       "expiryDate": "2026-03-26",
       "loginMessage": "",
       "creationDate": "2026-03-24 19:25:37",
       "payRemaining": "Paid",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": "free"
     },
     "prateekyadav11": {
       "password": "2c254",

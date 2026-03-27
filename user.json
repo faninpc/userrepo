@@ -1965,6 +1965,15 @@
       "payRemaining": "",
       "contactInfo": "",
       "lastReset": ""
+    },
+    "kamran": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-03-27 17:43:31",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   },
   "AIM": {

@@ -1910,13 +1910,13 @@
     },
     "panda": {
       "password": "1",
-      "hwid": "fa252d7636518a955db52e5a5a4b557ca36875a1d44e7bdb6e4bd79a9c780809",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-01-27 15:49:29",
       "payRemaining": "",
       "contactInfo": "",
-      "lastReset": ""
+      "lastReset": "2026-03-27T10:21:59.237Z"
     },
     "adnan": {
       "password": "1",

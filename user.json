@@ -1931,11 +1931,11 @@
   "CYBER": {
     "cyber": {
       "password": "1",
-      "hwid": "9484d00cda6ba4364aca408c7af1662cf6b440cda7f65b8b5cbd2a6c82ab58bd",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-10-13 10:49:42",
-      "lastReset": "2026-03-28T03:40:52.578Z"
+      "lastReset": ""
     },
     "arslan": {
       "password": "1",

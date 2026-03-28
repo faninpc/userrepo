@@ -929,12 +929,13 @@
     },
     "erenfree": {
       "password": "15534",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2026-03-30",
       "loginMessage": "",
       "creationDate": "2026-03-28 06:04:10",
       "payRemaining": "Paid",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": "free"
     }
   },
   "INSANE": {

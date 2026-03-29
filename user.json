@@ -1939,12 +1939,13 @@
     },
     "arslan": {
       "password": "1",
-      "hwid": "f351ae709048b5d63cbd0751673143c97cba854fa0698d3bb4a297b1b04d75fb",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-01-07 09:45:26",
       "payRemaining": "",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": "2026-03-29T03:06:16.117Z"
     },
     "panda": {
       "password": "1",

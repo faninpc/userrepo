@@ -1802,6 +1802,13 @@
       "expiryDate": "2026-04-29",
       "loginMessage": "",
       "creationDate": "2026-03-28 12:31:22"
+    },
+    "r1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-03-30",
+      "loginMessage": "",
+      "creationDate": "2026-03-29 17:00:06"
     }
   },
   "AUTHENTICATION": {

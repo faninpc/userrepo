@@ -31,7 +31,7 @@
       "payRemaining": "Paid",
       "payreason": "N/A"
     },
-"uoggy": {
+    "uoggy": {
       "password": "16c",
       "hwid": "",
       "expiryDate": "No Expiry",
@@ -840,13 +840,13 @@
     },
     "owner": {
       "password": "1019887",
-      "hwid": "a35b97f4e24df5f406fe51e883cdea58e6352f1c8b72406564191b7159fca713",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-03-02 00:49:57",
       "payRemaining": "Paid",
       "contactInfo": "hE9q9Xq9XKc1nC7hR3q9XsT9nC7Kc1Nw6vH4Zp7Nw6q9XsT9nC7Bz2q9X",
-      "lastReset": ""
+      "lastReset": "2026-04-03T17:06:26.545Z"
     },
     "testuser2days": {
       "password": "12d23",

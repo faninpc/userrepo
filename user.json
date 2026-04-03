@@ -1806,6 +1806,13 @@
       "expiryDate": "2027-03-30",
       "loginMessage": "",
       "creationDate": "2026-03-29 17:00:06"
+    },
+    "chav": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-05-03",
+      "loginMessage": "",
+      "creationDate": "2026-04-03 07:02:36"
     }
   },
   "AUTHENTICATION": {

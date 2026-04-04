@@ -2210,6 +2210,15 @@
     }
   },
   "NOCTIS": {
+    "1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-04-04 21:37:28",
+      "payRemaining": "",
+      "contactInfo": ""
+    },
     "syfer": {
       "password": "1",
       "hwid": "b6d575e2758906233c416230358ace709df857af898659be743382df124ba341",
@@ -2230,7 +2239,7 @@
     },
     "noctis": {
       "password": "1",
-      "hwid": "",
+      "hwid": "cec20b512d49c929c07f61c21f4cc8c8c4322c999fe921ef628a90643fa9fae1",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-03-23 07:33:01",
@@ -2247,15 +2256,6 @@
       "payRemaining": "",
       "contactInfo": "",
       "lastReset": "free"
-    },
-    "1": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-04-04 21:37:28",
-      "payRemaining": "",
-      "contactInfo": ""
     }
   }
 }

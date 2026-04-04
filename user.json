@@ -2246,6 +2246,15 @@
       "payRemaining": "",
       "contactInfo": "",
       "lastReset": "free"
+    },
+    "1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-04-04 21:37:28",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   }
 }

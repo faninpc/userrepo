@@ -1128,7 +1128,7 @@
     },
     "mian": {
       "password": "1",
-      "hwid": "f08a6b494486b3ae22eadeb06f287bc025be6dcf27dcecf03bb346a3d9ef64a1",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-23 20:44:49",
       "lastUsed": "2025-09-13 10:53:54",
@@ -1928,7 +1928,7 @@
     },
     "mian": {
       "password": "1",
-      "hwid": "8dd1c64814b96221365ca4c5fc950c17c28374a07f40e9b5b5fc3008b8aea93b",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-09-05 03:42:45",

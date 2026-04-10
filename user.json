@@ -848,15 +848,6 @@
       "contactInfo": "hE9q9Xq9XKc1nC7hR3q9XsT9nC7Kc1Nw6vH4Zp7Nw6q9XsT9nC7Bz2q9X",
       "lastReset": "2026-04-03T17:06:26.545Z"
     },
-    "testuser2days": {
-      "password": "12d23",
-      "hwid": "a03540be05ae52acfa9b06c97c5c34344b2cf8a3901cdda81f1d8ee0abe3a25f",
-      "expiryDate": "2026-03-26",
-      "loginMessage": "",
-      "creationDate": "2026-03-24 08:17:45",
-      "payRemaining": "",
-      "contactInfo": ""
-    },
     "heng05": {
       "password": "1c54a",
       "hwid": "6cc9deeb2e2e454e0dae4a19a1ad6cb8c4bc3905bc7cf9b0fbe4eca367ff3681",
@@ -886,25 +877,6 @@
       "payRemaining": "Paid",
       "contactInfo": "rF4gS5Wm9nC7aP1Wm9Wm9nC7MZ3xE8MZ3gS5MZ3MZ3Qv6"
     },
-    "R3d": {
-      "password": "2day",
-      "hwid": "c82dc5320aab1d07875b6c7b770158935ae0654a57d08ebf12552efe44252e7b",
-      "expiryDate": "2026-03-26",
-      "loginMessage": "",
-      "creationDate": "2026-03-24 14:38:05",
-      "payRemaining": "Paid",
-      "contactInfo": ""
-    },
-    "dailyuser": {
-      "password": "10243",
-      "hwid": "free",
-      "expiryDate": "2026-03-26",
-      "loginMessage": "",
-      "creationDate": "2026-03-24 19:25:37",
-      "payRemaining": "Paid",
-      "contactInfo": "",
-      "lastReset": "free"
-    },
     "prateekyadav11": {
       "password": "2c254",
       "hwid": "092f4aa9abb88eadf25a4c87087d2a4c4b9a52022f04a28d920dd7859eb71347",
@@ -914,26 +886,6 @@
       "payRemaining": "Paid",
       "contactInfo": "rF4gS5tD3nC7gS5xE8Hf2aP1gS5nC7MZ3gS5tD3cA7Qv6",
       "lastReset": "2026-03-27T21:48:32.065Z"
-    },
-    "dailyaim": {
-      "password": "18774",
-      "hwid": "free",
-      "expiryDate": "2026-03-28",
-      "loginMessage": "",
-      "creationDate": "2026-03-26 07:21:30",
-      "payRemaining": "Paid",
-      "contactInfo": "",
-      "lastReset": "free"
-    },
-    "erenfree": {
-      "password": "15534",
-      "hwid": "free",
-      "expiryDate": "2026-03-30",
-      "loginMessage": "",
-      "creationDate": "2026-03-28 06:04:10",
-      "payRemaining": "Paid",
-      "contactInfo": "",
-      "lastReset": "free"
     },
     "arslanbadmosh": {
       "password": "1da2c",
@@ -1419,20 +1371,6 @@
     }
   },
   "B4EVER": {
-    "12": {
-      "password": "12",
-      "hwid": "c044ef74c580078a8c1e2342343c6cf364ddf57d9f493dc631cbb31bef7e16f9",
-      "expiryDate": "2026-01-01",
-      "loginMessage": "",
-      "creationDate": "2026-03-28 07:18:00"
-    },
-    "65": {
-      "password": "65",
-      "hwid": "7dc8d148b209c3ba557efc3c13240c64809881b3c152d35f0a6f7a1d08e5e3c2",
-      "expiryDate": "2026-03-10",
-      "loginMessage": "",
-      "creationDate": "2026-04-04 22:28:43"
-    },
     "maska": {
       "password": "1",
       "hwid": "e67f626e7da9fb0554e994f414feba9733d17650a59a986f4054674ee83a8ee2",
@@ -1599,20 +1537,6 @@
       "loginMessage": "",
       "creationDate": "2026-02-19 09:57:53"
     },
-    "Daneth": {
-      "password": "30d",
-      "hwid": "2acfb02fd5979e1dd23a6a10579c142d3f8b80b58ec0ea2f968bf630134ff7d7",
-      "expiryDate": "2026-03-27",
-      "loginMessage": "",
-      "creationDate": "2026-02-26 19:47:15"
-    },
-    "d": {
-      "password": "d",
-      "hwid": "c044ef74c580078a8c1e2342343c6cf364ddf57d9f493dc631cbb31bef7e16f9",
-      "expiryDate": "2026-04-04",
-      "loginMessage": "",
-      "creationDate": "2026-03-04 14:45:57"
-    },
     "pheak": {
       "password": "1y",
       "hwid": "141987c4f41333835dbdd4c3faeba5e0561d0b5bfd418898652b459d4b021c18",
@@ -1633,27 +1557,6 @@
       "expiryDate": "2027-01-07",
       "loginMessage": "",
       "creationDate": "2026-03-07 11:32:20"
-    },
-    "ggmod": {
-      "password": "31d",
-      "hwid": "",
-      "expiryDate": "2026-04-07",
-      "loginMessage": "",
-      "creationDate": "2026-03-07 15:38:52"
-    },
-    "Kaiser": {
-      "password": "31d",
-      "hwid": "508de63fdc9458ceb6b2904ad3266b661bdff3b68d91728b8326bac71051dc58",
-      "expiryDate": "2026-04-09",
-      "loginMessage": "",
-      "creationDate": "2026-03-08 14:44:18"
-    },
-    "Donald": {
-      "password": "31d",
-      "hwid": "",
-      "expiryDate": "2026-04-10",
-      "loginMessage": "",
-      "creationDate": "2026-03-09 15:48:17"
     },
     "ra": {
       "password": "5m",
@@ -1682,13 +1585,6 @@
       "expiryDate": "2027-02-11",
       "loginMessage": "",
       "creationDate": "2026-03-11 01:23:32"
-    },
-    "lyhour15": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-03-26",
-      "loginMessage": "",
-      "creationDate": "2026-03-11 12:13:43"
     },
     "mohaz": {
       "password": "1",
@@ -1726,13 +1622,6 @@
       "loginMessage": "",
       "creationDate": "2026-03-15 12:18:43"
     },
-    "mod7d": {
-      "password": "7d",
-      "hwid": "",
-      "expiryDate": "2026-04-01",
-      "loginMessage": "",
-      "creationDate": "2026-03-15 13:43:59"
-    },
     "ep": {
       "password": "31y",
       "hwid": "8e4e58b60b4ed1b00a0acec0eb5629b4fa1e09ebfc34fd76496fd9da76197b03",
@@ -1761,26 +1650,12 @@
       "loginMessage": "",
       "creationDate": "2026-03-18 15:03:26"
     },
-    "s1": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-03-28",
-      "loginMessage": "",
-      "creationDate": "2026-03-19 16:07:44"
-    },
     "zy": {
       "password": "31d",
       "hwid": "",
       "expiryDate": "2026-04-21",
       "loginMessage": "",
       "creationDate": "2026-03-21 01:36:12"
-    },
-    "zy3d": {
-      "password": "1",
-      "hwid": "731294b0f3d28eb96e19db978d795a3d6555102606f3760e790b582f28acc946",
-      "expiryDate": "2026-03-29",
-      "loginMessage": "",
-      "creationDate": "2026-03-25 09:46:50"
     },
     "j31": {
       "password": "1",
@@ -1795,13 +1670,6 @@
       "expiryDate": "2026-04-28",
       "loginMessage": "",
       "creationDate": "2026-03-27 09:11:58"
-    },
-    "dodo1": {
-      "password": "31d",
-      "hwid": "0af35f689daf1d2a7600b6f4294de844486e083f5f33da91680df7e239f76058",
-      "expiryDate": "2025-06-25",
-      "loginMessage": "",
-      "creationDate": "2026-03-28 06:33:21"
     },
     "huyy": {
       "password": "1",
@@ -1831,26 +1699,12 @@
       "loginMessage": "",
       "creationDate": "2026-04-03 07:02:36"
     },
-    "parang": {
-      "password": "1d",
-      "hwid": "1718fe2f0e2d379673afad5d921b0d3f441cfbc35983759aa2758d18db7558a6",
-      "expiryDate": "2026-03-06",
-      "loginMessage": "",
-      "creationDate": "2026-04-04 15:17:27"
-    },
     "kara": {
       "password": "31d",
       "hwid": "f83140053d69f5515a63cbca0cab3d8da1df47dd708a4ad0c745061248b21fb9",
       "expiryDate": "2026-05-05",
       "loginMessage": "",
       "creationDate": "2026-04-05 12:57:39"
-    },
-    "12d": {
-      "password": "12",
-      "hwid": "f7a7179ac2f2aa69ee46bfc13a0ecff6a0bd85251498ae26bb659759e08e8797",
-      "expiryDate": "2026-04-07",
-      "loginMessage": "",
-      "creationDate": "2026-04-05 14:59:57"
     },
     "gojo": {
       "password": "31d",
@@ -1976,13 +1830,6 @@
       "expiryDate": "2027-01-12",
       "loginMessage": "",
       "creationDate": "2026-01-12 10:59:06"
-    },
-    "dd": {
-      "password": "dd",
-      "hwid": "b7a9a6b3aeb9a79819fa59cb562ab991f43cb57aa2b904e1132ff2a4cb27d086",
-      "expiryDate": "2026-03-29",
-      "loginMessage": "",
-      "creationDate": "2026-03-04 14:57:37"
     }
   },
   "CYBER": {
@@ -2244,15 +2091,6 @@
       "payRemaining": "PAID",
       "contactInfo": "mX4Sg8eD2bL1Hj6",
       "lastReset": ""
-    },
-    "matador": {
-      "password": "123c1",
-      "hwid": "71b69de88def562556bc474e3b3e0c027562054bd709e8b31b392f5647021183",
-      "expiryDate": "2026-03-31",
-      "loginMessage": "",
-      "creationDate": "2026-03-01 19:16:17",
-      "payRemaining": "Paid",
-      "contactInfo": "aQ7Tg5Kp2Tg5uR7mX4Hj6nC7Wc2Pq8sT9Rk8Jm7Qn6"
     }
   },
   "NOCTIS": {
@@ -2292,16 +2130,6 @@
       "payRemaining": "",
       "contactInfo": "",
       "lastReset": ""
-    },
-    "noctis1": {
-      "password": "xiters",
-      "hwid": "free",
-      "expiryDate": "2026-04-02",
-      "loginMessage": "",
-      "creationDate": "2026-03-26 10:31:17",
-      "payRemaining": "",
-      "contactInfo": "",
-      "lastReset": "free"
     }
   }
 }

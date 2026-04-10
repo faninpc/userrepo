@@ -1986,6 +1986,15 @@
     }
   },
   "CYBER": {
+    "1": {
+      "password": "1",
+      "hwid": "51bed7ab1aaa81d6e2fe07f6392f2af26a0aa3b09f088ff13e127931730fc0d5",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-04-10 10:51:29",
+      "payRemaining": "",
+      "contactInfo": ""
+    },
     "cyber": {
       "password": "1",
       "hwid": "5e38aa39e7f34177f8bca16f5166ec3a02f8cb7a90aad33c02b149141c2cc406",
@@ -2095,15 +2104,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-04-01 20:29:32",
-      "payRemaining": "",
-      "contactInfo": ""
-    },
-    "1": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-04-10 10:51:29",
       "payRemaining": "",
       "contactInfo": ""
     }

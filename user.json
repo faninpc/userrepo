@@ -2130,6 +2130,15 @@
       "payRemaining": "",
       "contactInfo": "",
       "lastReset": ""
+    },
+    "free": {
+      "password": "noctis",
+      "hwid": "",
+      "expiryDate": "2026-04-17",
+      "loginMessage": "",
+      "creationDate": "2026-04-10 18:44:27",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   }
 }

@@ -1846,11 +1846,11 @@
     },
     "cyber": {
       "password": "1",
-      "hwid": "5e38aa39e7f34177f8bca16f5166ec3a02f8cb7a90aad33c02b149141c2cc406",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-10-13 10:49:42",
-      "lastReset": ""
+      "lastReset": "2026-04-13T08:36:27.019Z"
     },
     "arslan": {
       "password": "1",

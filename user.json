@@ -1941,12 +1941,13 @@
     },
     "rexu": {
       "password": "1",
-      "hwid": "2cd60aad498047f4d31c2910b78de590ae03e526d2d848a665bdb803b6816e25",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-03-31 16:39:57",
       "payRemaining": "",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": "2026-04-13T15:48:35.929Z"
     },
     "ch": {
       "password": "1",

@@ -1229,6 +1229,12 @@
       "hwid": "1fd8f828c5a15440ecae5416c768903ec53bf23fb5729faae384e0bb4403d9e0",
       "expiryDate": "No Expiry",
       "creationDate": "2026-03-24 09:11:29"
+    },
+    "muneb": {
+      "password": "123",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2026-04-16 08:35:49"
     }
   },
   "FAKEDAMAGEFIX": {

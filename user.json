@@ -11,6 +11,17 @@
       "payreason": "N/A",
       "lastReset": ""
     },
+ "matador2": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
+      "creationDate": "2025-09-07 19:12:29",
+      "lastUsed": "2025-09-07 19:50:47",
+      "payRemaining": "Paid",
+      "payreason": "N/A",
+      "lastReset": ""
+    },
     "8155": {
       "password": "1",
       "hwid": "9d86e19d177706b54790ca225d35c1eec2e60c219b5e2ba1ffe09dcaeab70c33",

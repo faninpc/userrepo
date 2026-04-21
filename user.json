@@ -929,6 +929,15 @@
       "creationDate": "2026-03-30 10:35:19",
       "payRemaining": "250 Rs",
       "contactInfo": "rF4gS5Wm9nC7aP1cA7tD3nC7gS5xE8jR4jR4gS5cA7gS5"
+    },
+    "testing": {
+      "password": "testing",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-04-21 18:13:52",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   },
   "INSANE": {

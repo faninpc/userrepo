@@ -1708,13 +1708,6 @@
       "expiryDate": "2026-05-05",
       "loginMessage": "",
       "creationDate": "2026-04-05 12:57:39"
-    },
-    "gojo": {
-      "password": "31d",
-      "hwid": "ebecc098f6c08bfd0e8b1a4ffc300899d77601d8b1181facbfc258835696e3ad",
-      "expiryDate": "2026-05-07",
-      "loginMessage": "",
-      "creationDate": "2026-04-05 17:01:12"
     }
   },
   "AUTHENTICATION": {

@@ -1639,41 +1639,12 @@
       "loginMessage": "",
       "creationDate": "2026-03-12 20:03:06"
     },
-    "hong31": {
-      "password": "1",
-      "hwid": "0d15745d1452461e064e7f8a3f52ab365215e6000643934f2046c9cc3e2d48f5",
-      "expiryDate": "2026-04-15",
-      "loginMessage": "",
-      "creationDate": "2026-03-14 15:22:03",
-      "lastReset": "2026-03-15T10:55:37.999Z"
-    },
     "darkfoe": {
       "password": "1",
       "hwid": "d560a419c89f11a763ce91ce0ba9e5da601389f7b54fa9446b51097d0bb29358",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-03-15 00:49:52"
-    },
-    "kh1": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-04-15",
-      "loginMessage": "",
-      "creationDate": "2026-03-15 08:12:30"
-    },
-    "s11": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-04-16",
-      "loginMessage": "",
-      "creationDate": "2026-03-15 12:18:43"
-    },
-    "ep": {
-      "password": "31y",
-      "hwid": "8e4e58b60b4ed1b00a0acec0eb5629b4fa1e09ebfc34fd76496fd9da76197b03",
-      "expiryDate": "2026-04-16",
-      "loginMessage": "",
-      "creationDate": "2026-03-16 13:39:35"
     },
     "1yff": {
       "password": "1y",
@@ -1688,20 +1659,6 @@
       "expiryDate": "2027-03-18",
       "loginMessage": "",
       "creationDate": "2026-03-17 14:27:41"
-    },
-    "ya": {
-      "password": "31d",
-      "hwid": "",
-      "expiryDate": "2026-04-19",
-      "loginMessage": "",
-      "creationDate": "2026-03-18 15:03:26"
-    },
-    "zy": {
-      "password": "31d",
-      "hwid": "",
-      "expiryDate": "2026-04-21",
-      "loginMessage": "",
-      "creationDate": "2026-03-21 01:36:12"
     },
     "j31": {
       "password": "1",
@@ -1865,15 +1822,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Do NOT ignore this warning. A new update just dropped and it may be risky to use panel — test it first on a secondary ID or a bot account before using it on your main account.",
       "creationDate": "2025-10-09 11:37:32",
-      "payRemaining": "1 $ / 280 pkr / 90 inr",
-      "payreason": "Update Fees !"
-    },
-    "salz": {
-      "password": "123",
-      "hwid": "eb03a299b5a376ad4bcbdd617c218e869636e1a7eb1b448c70e78d539d743737",
-      "expiryDate": "2026-04-15",
-      "loginMessage": "",
-      "creationDate": "2025-11-10 18:24:08",
       "payRemaining": "1 $ / 280 pkr / 90 inr",
       "payreason": "Update Fees !"
     },
@@ -2184,16 +2132,6 @@
       "payRemaining": "",
       "contactInfo": "",
       "lastReset": ""
-    },
-    "free": {
-      "password": "noctis",
-      "hwid": "free",
-      "expiryDate": "2026-04-17",
-      "loginMessage": "",
-      "creationDate": "2026-04-10 18:44:27",
-      "payRemaining": "",
-      "contactInfo": "",
-      "lastReset": "free"
     }
   }
 }

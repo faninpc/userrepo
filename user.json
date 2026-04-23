@@ -1510,6 +1510,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-04-23 15:43:47"
+    },
+    "sa": {
+      "password": "sa",
+      "hwid": "",
+      "expiryDate": "2026-04-25",
+      "loginMessage": "",
+      "creationDate": "2026-04-23 19:37:12"
     }
   },
   "AUTHENTICATION": {

@@ -1503,6 +1503,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-04-22 17:12:41"
+    },
+    "moha": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-04-23 15:43:47"
     }
   },
   "AUTHENTICATION": {

@@ -1736,6 +1736,15 @@
       "creationDate": "2026-04-01 20:29:32",
       "payRemaining": "",
       "contactInfo": ""
+    },
+    "matrix": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-04-23 06:06:58",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   },
   "AIM": {

@@ -1517,6 +1517,13 @@
       "expiryDate": "2026-04-25",
       "loginMessage": "",
       "creationDate": "2026-04-23 19:37:12"
+    },
+    "caamir": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-04-24 15:06:22"
     }
   },
   "AUTHENTICATION": {

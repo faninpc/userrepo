@@ -1640,6 +1640,13 @@
       "expiryDate": "2027-01-12",
       "loginMessage": "",
       "creationDate": "2026-01-12 10:59:06"
+    },
+    "loy1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-05-15",
+      "loginMessage": "",
+      "creationDate": "2026-04-24 18:14:23"
     }
   },
   "CYBER": {

@@ -1824,12 +1824,13 @@
     },
     "khan1122": {
       "password": "dq1cw",
-      "hwid": "0097a2641d97da6f512eb38b9922f3ad8d6fea550bdc42ef0289ff69cdc7802f",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-02-20 17:07:57",
       "payRemaining": "Paid",
-      "contactInfo": "rF4gS5Wm9nC7aP1jR4cA7nC7cA7aP1xE8jR4Qv6Qv6MZ3"
+      "contactInfo": "rF4gS5Wm9nC7aP1jR4cA7nC7cA7aP1xE8jR4Qv6Qv6MZ3",
+      "lastReset": "2026-04-24T08:17:27.491Z"
     }
   },
   "SNIPER": {},

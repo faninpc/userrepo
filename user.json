@@ -1524,6 +1524,13 @@
       "expiryDate": "2026-12-01",
       "loginMessage": "",
       "creationDate": "2026-04-24 18:02:23"
+    },
+    "Lyhour": {
+      "password": "Lyhour",
+      "hwid": "",
+      "expiryDate": "2026-05-15",
+      "loginMessage": "",
+      "creationDate": "2026-04-24 18:07:52"
     }
   },
   "AUTHENTICATION": {

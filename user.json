@@ -1517,6 +1517,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-04-24 15:06:22"
+    },
+    "loy": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-12-01",
+      "loginMessage": "",
+      "creationDate": "2026-04-24 18:02:23"
     }
   },
   "AUTHENTICATION": {

@@ -1779,6 +1779,15 @@
       "payRemaining": "",
       "contactInfo": "",
       "lastReset": "2026-04-23T06:10:09.734Z"
+    },
+    "freeuser": {
+      "password": "1daliy",
+      "hwid": "",
+      "expiryDate": "2026-04-26",
+      "loginMessage": "",
+      "creationDate": "2026-04-25 09:08:12",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   },
   "AIM": {

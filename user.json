@@ -1531,6 +1531,13 @@
       "expiryDate": "2026-05-15",
       "loginMessage": "",
       "creationDate": "2026-04-24 18:07:52"
+    },
+    "1202": {
+      "password": "1202",
+      "hwid": "",
+      "expiryDate": "2027-01-25",
+      "loginMessage": "",
+      "creationDate": "2026-04-25 04:39:56"
     }
   },
   "AUTHENTICATION": {

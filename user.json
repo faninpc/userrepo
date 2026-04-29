@@ -942,12 +942,12 @@
   "INSANE": {
     "2": {
       "password": "2",
-      "hwid": "5359be12641fe1ac24eef57512b8232e4bfd8929e158850b6be8c7e2eaba6f26",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-30 16:49:27",
       "lastUsed": "2025-09-23 02:07:23",
       "loginMessage": "Enjoy Panel !",
-      "lastReset": "2026-02-26T13:49:30.609Z"
+      "lastReset": "2026-04-29T06:48:56.938Z"
     },
     "fanta": {
       "password": "1",

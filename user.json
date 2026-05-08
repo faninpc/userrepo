@@ -912,12 +912,13 @@
     },
     "ahmi": {
       "password": "13c",
-      "hwid": "85907493adc3a50de9915921319b81f54f826c489515d4a2c7d152b14936b56f",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-04-22 18:18:59",
       "payRemaining": "",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": "2026-05-08T17:00:37.905Z"
     },
     "h7n": {
       "password": "1cxwq",

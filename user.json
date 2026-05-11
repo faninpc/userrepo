@@ -447,13 +447,14 @@
     },
     "draco01": {
       "password": "1",
-      "hwid": "258587a49b0b6c955a492597992788f8e84a0640ee7ab5bb6ab4abe5b98c9153",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
       "creationDate": "2025-08-21 17:17:07",
       "lastUsed": "2025-09-07 07:04:50",
       "payRemaining": "Paid",
-      "payreason": "N/A"
+      "payreason": "N/A",
+      "lastReset": "2026-05-11T15:57:15.669Z"
     },
     "demon": {
       "password": "1",

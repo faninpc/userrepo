@@ -658,12 +658,13 @@
     },
     "awais6c1": {
       "password": "1",
-      "hwid": "d36fa8b58bc1d39d1d9ad0e30ac5410b1384d7b3df35832eefe4faab5abef354",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-20 18:51:51",
       "payRemaining": "Paid",
-      "payreason": "N/A"
+      "payreason": "N/A",
+      "lastReset": "2026-05-11T22:08:45.444Z"
     },
     "vicheka": {
       "password": "13nqs",

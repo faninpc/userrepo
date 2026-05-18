@@ -1862,12 +1862,13 @@
     },
     "khan2c4": {
       "password": "ad2w",
-      "hwid": "7d089176e32e39d35a39ba60e7d1a3380bdd356f1467ddceee121630bf657d5d",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-05-11 00:06:36",
       "payRemaining": "Paid",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": "2026-05-18T15:39:20.203Z"
     }
   },
   "SNIPER": {},

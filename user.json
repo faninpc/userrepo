@@ -1535,13 +1535,6 @@
       "loginMessage": "",
       "creationDate": "2026-04-24 18:02:23"
     },
-    "Lyhour": {
-      "password": "Lyhour",
-      "hwid": "570de8b31b0bab2c33a61ba7c4d26cdfd13e7ad71292d7630e516caaa72ebfdd",
-      "expiryDate": "2026-05-15",
-      "loginMessage": "",
-      "creationDate": "2026-04-24 18:07:52"
-    },
     "MUZA0011": {
       "password": "1",
       "hwid": "f28b6faced440b53a0876d67f19c0addc50c5eb5e65008f2c1ecfdd340af8f26",
@@ -1664,13 +1657,6 @@
       "expiryDate": "2027-01-12",
       "loginMessage": "",
       "creationDate": "2026-01-12 10:59:06"
-    },
-    "loy1": {
-      "password": "1",
-      "hwid": "a1b278763eed838d7b7d541596d132defabca3905da1550e94900e46a9ff4005",
-      "expiryDate": "2026-05-15",
-      "loginMessage": "",
-      "creationDate": "2026-04-24 18:14:23"
     }
   },
   "CYBER": {

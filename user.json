@@ -1548,6 +1548,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-05-29 19:41:45"
+    },
+    "sa1": {
+      "password": "sa1",
+      "hwid": "",
+      "expiryDate": "2026-05-31",
+      "loginMessage": "",
+      "creationDate": "2026-05-30 16:20:35"
     }
   },
   "AUTHENTICATION": {

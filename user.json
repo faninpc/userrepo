@@ -1676,6 +1676,13 @@
       "expiryDate": "2026-06-10",
       "loginMessage": "",
       "creationDate": "2026-05-31 11:11:45"
+    },
+    "sakora": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-06-30",
+      "loginMessage": "",
+      "creationDate": "2026-05-31 12:39:34"
     }
   },
   "CYBER": {

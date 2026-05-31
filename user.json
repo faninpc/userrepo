@@ -1268,6 +1268,12 @@
       "creationDate": "2026-05-11 00:15:24",
       "payRemaining": "",
       "contactInfo": ""
+    },
+    "zain": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2026-05-31 20:15:35"
     }
   },
   "FAKEDAMAGEFIX": {

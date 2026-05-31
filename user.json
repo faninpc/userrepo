@@ -1690,6 +1690,13 @@
       "expiryDate": "2026-06-30",
       "loginMessage": "",
       "creationDate": "2026-05-31 12:41:03"
+    },
+    "vita": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-06-30",
+      "loginMessage": "",
+      "creationDate": "2026-05-31 12:41:15"
     }
   },
   "CYBER": {

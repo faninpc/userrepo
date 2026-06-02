@@ -1717,6 +1717,13 @@
       "expiryDate": "2026-07-02",
       "loginMessage": "",
       "creationDate": "2026-06-02 04:20:34"
+    },
+    "tha1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-08-01",
+      "loginMessage": "",
+      "creationDate": "2026-06-02 17:27:57"
     }
   },
   "CYBER": {

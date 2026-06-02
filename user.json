@@ -1731,6 +1731,13 @@
       "expiryDate": "2026-07-03",
       "loginMessage": "",
       "creationDate": "2026-06-02 17:30:26"
+    },
+    "nak": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-07-03",
+      "loginMessage": "",
+      "creationDate": "2026-06-02 17:30:49"
     }
   },
   "CYBER": {

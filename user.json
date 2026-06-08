@@ -1745,6 +1745,13 @@
       "expiryDate": "2026-07-04",
       "loginMessage": "",
       "creationDate": "2026-06-04 10:53:34"
+    },
+    "raa": {
+      "password": "30",
+      "hwid": "",
+      "expiryDate": "2026-07-08",
+      "loginMessage": "",
+      "creationDate": "2026-06-08 11:00:10"
     }
   },
   "CYBER": {

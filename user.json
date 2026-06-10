@@ -1752,6 +1752,13 @@
       "expiryDate": "2026-07-08",
       "loginMessage": "",
       "creationDate": "2026-06-08 11:00:10"
+    },
+    "sa": {
+      "password": "sa",
+      "hwid": "",
+      "expiryDate": "2026-06-13",
+      "loginMessage": "",
+      "creationDate": "2026-06-10 18:26:13"
     }
   },
   "CYBER": {

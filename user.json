@@ -1901,6 +1901,15 @@
       "payRemaining": "",
       "contactInfo": "",
       "lastReset": "2026-05-26T09:02:53.031Z"
+    },
+    "cyber1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-06-12 11:47:04",
+      "payRemaining": "",
+      "contactInfo": ""
     }
   },
   "AIM": {

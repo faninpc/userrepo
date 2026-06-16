@@ -54,16 +54,6 @@
       "payreason": "N/A",
       "lastReset": ""
     },
-    "kimhong125": {
-      "password": "16ve",
-      "hwid": "0d15745d1452461e064e7f8a3f52ab365215e6000643934f2046c9cc3e2d48f5",
-      "expiryDate": "2026-06-13",
-      "creationDate": "2025-06-16T20:28:18.471Z",
-      "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
-      "lastUsed": "2025-09-06 11:14:33",
-      "payRemaining": "Paid",
-      "payreason": "N/A"
-    },
     "arise": {
       "password": "1",
       "hwid": "ABA61601-E860-11EC-80F2-6C2408B0159D",
@@ -1669,20 +1659,6 @@
       "loginMessage": "",
       "creationDate": "2026-05-31 10:24:33"
     },
-    "ra7d": {
-      "password": "1",
-      "hwid": "8af12c7814613abfcf14346056d337434bc86be9ad671912cd06b4da4c032eb2",
-      "expiryDate": "2026-06-07",
-      "loginMessage": "",
-      "creationDate": "2026-05-31 11:10:34"
-    },
-    "seyha": {
-      "password": "10d",
-      "hwid": "9ad5946bd7a0a4434a82906f2bd3f8ced8f82b0ac50fb006e21542d8c0ac0bee",
-      "expiryDate": "2026-06-10",
-      "loginMessage": "",
-      "creationDate": "2026-05-31 11:11:45"
-    },
     "sakora": {
       "password": "1",
       "hwid": "0b685c6f7db46338501c30a23900256bd4639934d5c4ce87fbfcc57e70017bbf",
@@ -1752,20 +1728,6 @@
       "expiryDate": "2026-07-08",
       "loginMessage": "",
       "creationDate": "2026-06-08 11:00:10"
-    },
-    "sa": {
-      "password": "sa",
-      "hwid": "75209dccd475d0b7bcf319a73ed7a4e1d1db3688b9ae98955e1ca8df88f9c99a",
-      "expiryDate": "2026-06-13",
-      "loginMessage": "",
-      "creationDate": "2026-06-10 18:26:13"
-    },
-    "t11": {
-      "password": "1",
-      "hwid": "2e3a8eb9a2bc5be6b8dd826d1de20682861ea317f8f35f6db319c3751bdbca01",
-      "expiryDate": "2026-06-12",
-      "loginMessage": "",
-      "creationDate": "2026-06-11 14:06:48"
     },
     "raax": {
       "password": "1",

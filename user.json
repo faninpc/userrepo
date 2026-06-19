@@ -1742,6 +1742,13 @@
       "expiryDate": "2026-07-21",
       "loginMessage": "",
       "creationDate": "2026-06-19 17:08:38"
+    },
+    "ss31": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-06-23",
+      "loginMessage": "",
+      "creationDate": "2026-06-19 17:08:48"
     }
   },
   "CYBER": {

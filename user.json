@@ -1946,7 +1946,9 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Fun Fact : Hitler was actually rejected twice from art school.",
       "creationDate": "2025-11-19 05:29:19",
-      "lastReset": "2026-04-11T18:52:47.952Z"
+      "lastReset": "2026-04-11T18:52:47.952Z",
+      "payRemaining": "Paid",
+      "payreason": ""
     },
     "khan1122": {
       "password": "dq1cw",

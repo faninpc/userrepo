@@ -1975,6 +1975,15 @@
       "creationDate": "2026-06-19 06:52:58",
       "payRemaining": "Paid",
       "contactInfo": "rF4gS5tD3nC7Qv6cA7cA7aP1tD3nC7gS5xE8Wm9xE8tD3"
+    },
+    "2day": {
+      "password": "12x",
+      "hwid": "",
+      "expiryDate": "2026-06-23",
+      "loginMessage": "",
+      "creationDate": "2026-06-21 07:11:39",
+      "payRemaining": "Not Paid",
+      "contactInfo": ""
     }
   },
   "SNIPER": {},

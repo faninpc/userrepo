@@ -920,6 +920,15 @@
       "payRemaining": "Paid",
       "contactInfo": "",
       "payreason": "N/A"
+    },
+    "cyberineren": {
+      "password": "12",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-06-23 09:27:48",
+      "payRemaining": "Paid",
+      "contactInfo": ""
     }
   },
   "INSANE": {

@@ -1210,13 +1210,13 @@
     },
     "hassan": {
       "password": "1",
-      "hwid": "40fe46c7378cbfda033c1a92cfb6f520ba54b738ef77c8f0035caf4bad98da09",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-02-03 10:46:21",
       "payRemaining": "",
       "contactInfo": "",
-      "lastReset": "2026-03-05T12:37:41.53Z"
+      "lastReset": ""
     },
     "minahil": {
       "password": "1",

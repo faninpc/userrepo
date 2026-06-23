@@ -1741,13 +1741,6 @@
       "expiryDate": "2026-07-21",
       "loginMessage": "",
       "creationDate": "2026-06-19 17:08:38"
-    },
-    "ss31": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-06-23",
-      "loginMessage": "",
-      "creationDate": "2026-06-19 17:08:48"
     }
   },
   "CYBER": {
@@ -1976,15 +1969,6 @@
       "creationDate": "2026-06-19 06:52:58",
       "payRemaining": "Paid",
       "contactInfo": "rF4gS5tD3nC7Qv6cA7cA7aP1tD3nC7gS5xE8Wm9xE8tD3"
-    },
-    "2day": {
-      "password": "12x",
-      "hwid": "3f90670ae9d82eeb4e8b19a91b0eb23eb9a6ea115b1ad56085a43bbc4509f7dd",
-      "expiryDate": "2026-06-23",
-      "loginMessage": "",
-      "creationDate": "2026-06-21 07:11:39",
-      "payRemaining": "Not Paid",
-      "contactInfo": ""
     }
   },
   "SNIPER": {},

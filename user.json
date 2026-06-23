@@ -929,6 +929,15 @@
       "creationDate": "2026-06-23 09:27:48",
       "payRemaining": "Paid",
       "contactInfo": ""
+    },
+    "trialuser": {
+      "password": "1day",
+      "hwid": "",
+      "expiryDate": "2026-06-24",
+      "loginMessage": "This Panel will work for 1 Day !",
+      "creationDate": "2026-06-23 11:10:03",
+      "payRemaining": "Paid",
+      "contactInfo": "rF4gS5Wm9nC7aP1aP1aP1nC7gS5cA7cA7xE8Qv6Wm9xE8"
     }
   },
   "INSANE": {

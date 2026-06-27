@@ -883,13 +883,13 @@
     },
     "ahmi": {
       "password": "13c",
-      "hwid": "0e043ab8559041e3957c13d615b30e67ed2cd9a4abcf64564448df48fb47444b",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-04-22 18:18:59",
       "payRemaining": "",
       "contactInfo": "",
-      "lastReset": "2026-06-26T22:40:24.753Z"
+      "lastReset": ""
     },
     "h7n": {
       "password": "1cxwq",

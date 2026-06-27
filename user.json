@@ -918,15 +918,6 @@
       "creationDate": "2026-06-23 09:27:48",
       "payRemaining": "Paid",
       "contactInfo": ""
-    },
-    "trialuser": {
-      "password": "1day",
-      "hwid": "",
-      "expiryDate": "2026-06-24",
-      "loginMessage": "This Panel will work for 1 Day !",
-      "creationDate": "2026-06-23 11:10:03",
-      "payRemaining": "Paid",
-      "contactInfo": "rF4gS5Wm9nC7aP1aP1aP1nC7gS5cA7cA7xE8Qv6Wm9xE8"
     }
   },
   "INSANE": {
@@ -1548,13 +1539,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-05-29 19:41:45"
-    },
-    "sa": {
-      "password": "sa",
-      "hwid": "f8c14e86b3d6cffe86f03175f3172d338af9992f45665fe5101d53b33eb24323",
-      "expiryDate": "2026-06-24",
-      "loginMessage": "",
-      "creationDate": "2026-06-23 05:48:52"
     }
   },
   "AUTHENTICATION": {
@@ -1741,13 +1725,6 @@
       "expiryDate": "2026-07-08",
       "loginMessage": "",
       "creationDate": "2026-06-08 11:00:10"
-    },
-    "raax": {
-      "password": "1",
-      "hwid": "15dde455609797d740f5dbd690630423c089ae99f14700ca807b83047a372484",
-      "expiryDate": "2026-06-25",
-      "loginMessage": "",
-      "creationDate": "2026-06-15 10:50:57"
     },
     "panha31": {
       "password": "1",

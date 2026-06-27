@@ -834,13 +834,13 @@
     },
     "owner": {
       "password": "1019887",
-      "hwid": "0c1e135c3c61456dd0e35dde9c7380df0665debd8aed26d01b14c9c06d014463",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-03-02 00:49:57",
       "payRemaining": "Paid",
       "contactInfo": "hE9q9Xq9XKc1nC7hR3q9XsT9nC7Kc1Nw6vH4Zp7Nw6q9XsT9nC7Bz2q9X",
-      "lastReset": "2026-04-03T17:06:26.545Z",
+      "lastReset": "",
       "payreason": ""
     },
     "freeuser": {

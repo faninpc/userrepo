@@ -1705,6 +1705,13 @@
       "expiryDate": "2026-07-29",
       "loginMessage": "",
       "creationDate": "2026-06-28 10:04:17"
+    },
+    "xing1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-07-03",
+      "loginMessage": "",
+      "creationDate": "2026-06-28 10:04:40"
     }
   },
   "CYBER": {

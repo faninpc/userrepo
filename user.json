@@ -1103,11 +1103,11 @@
     },
     "mian": {
       "password": "1",
-      "hwid": "8dd1c64814b96221365ca4c5fc950c17c28374a07f40e9b5b5fc3008b8aea93b",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-23 20:44:49",
       "lastUsed": "2025-09-13 10:53:54",
-      "lastReset": "2026-03-30T15:45:53.753Z"
+      "lastReset": "2026-06-29T17:04:36.963Z"
     },
     "haider": {
       "password": "1",

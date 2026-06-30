@@ -1514,6 +1514,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-06-28 15:31:16"
+    },
+    "abdi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-06-30 20:48:09"
     }
   },
   "AUTHENTICATION": {

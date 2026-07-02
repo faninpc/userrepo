@@ -1193,10 +1193,10 @@
     },
     "basit": {
       "password": "1",
-      "hwid": "cc3bc28b4236d3b3b43b0595742a1b340c03b6e50c2ac847ac6917b9ad99627a",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2026-01-11 08:50:51",
-      "lastReset": "2026-06-22T15:04:21.3Z"
+      "lastReset": ""
     },
     "ahmed": {
       "password": "1",

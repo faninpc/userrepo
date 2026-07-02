@@ -1890,12 +1890,13 @@
     },
     "erox": {
       "password": "1",
-      "hwid": "6c80fbb0c13bbb39ac1a5077611b022f6c1665aad6499ef43b677ab5b925e625",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-04-01 20:29:32",
       "payRemaining": "",
-      "contactInfo": ""
+      "contactInfo": "",
+      "lastReset": "2026-07-02T17:39:02.013Z"
     },
     "matrix": {
       "password": "1",

@@ -916,12 +916,13 @@
     },
     "mughal": {
       "password": "1x21",
-      "hwid": "fcde87134094420c312f5e38799c75712c2794cd4fd7b24725166c1396d50245",
+      "hwid": "",
       "expiryDate": "2026-07-13",
       "loginMessage": "All Server Safe UID Bypass Available !\r\nContact Discord or Whatsapp to Buy !",
       "creationDate": "2026-06-29 11:48:37",
       "payRemaining": "Paid",
-      "contactInfo": "rF4gS5Wm9nC7aP1xE8cA7nC7gS5Qv6tD3aP1MZ3Qv6jR4"
+      "contactInfo": "rF4gS5Wm9nC7aP1xE8cA7nC7gS5Qv6tD3aP1MZ3Qv6jR4",
+      "lastReset": "2026-07-05T14:23:06.680Z"
     },
     "basitinternal": {
       "password": "1c2x",

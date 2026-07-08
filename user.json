@@ -1543,6 +1543,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-07-02 16:47:17"
+    },
+    "MUZA0011": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-07-14",
+      "loginMessage": "",
+      "creationDate": "2026-07-08 17:28:06"
     }
   },
   "AUTHENTICATION": {

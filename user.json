@@ -1550,6 +1550,13 @@
       "expiryDate": "2026-07-14",
       "loginMessage": "",
       "creationDate": "2026-07-08 17:28:06"
+    },
+    "prime": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-09-16",
+      "loginMessage": "",
+      "creationDate": "2026-07-08 19:58:54"
     }
   },
   "AUTHENTICATION": {

@@ -1690,75 +1690,12 @@
       "loginMessage": "",
       "creationDate": "2026-05-31 10:14:09"
     },
-    "sakora": {
-      "password": "1",
-      "hwid": "0b685c6f7db46338501c30a23900256bd4639934d5c4ce87fbfcc57e70017bbf",
-      "expiryDate": "2026-06-30",
-      "loginMessage": "",
-      "creationDate": "2026-05-31 12:39:34"
-    },
-    "doma": {
-      "password": "1",
-      "hwid": "c044ef74c580078a8c1e2342343c6cf364ddf57d9f493dc631cbb31bef7e16f9",
-      "expiryDate": "2026-06-30",
-      "loginMessage": "",
-      "creationDate": "2026-05-31 12:41:03"
-    },
-    "vita": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-06-30",
-      "loginMessage": "",
-      "creationDate": "2026-05-31 12:41:15"
-    },
-    "daneth": {
-      "password": "1",
-      "hwid": "2acfb02fd5979e1dd23a6a10579c142d3f8b80b58ec0ea2f968bf630134ff7d7",
-      "expiryDate": "2026-07-01",
-      "loginMessage": "",
-      "creationDate": "2026-06-01 06:08:53"
-    },
-    "chi": {
-      "password": "1",
-      "hwid": "875b4224a1ad160f8e9d193867dab9b75be32fee40675c8b0317f617d6bfd44a",
-      "expiryDate": "2026-07-02",
-      "loginMessage": "",
-      "creationDate": "2026-06-02 04:20:34"
-    },
     "tha1": {
       "password": "1",
       "hwid": "362c10a6c7b326a09d79bb9993999ef84a075e53e7fbab008f52923977b46d05",
       "expiryDate": "2026-08-01",
       "loginMessage": "",
       "creationDate": "2026-06-02 17:27:57"
-    },
-    "xing": {
-      "password": "1",
-      "hwid": "f2260524f4518975cac8d4221722439bfbad5b96aaf91500b137881d718d8044",
-      "expiryDate": "2026-07-03",
-      "loginMessage": "",
-      "creationDate": "2026-06-02 17:30:26"
-    },
-    "nak": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-07-03",
-      "loginMessage": "",
-      "creationDate": "2026-06-02 17:30:49"
-    },
-    "reach": {
-      "password": "1",
-      "hwid": "85ff485a1867363748d4f8c4b090c12def262b7f261aea8f46d2dc0ad9128d79",
-      "expiryDate": "2026-07-04",
-      "loginMessage": "",
-      "creationDate": "2026-06-04 10:53:34"
-    },
-    "raa": {
-      "password": "30",
-      "hwid": "8af12c7814613abfcf14346056d337434bc86be9ad671912cd06b4da4c032eb2",
-      "expiryDate": "2026-07-08",
-      "loginMessage": "",
-      "creationDate": "2026-06-08 11:00:10"
     },
     "panha31": {
       "password": "1",
@@ -1781,33 +1718,12 @@
       "loginMessage": "",
       "creationDate": "2026-06-28 10:04:17"
     },
-    "xing1": {
-      "password": "1",
-      "hwid": "8ee0ec115333d2d098b317794eb7bc678f36afbe516d0c692c3045093979c85d",
-      "expiryDate": "2026-07-03",
-      "loginMessage": "",
-      "creationDate": "2026-06-28 10:04:40"
-    },
     "hong1": {
       "password": "1",
       "hwid": "0d15745d1452461e064e7f8a3f52ab365215e6000643934f2046c9cc3e2d48f5",
       "expiryDate": "2026-07-29",
       "loginMessage": "",
       "creationDate": "2026-06-28 10:44:28"
-    },
-    "tine": {
-      "password": "1",
-      "hwid": "3e3654773acb7e2245cd6672ea6d01e536d574ce38856e755c3d6bb52254f7df",
-      "expiryDate": "2026-07-06",
-      "loginMessage": "",
-      "creationDate": "2026-06-28 12:56:57"
-    },
-    "zenin": {
-      "password": "zenin",
-      "hwid": "94ba11ababecc1363c09da69100bb6b5571d9541bc69b15ca3b4262ae0065fff",
-      "expiryDate": "2026-07-03",
-      "loginMessage": "",
-      "creationDate": "2026-06-30 12:43:25"
     }
   },
   "CYBER": {

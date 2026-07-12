@@ -428,14 +428,14 @@
     },
     "draco01": {
       "password": "1",
-      "hwid": "fbfd5262e2eede0061f86240cca3e1fe1afa712cbefb067979b75aa9b8efd01c",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "All Server Safe UID Bypass Available !\r\nContact Discord or Whatsapp to Buy !",
       "creationDate": "2025-08-21 17:17:07",
       "lastUsed": "2025-09-07 07:04:50",
       "payRemaining": "Paid",
       "payreason": "N/A",
-      "lastReset": "2026-06-23T08:12:12.443Z"
+      "lastReset": ""
     },
     "demon": {
       "password": "1",

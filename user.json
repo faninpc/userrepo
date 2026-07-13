@@ -2016,13 +2016,6 @@
     }
   },
   "MATADOR": {
-    "mtd": {
-      "password": "1",
-      "hwid": "71b69de88def562556bc474e3b3e0c027562054bd709e8b31b392f5647021183",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-02-13 02:53:24"
-    },
     "adam": {
       "password": "1",
       "hwid": "5ce81ebf75a966dd2a12c56b9aaeeb29758cec4265a884d0c4a24ef565ca9078",

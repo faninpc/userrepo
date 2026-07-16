@@ -1050,6 +1050,16 @@
       "payRemaining": "Paid",
       "contactInfo": "rF4MZ3MZ3cA7nC7tD3Qv6aP1jR4sX9Qv6Qv6Qv6cA7Wm9Wm9",
       "accessLevel": "External"
+    },
+    "owner": {
+      "password": "1019887",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-16 07:37:54",
+      "payRemaining": "Paid",
+      "contactInfo": "",
+      "accessLevel": "Internal"
     }
   },
   "INSANE": {

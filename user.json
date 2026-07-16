@@ -1658,6 +1658,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-07-08 23:37:20"
+    },
+    "maska": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-16 23:06:43"
     }
   },
   "AUTHENTICATION": {

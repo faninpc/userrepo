@@ -1638,13 +1638,6 @@
       "loginMessage": "",
       "creationDate": "2026-07-02 16:47:17"
     },
-    "MUZA0011": {
-      "password": "1",
-      "hwid": "f28b6faced440b53a0876d67f19c0addc50c5eb5e65008f2c1ecfdd340af8f26",
-      "expiryDate": "2026-07-14",
-      "loginMessage": "",
-      "creationDate": "2026-07-08 17:28:06"
-    },
     "prime": {
       "password": "1",
       "hwid": "a0c77fc19cb047a286d7946bddb5d6a2378d75dde97a11084fdb3be7dbaea3a8",
@@ -2075,15 +2068,7 @@
     }
   },
   "SNIPER": {},
-  "MATADOR": {
-    "mtd": {
-      "password": "1",
-      "hwid": "58a7080839361edd5c5f993ab16520d30dd65c4e083cc21ed7be8259d2997b3a",
-      "expiryDate": "2025-06-25",
-      "loginMessage": "",
-      "creationDate": "2026-07-13 21:23:47"
-    }
-  },
+  "MATADOR": {},
   "BYPASSEREN": {
     "eren": {
       "password": "1",

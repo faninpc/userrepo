@@ -1050,6 +1050,16 @@
       "contactInfo": "",
       "accessLevel": "External,Internal,Bypass",
       "lastReset": ""
+    },
+    "farhad": {
+      "password": "1x2",
+      "hwid": "",
+      "expiryDate": "2026-07-24",
+      "loginMessage": "",
+      "creationDate": "2026-07-17 16:54:20",
+      "payRemaining": "Paid",
+      "contactInfo": "",
+      "accessLevel": "External,Internal"
     }
   },
   "INSANE": {

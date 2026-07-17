@@ -398,7 +398,7 @@
       "lastReset": "2026-07-08T08:03:43.2Z",
       "payRemaining": "Paid",
       "payreason": "N/A",
-      "accessLevel": "External"
+      "accessLevel": "External,Internal"
     },
     "zahoor": {
       "password": "1",

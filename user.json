@@ -535,7 +535,7 @@
       "lastReset": "2026-06-21T12:10:32.565Z",
       "payRemaining": "Paid",
       "payreason": "N/A",
-      "accessLevel": "External"
+      "accessLevel": "External,Internal"
     },
     "edison": {
       "password": "99",

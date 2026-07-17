@@ -1527,55 +1527,6 @@
       "creationDate": "2026-07-16 23:06:43"
     }
   },
-  "AUTHENTICATION": {
-    "1": {
-      "password": "1",
-      "hwid": "CA02F3F3-4501-245C-033D-04D4C4F393E6",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-07-11 17:51:18",
-      "lastUsed": "2025-10-11 17:36:39"
-    },
-    "user12": {
-      "password": "1",
-      "hwid": "E7565CE2-D312-11EC-8E57-70A8D3922EF2",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-04 11:36:09",
-      "lastUsed": "2025-08-04 14:27:44"
-    },
-    "salz": {
-      "password": "1",
-      "hwid": "free",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-21 14:33:13",
-      "lastUsed": "2026-06-30 12:43:16"
-    },
-    "max": {
-      "password": "1",
-      "hwid": "8E6A1676-3E91-11E7-8FF5-54E1AD282B0B",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-27 13:04:28",
-      "lastUsed": "2025-10-31 08:32:58"
-    },
-    "cyber": {
-      "password": "1",
-      "hwid": "69D79C7B-8742-11E0-BBDA-D721E5E22C27",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-09-04 14:34:29",
-      "lastUsed": "2025-12-22 13:48:54"
-    },
-    "maska12dsa": {
-      "password": "d1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-10-29 18:15:40"
-    }
-  },
   "SALZ": {
     "salz123": {
       "password": "salz123",

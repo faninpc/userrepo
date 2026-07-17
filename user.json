@@ -1064,13 +1064,14 @@
     },
     "2": {
       "password": "2",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-07-17 15:01:57",
       "payRemaining": "",
       "contactInfo": "",
-      "accessLevel": "External"
+      "accessLevel": "External",
+      "lastReset": "free"
     }
   },
   "INSANE": {

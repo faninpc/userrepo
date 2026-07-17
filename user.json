@@ -822,7 +822,7 @@
       "contactInfo": "",
       "lastReset": "free",
       "payreason": "N/A",
-      "accessLevel": "External"
+      "accessLevel": "External,Internal"
     },
     "umer": {
       "password": "1c32x",

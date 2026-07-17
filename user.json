@@ -2066,38 +2066,6 @@
     }
   },
   "SNIPER": {},
-  "FREEEXTERNAL": {
-    "romi": {
-      "password": "1",
-      "hwid": "f68fd4a2ced14b7b3bc06d2fda4bb3e42f04e8e399bd4a8821fe5171ecdbc888",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-10-21 21:03:49"
-    },
-    "insane": {
-      "password": "1",
-      "hwid": "36ad2e4486327c5bb6e26beddbde83669f6617c782eb244b8658967f05f586f5",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-10-31 20:35:38"
-    },
-    "asad": {
-      "password": "1",
-      "hwid": "2618114b0290e6a18d17a086de489f457eaeae4d5ed9b0dd3f4cb14a6a45a0e3",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-12-16 16:54:17"
-    },
-    "worrior": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-12-17 09:12:09"
-    },
-    "hasan": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-12-19 13:22:31"
-    }
-  },
   "MATADOR": {
     "mtd": {
       "password": "1",

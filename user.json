@@ -1588,5 +1588,16 @@
     }
   },
   "MATADOR": {},
-  "CYBER": {}
+  "CYBER": {
+    "testing": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-17 15:26:10",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External"
+    }
+  }
 }

@@ -1585,13 +1585,14 @@
     },
     "aethelcheats": {
       "password": "free1day",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2026-07-19",
       "loginMessage": "",
       "creationDate": "2026-07-17 18:39:28",
       "payRemaining": "",
       "contactInfo": "",
-      "accessLevel": "External"
+      "accessLevel": "External",
+      "lastReset": "free"
     }
   }
 }

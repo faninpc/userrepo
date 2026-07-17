@@ -1576,48 +1576,6 @@
       "creationDate": "2025-10-29 18:15:40"
     }
   },
-  "BYPASS": {
-    "1": {
-      "password": "1",
-      "hwid": "f9d1f7862d087b79057b92079a42fa71f58bdce59350896ee9196a470dcfaac1",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-16 13:01:28",
-      "lastUsed": "2025-08-28 15:46:32"
-    },
-    "bypassfree": {
-      "password": "3daystrial",
-      "hwid": "free",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-29 15:35:31",
-      "lastUsed": "2025-09-12 16:36:20"
-    },
-    "mian": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-09-05 03:42:45",
-      "lastUsed": "2026-01-28 14:52:54"
-    },
-    "haider": {
-      "password": "1",
-      "hwid": "f47968a404af8233b40cce00c9e102a919f9a3617627888c62f358c4c657cd61",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-09-05 03:42:53",
-      "lastUsed": "2025-12-24 16:15:23"
-    },
-    "pagal": {
-      "password": "1",
-      "hwid": "2ca83b66654ad9f2cdf1b9313e244ad8655388478a20f486bd5d0bf725560b4c",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-09-19 20:13:09",
-      "lastUsed": "2025-09-27 22:44:47"
-    }
-  },
   "SALZ": {
     "salz123": {
       "password": "salz123",

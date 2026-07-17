@@ -1597,6 +1597,16 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External"
+    },
+    "test": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-17 16:33:17",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External,Internal"
     }
   }
 }

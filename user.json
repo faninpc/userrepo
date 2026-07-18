@@ -1603,13 +1603,14 @@
     },
     "saad": {
       "password": "1",
-      "hwid": "7c75d117f4c792544371d2a7f828716b08d7207fd2dce73defe808abd47cc9ca",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "Wellcome Randi :)",
       "creationDate": "2026-07-18 14:00:40",
       "payRemaining": "",
       "contactInfo": "",
-      "accessLevel": "External,Internal,Bypass"
+      "accessLevel": "External,Internal,Bypass",
+      "lastReset": "2026-07-18T14:03:04.751Z"
     },
     "aethel": {
       "password": "cheats",

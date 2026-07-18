@@ -1610,6 +1610,16 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External,Internal,Bypass"
+    },
+    "aethel": {
+      "password": "cheats",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-18 14:02:03",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External,Internal,Bypass"
     }
   }
 }

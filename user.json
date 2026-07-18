@@ -1600,16 +1600,6 @@
       "contactInfo": "",
       "accessLevel": "External",
       "lastReset": "2026-07-18T13:58:38.665Z"
-    },
-    "saad": {
-      "password": "1",
-      "hwid": "7c75d117f4c792544371d2a7f828716b08d7207fd2dce73defe808abd47cc9ca",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-07-18 11:47:16",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External,Bypass"
     }
   }
 }

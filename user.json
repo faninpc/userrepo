@@ -1034,6 +1034,16 @@
       "payRemaining": "Paid",
       "contactInfo": "",
       "accessLevel": "External"
+    },
+    "zuunair": {
+      "password": "122x",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-18 09:50:02",
+      "payRemaining": "Paid",
+      "contactInfo": "",
+      "accessLevel": "External"
     }
   },
   "INSANE": {

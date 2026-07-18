@@ -1516,6 +1516,13 @@
       "expiryDate": "2026-09-19",
       "loginMessage": "",
       "creationDate": "2026-07-18 11:57:47"
+    },
+    "MUZA0011": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-18 19:08:56"
     }
   },
   "SALZ": {

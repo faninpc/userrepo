@@ -1582,13 +1582,14 @@
   "CYBER": {
     "cyber": {
       "password": "1",
-      "hwid": "61ffbaa9394f346c3ef305c5e16b10ab361382f1da621771ae4b3e1061fee82f",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-07-17 16:46:36",
       "payRemaining": "",
       "contactInfo": "",
-      "accessLevel": "External,Internal,Bypass"
+      "accessLevel": "External,Internal,Bypass",
+      "lastReset": "2026-07-18T14:57:30.390Z"
     },
     "aethelcheats": {
       "password": "free1day",

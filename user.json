@@ -1612,6 +1612,16 @@
       "contactInfo": "",
       "accessLevel": "External,Internal,Bypass",
       "lastReset": "2026-07-18T17:08:07.182Z"
+    },
+    "aethelcheats": {
+      "password": "free1day",
+      "hwid": "",
+      "expiryDate": "2026-07-21",
+      "loginMessage": "",
+      "creationDate": "2026-07-18 17:16:37",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External"
     }
   }
 }

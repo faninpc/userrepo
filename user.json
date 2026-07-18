@@ -983,7 +983,7 @@
       "payRemaining": "Paid",
       "contactInfo": "rF4gS5Wm9nC7aP1Wm9gS5nC7tD3xE8Hf2Hf2gS5tD3gS5",
       "accessLevel": "External",
-      "lastReset": "2026-07-18T11:33:03.040Z"
+      "lastReset": "2026-07-18T11:33:03.04Z"
     },
     "ninja": {
       "password": "214x",
@@ -1604,6 +1604,16 @@
       "contactInfo": "",
       "accessLevel": "External",
       "lastReset": "free"
+    },
+    "saad": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-18 11:47:16",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External,Bypass"
     }
   }
 }

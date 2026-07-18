@@ -976,13 +976,14 @@
     },
     "noctis6c": {
       "password": "12xc2",
-      "hwid": "7c75d117f4c792544371d2a7f828716b08d7207fd2dce73defe808abd47cc9ca",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "UID Bypass Safe Avaialble !",
       "creationDate": "2026-07-07 17:26:01",
       "payRemaining": "Paid",
       "contactInfo": "rF4gS5Wm9nC7aP1Wm9gS5nC7tD3xE8Hf2Hf2gS5tD3gS5",
-      "accessLevel": "External"
+      "accessLevel": "External",
+      "lastReset": "2026-07-18T11:33:03.040Z"
     },
     "ninja": {
       "password": "214x",

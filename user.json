@@ -1615,13 +1615,14 @@
     },
     "aethel": {
       "password": "cheats",
-      "hwid": "7c75d117f4c792544371d2a7f828716b08d7207fd2dce73defe808abd47cc9ca",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-07-18 14:02:03",
       "payRemaining": "",
       "contactInfo": "",
-      "accessLevel": "External,Internal,Bypass"
+      "accessLevel": "External,Internal,Bypass",
+      "lastReset": "2026-07-18T17:08:07.182Z"
     }
   }
 }

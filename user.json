@@ -1523,6 +1523,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-07-18 19:08:56"
+    },
+    "rakk": {
+      "password": "rakk",
+      "hwid": "",
+      "expiryDate": "2026-08-19",
+      "loginMessage": "",
+      "creationDate": "2026-07-19 08:49:15"
     }
   },
   "SALZ": {

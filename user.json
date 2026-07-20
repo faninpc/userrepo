@@ -1009,7 +1009,7 @@
     },
     "owner": {
       "password": "1019887",
-      "hwid": "d8a201bf0894aa47e11606c160b64e24fa799ac658a97fb1884b569f166c6ef4",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-07-16 07:37:54",
@@ -1258,7 +1258,7 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-08-25 19:49:37",
       "lastUsed": "2025-10-19 23:54:10",
-      "lastReset": "2026-07-20T22:56:01.320Z"
+      "lastReset": "2026-07-20T22:56:01.32Z"
     },
     "shoaib": {
       "password": "1",

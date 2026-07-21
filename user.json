@@ -1663,6 +1663,16 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External"
+    },
+    "aethel1": {
+      "password": "free",
+      "hwid": "",
+      "expiryDate": "2026-07-23",
+      "loginMessage": "",
+      "creationDate": "2026-07-21 02:16:57",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External"
     }
   }
 }

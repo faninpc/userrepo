@@ -1073,6 +1073,18 @@
       "accessLevel": "External",
       "lastReset": "",
       "contactInfo": "pW9Jm7mQ1Yd5hR3Yd5Yd5"
+    },
+    "Testuser1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2027-07-21",
+      "creationDate": "2026-07-21 20:59:45",
+      "loginMessage": "",
+      "payRemaining": "Paid",
+      "payreason": "N/A",
+      "accessLevel": "External,Internal",
+      "lastReset": "",
+      "contactInfo": "pW9Jm7mQ1Yd5hR3Yd5Yd5"
     }
   },
   "INSANE": {

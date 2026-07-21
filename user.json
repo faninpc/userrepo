@@ -1053,7 +1053,7 @@
       "accessLevel": "External,Internal"
     },
     "Test": {
-      "password": "1",
+      "password": "1cddsm",
       "hwid": "",
       "expiryDate": "2027-07-21",
       "creationDate": "2026-07-21 21:16:32",
@@ -1062,7 +1062,8 @@
       "payreason": "N/A",
       "accessLevel": "External",
       "lastReset": "",
-      "contactInfo": ""
+      "contactInfo": "",
+      "daysleft": "365"
     }
   },
   "INSANE": {

@@ -1599,10 +1599,11 @@
     },
     "salz": {
       "password": "1",
-      "hwid": "f8c14e86b3d6cffe86f03175f3172d338af9992f45665fe5101d53b33eb24323",
+      "hwid": "",
       "expiryDate": "2027-06-24",
       "loginMessage": "",
-      "creationDate": "2026-06-24 06:55:06"
+      "creationDate": "2026-06-24 06:55:06",
+      "lastReset": "2026-07-21T13:28:42.962Z"
     },
     "lyhour1": {
       "password": "1",

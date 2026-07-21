@@ -1052,18 +1052,6 @@
       "contactInfo": "rF4Wm9cA7nC7tD3tD3nC7cA7cA7gS5Hf2jR4gS5MZ3gS5",
       "accessLevel": "External,Internal"
     },
-    "Testuser1": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2027-07-21",
-      "creationDate": "2026-07-21 20:59:45",
-      "loginMessage": "",
-      "payRemaining": "Paid",
-      "payreason": "N/A",
-      "accessLevel": "External,Internal",
-      "lastReset": "",
-      "contactInfo": "pW9Jm7mQ1Yd5hR3Yd5Yd5"
-    },
     "Testfjsjs": {
       "password": "1",
       "hwid": "",

@@ -188,16 +188,19 @@
       "accessLevel": "External"
     },
     "yousuf": {
-      "password": "1",
+      "password": "1sadsdsdsdsadd",
       "hwid": "1165e0f1bb67eefdd387d5aec1092069188e53719e825b27b261bb2eeda16667",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-10 15:41:37",
       "lastUsed": "2025-06-23 02:00:04",
-      "loginMessage": "All Server Safe UID Bypass Available !\r\nContact Discord or Whatsapp to Buy !",
+      "loginMessage": "All Server Safe UID Bypass Available !\nContact Discord or Whatsapp to Buy !",
       "payRemaining": "Paid",
       "payreason": "N/A",
       "lastReset": "2026-07-17T05:44:12.707Z",
-      "accessLevel": "External"
+      "accessLevel": "External",
+      "contactInfo": "",
+      "daysleft": "",
+      "lastHwidReset": ""
     },
     "aoun": {
       "password": "1",

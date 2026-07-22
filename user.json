@@ -1614,7 +1614,18 @@
       "creationDate": "2026-06-28 10:44:28"
     }
   },
-  "MATADOR": {},
+  "MATADOR": {
+    "mtd": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-22 02:00:58",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External,Internal,Bypass"
+    }
+  },
   "CYBER": {
     "cyber": {
       "password": "1",

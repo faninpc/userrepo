@@ -1681,6 +1681,16 @@
       "contactInfo": "",
       "accessLevel": "External",
       "lastReset": "free"
+    },
+    "storm": {
+      "password": "69",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-22 19:06:37",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External,Internal"
     }
   }
 }

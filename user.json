@@ -1002,17 +1002,6 @@
       "accessLevel": "External",
       "lastReset": "2026-07-19T14:13:44.977Z"
     },
-    "owner": {
-      "hwid": "d8a201bf0894aa47e11606c160b64e24fa799ac658a97fb1884b569f166c6ef4",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-07-16 07:37:54",
-      "payRemaining": "Paid",
-      "contactInfo": "",
-      "accessLevel": "External,Internal",
-      "lastReset": "",
-      "passwordHash": "7ea78d4548655e3c22cae69d26065189:81be3abc23029da95044594b1cbd7522e9ae291762bf9c8a45c3cd5d5a1614bf183001c192b87f610cebf5474165653a9cacc53564dddb59127ac82d6e817125"
-    },
     "farhad": {
       "password": "1x2",
       "hwid": "2d2776459f204b35601ddf8c15948b37549446400a70b484a273266a790e22e8",

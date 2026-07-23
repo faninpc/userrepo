@@ -1219,11 +1219,11 @@
     },
     "zunair": {
       "password": "1",
-      "hwid": "f53ab088ce6d1d158c4364721b1a8e338787335183f0918471a007c936845d1b",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-22 06:31:51",
       "lastUsed": "2025-09-13 13:02:04",
-      "lastReset": "2026-06-15T16:55:52.998Z"
+      "lastReset": "2026-07-23T17:11:37.583Z"
     },
     "mian": {
       "password": "1",

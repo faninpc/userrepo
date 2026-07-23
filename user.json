@@ -1680,6 +1680,16 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External,Internal"
+    },
+    "aethel": {
+      "password": "free1",
+      "hwid": "",
+      "expiryDate": "2026-07-25",
+      "loginMessage": "",
+      "creationDate": "2026-07-23 01:09:15",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External"
     }
   }
 }

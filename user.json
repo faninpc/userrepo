@@ -1003,7 +1003,6 @@
       "lastReset": "2026-07-19T14:13:44.977Z"
     },
     "owner": {
-      "password": "1019887",
       "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
@@ -1011,7 +1010,8 @@
       "payRemaining": "Paid",
       "contactInfo": "",
       "accessLevel": "External,Internal",
-      "lastReset": ""
+      "lastReset": "",
+      "passwordHash": "7ea78d4548655e3c22cae69d26065189:81be3abc23029da95044594b1cbd7522e9ae291762bf9c8a45c3cd5d5a1614bf183001c192b87f610cebf5474165653a9cacc53564dddb59127ac82d6e817125"
     },
     "farhad": {
       "password": "1x2",

@@ -1683,13 +1683,14 @@
     },
     "aethel": {
       "password": "free1",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2026-07-25",
       "loginMessage": "",
       "creationDate": "2026-07-23 01:09:15",
       "payRemaining": "",
       "contactInfo": "",
-      "accessLevel": "External"
+      "accessLevel": "External",
+      "lastReset": "free"
     }
   }
 }

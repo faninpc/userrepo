@@ -1044,14 +1044,15 @@
     },
     "owner": {
       "password": "owner",
-      "hwid": "d8a201bf0894aa47e11606c160b64e24fa799ac658a97fb1884b569f166c6ef4",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-07-23 23:49:17",
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External,Internal",
-      "passwordHash": "b2fc607b64f8164b6ea55b0fca8701ee:1a4e6e18fec709da9d30f80d433fa56bde86264fd6cd6a10a79eac5282d277a453e38b7eff92860ce743f4448d218ec5e0aaab589aa803ac05a15a0b1e2012c1"
+      "passwordHash": "b2fc607b64f8164b6ea55b0fca8701ee:1a4e6e18fec709da9d30f80d433fa56bde86264fd6cd6a10a79eac5282d277a453e38b7eff92860ce743f4448d218ec5e0aaab589aa803ac05a15a0b1e2012c1",
+      "lastReset": ""
     }
   },
   "INSANE": {

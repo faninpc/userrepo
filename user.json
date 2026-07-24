@@ -1710,7 +1710,7 @@
     "testuser123": {
       "password": "1234",
       "passwordHash": "42529077797e75c2dd08325cb4262b33:2e993d6b76df9da6da50edfa2f0886412652711a2358b7423e18ce80da2f9d7d9c120575f6de7622d569d222c3f06445de4018be0c1e79afba1ff5d89b441010",
-      "hwid": "",
+      "hwid": "d8a201bf0894aa47e11606c160b64e24fa799ac658a97fb1884b569f166c6ef4",
       "creationDate": "2026-07-24 17:34:30",
       "expiryDate": "2027-07-24",
       "loginMessage": "Welcome New user !",

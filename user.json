@@ -1706,16 +1706,5 @@
       "lastReset": "free"
     }
   },
-  "YOUR_NAME": {
-    "testuser": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-07-24 16:59:52",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External,Internal"
-    }
-  }
+  "YOUR_NAME": {}
 }

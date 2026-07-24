@@ -1058,11 +1058,11 @@
       "password": "default",
       "passwordHash": "461f4dc1e0c491065daf563e160d12b0:045ffac8b34c12c6cfab9021ebf1f120dd47b2f19a33196a91f6f79fcb4789267d7b0dc4716922fd72868a748a531d7511a30fbc0378e425ecd24f5264ec5b2a",
       "hwid": "",
-      "creationDate": "2026-07-24",
-      "expiryDate": "N/A",
+      "creationDate": "2026-07-24 21:29:40",
+      "expiryDate": "2027-07-24",
       "loginMessage": "",
       "payRemaining": "Paid",
-      "accessLevel": "N/A"
+      "accessLevel": "Bypass,Internal,Upcoming"
     }
   },
   "INSANE": {

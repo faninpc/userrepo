@@ -1058,11 +1058,11 @@
       "password": "testuser124",
       "passwordHash": "ec2b0161b3c768187edb870dd5a57491:62079b8214ac7e3f492891ddad42d469eb919834e80c8d5ccbf34ed68a48f3453d518bd17503254b61e24b7815de085049429d7d2cd959b3cf59a0aa82fce5cb",
       "hwid": "",
-      "creationDate": "2026-07-24",
-      "expiryDate": "N/A",
+      "creationDate": "2026-07-24 02:14:13",
+      "expiryDate": "2027-07-24",
       "loginMessage": "",
       "payRemaining": "Paid",
-      "accessLevel": "N/A"
+      "accessLevel": "External,Internal,blahblah"
     }
   },
   "INSANE": {

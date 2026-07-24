@@ -1468,7 +1468,8 @@
       "hwid": "977ce1c5d0a904d54125a4149159806407438cfc72c775f0d3ad9dc081937129",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2026-05-29 19:41:45"
+      "creationDate": "2026-05-29 19:41:45",
+      "accessLevel": ""
     },
     "alpha": {
       "password": "1",

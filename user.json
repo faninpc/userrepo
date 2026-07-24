@@ -494,12 +494,12 @@
     },
     "sami": {
       "password": "1",
-      "hwid": "f9d1f7862d087b79057b92079a42fa71f58bdce59350896ee9196a470dcfaac1",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "All Server Safe UID Bypass Available !\r\nContact Discord or Whatsapp to Buy !",
       "creationDate": "2025-09-07 13:34:57",
       "lastUsed": "2025-09-08 12:02:46",
-      "lastReset": "2026-06-21T12:10:32.565Z",
+      "lastReset": "2026-07-24T19:11:10.679Z",
       "payRemaining": "1 $",
       "payreason": "N/A",
       "accessLevel": "External,Internal"

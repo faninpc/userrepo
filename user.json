@@ -1676,13 +1676,14 @@
     },
     "aethel": {
       "password": "cheats",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2026-07-26",
       "loginMessage": "",
       "creationDate": "2026-07-24 14:23:46",
       "payRemaining": "",
       "contactInfo": "",
-      "accessLevel": "External"
+      "accessLevel": "External",
+      "lastReset": "free"
     }
   }
 }

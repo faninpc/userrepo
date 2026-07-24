@@ -1723,11 +1723,11 @@
       "password": "default",
       "passwordHash": "832623ba538376f0e1c490a536b3ce9e:648e7777813c92dc7710e14d490be33479006598e4136ffc463b93a264a3683d60218884455f8a9ec15c519ced1992c7a0529590c178cc090e18289ed622e802",
       "hwid": "",
-      "creationDate": "2026-07-24",
-      "expiryDate": "N/A",
+      "creationDate": "2026-07-24 19:29:55",
+      "expiryDate": "2027-07-24",
       "loginMessage": "",
       "payRemaining": "Paid",
-      "accessLevel": "N/A"
+      "accessLevel": "External,SilenAim"
     }
   }
 }

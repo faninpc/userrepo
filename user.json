@@ -1450,7 +1450,8 @@
       "hwid": "40dfa367e9f52ea7b8e1c004092a0a95e09b33e0765c26d6affb49cdc30c957d",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2026-01-12 07:28:36"
+      "creationDate": "2026-01-12 07:28:36",
+      "accessLevel": ""
     },
     "darkfoe": {
       "password": "1",

@@ -1715,7 +1715,7 @@
       "expiryDate": "2027-07-24",
       "loginMessage": "Welcome New user !",
       "payRemaining": "Paid",
-      "accessLevel": "External"
+      "accessLevel": "External,Internal"
     }
   },
   "MOMEN": {

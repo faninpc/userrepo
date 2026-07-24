@@ -1053,6 +1053,16 @@
       "accessLevel": "External,Internal",
       "passwordHash": "65257a63b1df64bc4e415db5928518b3:e1d60535ccf685c7f42294548289bf9f7d50683423d4d5bdbee24a79d0ea73e13d623a4afcf8b20005959cb5b636a954e8ce284fe282f6eb081f03a13c586b63",
       "lastReset": ""
+    },
+    "testtesttesttest": {
+      "password": "default",
+      "passwordHash": "461f4dc1e0c491065daf563e160d12b0:045ffac8b34c12c6cfab9021ebf1f120dd47b2f19a33196a91f6f79fcb4789267d7b0dc4716922fd72868a748a531d7511a30fbc0378e425ecd24f5264ec5b2a",
+      "hwid": "",
+      "creationDate": "2026-07-24",
+      "expiryDate": "N/A",
+      "loginMessage": "",
+      "payRemaining": "Paid",
+      "accessLevel": "N/A"
     }
   },
   "INSANE": {

@@ -1545,7 +1545,8 @@
       "hwid": "c30f23e4950dbaec657bb462457927b7eb2c4f350cab6406a334f3736429ab07",
       "expiryDate": "2026-08-19",
       "loginMessage": "",
-      "creationDate": "2026-07-19 08:49:15"
+      "creationDate": "2026-07-19 08:49:15",
+      "accessLevel": ""
     },
     "boyra": {
       "password": "7",

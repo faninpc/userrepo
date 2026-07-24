@@ -1427,7 +1427,8 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-12-23 14:14:33"
+      "creationDate": "2025-12-23 14:14:33",
+      "accessLevel": ""
     },
     "BARISTO": {
       "password": "1",

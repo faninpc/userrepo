@@ -1525,7 +1525,8 @@
       "hwid": "f28b6faced440b53a0876d67f19c0addc50c5eb5e65008f2c1ecfdd340af8f26",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2026-07-18 19:08:56"
+      "creationDate": "2026-07-18 19:08:56",
+      "accessLevel": ""
     },
     "rakk": {
       "password": "rakk",

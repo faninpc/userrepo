@@ -1706,5 +1706,16 @@
       "lastReset": "free"
     }
   },
-  "YOUR_NAME": {}
+  "YOUR_NAME": {
+    "testuser123": {
+      "password": "1234",
+      "passwordHash": "68a91f31ca4e78c690a34d1febabf764:d27113bdd159bb3890f4c5b83cf7256c09c078329c22ea7aede20ec3b9a2dde67e449bc04071f8efd9f877e0e8732069bc2770110525e80d7cbcbfd2f8c951e3",
+      "hwid": "",
+      "creationDate": "2026-07-24",
+      "expiryDate": "N/A",
+      "loginMessage": "",
+      "payRemaining": "Paid",
+      "accessLevel": "N/A"
+    }
+  }
 }

@@ -1056,11 +1056,11 @@
       "password": "9630",
       "passwordHash": "911291618d7b1f5abb315de7e694befc:3a17db839d7547d28af9cc1d16de56113306be3c41ba26d4c46150a21dfefc17f014dde9d6bbb0d1bea18e4658e53b3509a8aacb23078b0c9a354e93ecee199b",
       "hwid": "",
-      "creationDate": "2026-07-25",
-      "expiryDate": "N/A",
+      "creationDate": "2026-07-25 17:10:50",
+      "expiryDate": "2027-03-16",
       "loginMessage": "",
-      "payRemaining": "Paid",
-      "accessLevel": "N/A"
+      "payRemaining": "1500 Rs",
+      "accessLevel": "Bypass,Internal,External"
     }
   },
   "INSANE": {

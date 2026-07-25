@@ -1042,18 +1042,6 @@
       "contactInfo": "rF4Wm9cA7nC7tD3tD3nC7cA7cA7gS5Hf2jR4gS5MZ3gS5",
       "accessLevel": "External,Internal"
     },
-    "owner": {
-      "password": "1019887",
-      "hwid": "911395d9c2f37e867d9191695923726e5a5556c8e9d52631722ee2893edb4c71",
-      "expiryDate": "2027-07-01",
-      "loginMessage": "",
-      "creationDate": "2026-07-23 23:49:17",
-      "payRemaining": "Paid",
-      "contactInfo": "",
-      "accessLevel": "Bypass,Internal,External",
-      "passwordHash": "65257a63b1df64bc4e415db5928518b3:e1d60535ccf685c7f42294548289bf9f7d50683423d4d5bdbee24a79d0ea73e13d623a4afcf8b20005959cb5b636a954e8ce284fe282f6eb081f03a13c586b63",
-      "lastReset": ""
-    },
     "User12345": {
       "password": "default",
       "passwordHash": "003b36666999c412b708d96c25055883:069016e2a1fe553ba830eb9080f3f5073df7526a4d9f2944fae8b646f25053fd93c17a29f8df0a8470c1ce06455263b2f7f84fd9c4058462400f17642dd34209",

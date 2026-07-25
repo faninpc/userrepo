@@ -1061,6 +1061,16 @@
       "loginMessage": "",
       "payRemaining": "1500 Rs",
       "accessLevel": "Bypass,Internal,External"
+    },
+    "erendaily": {
+      "password": "erenfree",
+      "passwordHash": "ce6e71e5e38108f5fbe3176d753244cb:e95b82e3368d8d6c3f301ab654d1492eddbdcfeb549e24288d1d4e9b4024109aa2c94fb1c09ce9db3a6ddc2251ff717fcd5b6b29a1666d2b8f2bf14c66b05953",
+      "hwid": "",
+      "creationDate": "2026-07-25",
+      "expiryDate": "N/A",
+      "loginMessage": "",
+      "payRemaining": "Paid",
+      "accessLevel": "N/A"
     }
   },
   "INSANE": {

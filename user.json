@@ -1002,26 +1002,6 @@
       "accessLevel": "External",
       "lastReset": "2026-07-19T14:13:44.977Z"
     },
-    "farhad": {
-      "password": "1x2",
-      "hwid": "2d2776459f204b35601ddf8c15948b37549446400a70b484a273266a790e22e8",
-      "expiryDate": "2026-07-24",
-      "loginMessage": "",
-      "creationDate": "2026-07-17 16:54:20",
-      "payRemaining": "1 $",
-      "contactInfo": "",
-      "accessLevel": "External,Internal"
-    },
-    "rasel211": {
-      "password": "122",
-      "hwid": "d34c84008e9e46fe8403726eddf35a1a62d0815325b7c6016300fa8cc6d969a5",
-      "expiryDate": "2026-07-24",
-      "loginMessage": "",
-      "creationDate": "2026-07-17 17:42:31",
-      "payRemaining": "1 $",
-      "contactInfo": "",
-      "accessLevel": "External"
-    },
     "zuunair": {
       "password": "122x",
       "hwid": "5501d8be39d27f296ed968eb54df1729b6fd8ce49a83e9c3f41c5c82f07653b4",
@@ -1567,13 +1547,6 @@
       "loginMessage": "",
       "creationDate": "2026-06-02 17:27:57"
     },
-    "panha31": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2026-07-21",
-      "loginMessage": "",
-      "creationDate": "2026-06-19 17:08:38"
-    },
     "salz": {
       "password": "1",
       "hwid": "f1a75fff89d048d5e6db10a09f59e9d13813822dae20967ee16dbf6141419908",
@@ -1631,27 +1604,6 @@
       "contactInfo": "",
       "accessLevel": "External,Internal,Bypass",
       "lastReset": ""
-    },
-    "aethelcheats": {
-      "password": "8x41",
-      "hwid": "",
-      "expiryDate": "2026-07-22",
-      "loginMessage": "",
-      "creationDate": "2026-07-19 08:55:55",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External"
-    },
-    "aethel1": {
-      "password": "free",
-      "hwid": "free",
-      "expiryDate": "2026-07-23",
-      "loginMessage": "",
-      "creationDate": "2026-07-21 02:16:57",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External",
-      "lastReset": "free"
     },
     "storm": {
       "password": "69",

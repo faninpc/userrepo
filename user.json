@@ -1739,7 +1739,7 @@
   "YOUR_NAME": {
     "testuser123": {
       "password": "1234",
-      "passwordHash": "46b96657564d453b0eff5e2dff7329b9:59168d78b1b8dc8e841db4d85f9e9c24586f002b87801da6828acad1e4deff084b20f01a5fc333e41a5b64e77bc6a99ce13cbc2ace01bb72bdc9f3e29af16c1d",
+      "passwordHash": "fe2dc6961c56947522b45b0150f2690f:409e8929cf4043d14159723327b1566ab5449475670c27f222569b38e04b00ced4bdb4c11bc64c74858ef08e827897cadab4f29241f3c06d8a0cb2de032ff71c",
       "hwid": "d8a201bf0894aa47e11606c160b64e24fa799ac658a97fb1884b569f166c6ef4",
       "creationDate": "2026-07-24 17:34:30",
       "expiryDate": "2027-07-24",

@@ -1724,6 +1724,16 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External,Internal,Bypass"
+    },
+    "boss": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-25 09:11:15",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External"
     }
   },
   "YOUR_NAME": {

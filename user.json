@@ -1714,6 +1714,16 @@
       "contactInfo": "",
       "accessLevel": "External",
       "lastReset": "free"
+    },
+    "cyber1": {
+      "password": "0",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-25 03:06:04",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External,Internal,Bypass"
     }
   },
   "YOUR_NAME": {

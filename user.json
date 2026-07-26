@@ -1714,16 +1714,6 @@
       "contactInfo": "",
       "accessLevel": "External"
     },
-    "beast": {
-      "password": "khusra",
-      "hwid": "7a7360ed0957804e271b88b7e0cc3e0a73fe1dd4ea56ac6b5ad2df85fac2f838",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-07-26 15:58:15",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External"
-    },
     "beast1": {
       "password": "1",
       "hwid": "",

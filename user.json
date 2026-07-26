@@ -1627,6 +1627,16 @@
       "loginMessage": "",
       "payRemaining": "Paid",
       "accessLevel": "External"
+    },
+    "naja1": {
+      "password": "naja1",
+      "passwordHash": "c9289daed3286eda45b052143dddfd68:5732f82b650b1bf9323cd537d7cd054b370d854951f2db8af6f6c0e2e1268b5ec67c9e0f51cdb11a0d92ac7911e41b1913de7bf04c2eb8e8fd502976c17d9afe",
+      "hwid": "",
+      "creationDate": "2026-07-26",
+      "expiryDate": "N/A",
+      "loginMessage": "",
+      "payRemaining": "Paid",
+      "accessLevel": "N/A"
     }
   },
   "MATADOR": {

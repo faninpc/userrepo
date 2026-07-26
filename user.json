@@ -1637,6 +1637,16 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External"
+    },
+    "cyber": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-26 07:17:49",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External,Internal,Bypass"
     }
   },
   "YOUR_NAME": {},

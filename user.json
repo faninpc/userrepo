@@ -1579,7 +1579,7 @@
     "hour": {
       "password": "hour",
       "passwordHash": "30d366cdbad86b9fe19380ca094e10a3:cb4f8f3b22981958774e23fcf44b430d9b09115040c84648562ebd34234b36cc774289fdcb97eabe365ef8cdf2763e2daafa38c7a618e511025a3cd525a6f583",
-      "hwid": "",
+      "hwid": "9cafa005fa4e0aaceaf52a446a735504c21165b8cd05856a342bc7b1f117a13c",
       "creationDate": "2026-07-26 09:18:37",
       "expiryDate": "2026-08-25",
       "loginMessage": "",

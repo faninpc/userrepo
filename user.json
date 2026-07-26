@@ -1600,11 +1600,11 @@
       "password": "salz1",
       "passwordHash": "9b2429d0825c4a901d4a7ec5ca0b33c6:6c068922d31189937bdae855b177bae81ec091eb185fcd60250611c13ee39ac2b60a166217dbd5cd162daade0757798261cca85907f358bc6bbba7b036d70034",
       "hwid": "",
-      "creationDate": "2026-07-26",
-      "expiryDate": "N/A",
+      "creationDate": "2026-07-26 13:22:21",
+      "expiryDate": "2027-02-11",
       "loginMessage": "",
       "payRemaining": "Paid",
-      "accessLevel": "N/A"
+      "accessLevel": "External"
     }
   },
   "MATADOR": {

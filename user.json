@@ -1703,6 +1703,16 @@
       "contactInfo": "",
       "accessLevel": "External",
       "lastReset": "free"
+    },
+    "kami": {
+      "password": "lul",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-26 15:57:33",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External"
     }
   },
   "YOUR_NAME": {},

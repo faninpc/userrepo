@@ -1590,11 +1590,11 @@
       "password": "tha1",
       "passwordHash": "31d2705c124e0312b42460939b7a1098:49e82851690b92842482b6db4d488bf6a8242eb8a0f038ae6b8e8c439c5949a78f5b7080c77a783fd0f9ef9ec02e06bb52cb134696d32518c65eee5ad348e842",
       "hwid": "",
-      "creationDate": "2026-07-26",
-      "expiryDate": "N/A",
+      "creationDate": "2026-07-26 11:00:49",
+      "expiryDate": "2027-02-11",
       "loginMessage": "",
       "payRemaining": "Paid",
-      "accessLevel": "N/A"
+      "accessLevel": "External"
     }
   },
   "MATADOR": {

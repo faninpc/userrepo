@@ -1723,6 +1723,16 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External"
+    },
+    "beast1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-26 16:09:18",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External,Internal"
     }
   },
   "YOUR_NAME": {},

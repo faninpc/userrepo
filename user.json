@@ -1051,6 +1051,18 @@
       "loginMessage": "Enjoy Free Users ! This user will be Delete on 28 July !",
       "payRemaining": "Paid",
       "accessLevel": "Internal,External"
+    },
+    "farhad": {
+      "password": "14",
+      "hwid": "",
+      "expiryDate": "2027-07-26",
+      "creationDate": "2026-07-26 05:06:30",
+      "loginMessage": "",
+      "payRemaining": "Paid",
+      "payreason": "N/A",
+      "accessLevel": "External,Internal",
+      "lastReset": "",
+      "contactInfo": ""
     }
   },
   "INSANE": {

@@ -1670,6 +1670,16 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External,Internal,Bypass"
+    },
+    "aethel": {
+      "password": "free",
+      "hwid": "",
+      "expiryDate": "2026-07-28",
+      "loginMessage": "",
+      "creationDate": "2026-07-26 14:50:38",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External"
     }
   },
   "YOUR_NAME": {},

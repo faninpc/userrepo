@@ -612,7 +612,7 @@
       "lastReset": "2026-07-11T16:10:41.011Z",
       "payRemaining": "1 $",
       "payreason": "N/A",
-      "accessLevel": "External"
+      "accessLevel": "External,Internal"
     },
     "nick11d": {
       "password": "22c1",

@@ -1596,17 +1596,6 @@
     }
   },
   "CYBER": {
-    "cyber": {
-      "password": "1",
-      "hwid": "61ffbaa9394f346c3ef305c5e16b10ab361382f1da621771ae4b3e1061fee82f",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-07-17 16:46:36",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External,Internal,Bypass",
-      "lastReset": "2026-07-18T14:57:30.39Z"
-    },
     "saad": {
       "password": "1",
       "hwid": "d2d924bb41faf40ea15bca0d6b08c69d0a435b63b22200395efee7e54d5bbee5",

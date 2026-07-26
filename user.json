@@ -1610,11 +1610,11 @@
       "password": "dochach",
       "passwordHash": "50121156f2a19526327dbd5a1af78ba9:ae683c84c2d2dbf8044f2aebef06a3f883dc4e2b44f4fb4be365754286bcb1d4de0e59a34f1a3bb26b72f944c4391d5431818ba1cf69d21a2fcef3ed0a77feed",
       "hwid": "",
-      "creationDate": "2026-07-26",
-      "expiryDate": "N/A",
+      "creationDate": "2026-07-26 13:28:45",
+      "expiryDate": "2026-08-26",
       "loginMessage": "",
       "payRemaining": "Paid",
-      "accessLevel": "N/A"
+      "accessLevel": "External"
     }
   },
   "MATADOR": {

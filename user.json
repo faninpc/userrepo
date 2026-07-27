@@ -830,14 +830,15 @@
     },
     "juttsaab47": {
       "password": "anger46@",
-      "hwid": "5904bfb2920fd16eac5dd21b3bd7360517eb4fd417f538b86da4b94d95f0d281",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "All Server Safe UID Bypass Available !\r\nContact Discord or Whatsapp to Buy !",
       "creationDate": "2026-01-19 20:59:47",
       "payRemaining": "1 $",
       "contactInfo": "rF4xE8xE8nC7jR4xE8cA7Hf2nC7Qv6tD3Hf2Qv6Qv6Hf2",
       "payreason": "N/A",
-      "accessLevel": "External,Internal"
+      "accessLevel": "External,Internal",
+      "lastReset": "2026-07-27T22:28:48.927Z"
     },
     "kaleem": {
       "password": "12x2",

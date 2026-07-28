@@ -1519,6 +1519,16 @@
       "loginMessage": "",
       "creationDate": "2026-07-18 19:08:56",
       "accessLevel": ""
+    },
+    "Crazy": {
+      "password": "1234",
+      "passwordHash": "51c4f7be687ba24c7dddf6ce84a57478:753194a4b385d031c6c339010c053783a2aaa7418e6b208176461029620552affecc7febc4e97c57bf7d55cfe0dc01f60707664bc32376a22fa81fd92a459826",
+      "hwid": "",
+      "creationDate": "2026-07-28",
+      "expiryDate": "N/A",
+      "loginMessage": "",
+      "payRemaining": "Paid",
+      "accessLevel": "N/A"
     }
   },
   "SALZ": {

@@ -1606,6 +1606,16 @@
       "loginMessage": "",
       "payRemaining": "Paid",
       "accessLevel": "External"
+    },
+    "vita": {
+      "password": "vita",
+      "passwordHash": "1dbcfbae63500f1827a0a619757a3138:fe88c4ba434bd0fa3036e7cc606ad2d31a0f1a2f9775aac778605c7b4f96df9ecee32cf8bcf221921447135e5bd77ed090735b8a8d8d8ddf4ae7e59e1e784072",
+      "hwid": "",
+      "creationDate": "2026-07-28",
+      "expiryDate": "N/A",
+      "loginMessage": "",
+      "payRemaining": "Paid",
+      "accessLevel": "N/A"
     }
   },
   "MATADOR": {

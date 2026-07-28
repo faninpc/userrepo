@@ -1138,12 +1138,12 @@
     },
     "ali1": {
       "password": "1",
-      "hwid": "3adc64dfd2dfdba0afc26523ea48479ad183755bcaa85bbb4d53fd0b82a691b8",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-13 17:16:22",
       "lastUsed": "2025-09-09 17:52:46",
       "loginMessage": "Enjoy Panel !",
-      "lastReset": "2026-06-14T17:22:51.994Z"
+      "lastReset": "2026-07-28T06:54:40.574Z"
     },
     "doodly": {
       "password": "1",

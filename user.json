@@ -1045,6 +1045,16 @@
       "contactInfo": "rF4Qv6xE8nC7Wm9Wm9nC7aP1Hf2Hf2nC7Qv6cA7xE8tD3",
       "accessLevel": "External,Internal",
       "lastReset": "2026-07-28T10:32:32.166Z"
+    },
+    "1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-28 17:59:26",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External,Internal,Bypass"
     }
   },
   "INSANE": {

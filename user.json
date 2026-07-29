@@ -1523,7 +1523,7 @@
     "Crazy": {
       "password": "1234",
       "passwordHash": "51c4f7be687ba24c7dddf6ce84a57478:753194a4b385d031c6c339010c053783a2aaa7418e6b208176461029620552affecc7febc4e97c57bf7d55cfe0dc01f60707664bc32376a22fa81fd92a459826",
-      "hwid": "",
+      "hwid": "0608df3ea7fc6038225865a2e57236ed455e42878074b2767f0122838d227d85",
       "creationDate": "2026-07-28 22:09:07",
       "expiryDate": "2027-07-28",
       "loginMessage": "",

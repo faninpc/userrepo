@@ -1702,17 +1702,6 @@
       "contactInfo": "",
       "accessLevel": "External,Internal,Bypass"
     },
-    "aethel": {
-      "password": "free",
-      "hwid": "free",
-      "expiryDate": "2026-07-28",
-      "loginMessage": "",
-      "creationDate": "2026-07-26 14:50:38",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External",
-      "lastReset": "free"
-    },
     "kami": {
       "password": "lul",
       "hwid": "6269d82a0095254986bafd9ea0ad5bae042f21e406d9863eeeac4ecff4a4aeaf",

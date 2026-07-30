@@ -1724,13 +1724,14 @@
     },
     "aethel": {
       "password": "free1day",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2026-08-01",
       "loginMessage": "",
       "creationDate": "2026-07-30 01:59:27",
       "payRemaining": "",
       "contactInfo": "",
-      "accessLevel": "External"
+      "accessLevel": "External",
+      "lastReset": "free"
     }
   },
   "YOUR_NAME": {},

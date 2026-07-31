@@ -1702,16 +1702,6 @@
       "contactInfo": "",
       "accessLevel": "External,Internal,Bypass"
     },
-    "kami": {
-      "password": "lul",
-      "hwid": "6269d82a0095254986bafd9ea0ad5bae042f21e406d9863eeeac4ecff4a4aeaf",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-07-26 15:57:33",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External"
-    },
     "beast1": {
       "password": "1",
       "hwid": "7a7360ed0957804e271b88b7e0cc3e0a73fe1dd4ea56ac6b5ad2df85fac2f838",

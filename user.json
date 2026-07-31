@@ -1658,6 +1658,16 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External,Internal,Bypass"
+    },
+    "manolo": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-31 04:02:58",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External,Internal,Bypass"
     }
   },
   "CYBER": {

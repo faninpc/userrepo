@@ -1661,13 +1661,14 @@
     },
     "manolo": {
       "password": "1",
-      "hwid": "1167f35b04d717770020541e22470848499b3c22203801b351bb790d1bbfcad4",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-07-31 04:02:58",
       "payRemaining": "",
       "contactInfo": "",
-      "accessLevel": "External,Internal,Bypass"
+      "accessLevel": "External,Internal,Bypass",
+      "lastReset": ""
     }
   },
   "CYBER": {

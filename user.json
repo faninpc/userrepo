@@ -1722,6 +1722,16 @@
       "contactInfo": "",
       "accessLevel": "External",
       "lastReset": "free"
+    },
+    "tarun": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-31 05:05:01",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External,Internal"
     }
   },
   "YOUR_NAME": {},

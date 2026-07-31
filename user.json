@@ -1733,6 +1733,16 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External,Internal"
+    },
+    "legend": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-07-31 07:43:31",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External"
     }
   },
   "YOUR_NAME": {},

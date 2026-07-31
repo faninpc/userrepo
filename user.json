@@ -1732,6 +1732,16 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External"
+    },
+    "cyber1": {
+      "password": "niggafree",
+      "hwid": "",
+      "expiryDate": "2026-08-02",
+      "loginMessage": "",
+      "creationDate": "2026-07-31 18:59:40",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External"
     }
   },
   "YOUR_NAME": {},

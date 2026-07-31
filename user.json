@@ -1735,13 +1735,14 @@
     },
     "cyber1": {
       "password": "niggafree",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2026-08-02",
       "loginMessage": "",
       "creationDate": "2026-07-31 18:59:40",
       "payRemaining": "",
       "contactInfo": "",
-      "accessLevel": "External"
+      "accessLevel": "External",
+      "lastReset": "free"
     }
   },
   "YOUR_NAME": {},

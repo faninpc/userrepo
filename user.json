@@ -1723,16 +1723,6 @@
       "contactInfo": "",
       "accessLevel": "External,Internal,Bypass"
     },
-    "tarun": {
-      "password": "1",
-      "hwid": "eb32dc6ffc4ff0bae8db0450ef0a1d907da15c6030e3ee7e9dcf55d071bc1899",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-07-31 05:05:01",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External,Internal"
-    },
     "legend": {
       "password": "1",
       "hwid": "05efb8604492c3369fbfe9f9049f279d72865c9586b80e8100803fe0e7cf8c3f",

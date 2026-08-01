@@ -1065,6 +1065,16 @@
       "payRemaining": "Paid",
       "contactInfo": "rF4gS5Wm9nC7aP1aP1Qv6nC7aP1Hf2Wm9Qv6Qv6Hf2gS5",
       "accessLevel": "External,Internal"
+    },
+    "insane34c": {
+      "password": "as123",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-08-01 14:09:46",
+      "payRemaining": "Paid",
+      "contactInfo": "",
+      "accessLevel": "External,Internal"
     }
   },
   "INSANE": {

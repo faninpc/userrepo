@@ -1628,16 +1628,6 @@
     }
   },
   "MATADOR": {
-    "mtd": {
-      "password": "1",
-      "hwid": "58a7080839361edd5c5f993ab16520d30dd65c4e083cc21ed7be8259d2997b3a",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-07-22 02:00:58",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External,Internal,Bypass"
-    },
     "aymen": {
       "password": "1",
       "hwid": "6e8f308a102dc044a63650a15ef12d958ed36559846ab6e125dd97f5d6bfc5d2",

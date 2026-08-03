@@ -1627,7 +1627,18 @@
       "accessLevel": "External"
     }
   },
-  "MATADOR": {},
+  "MATADOR": {
+    "mtd": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-08-03 06:14:02",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External,Internal,Bypass"
+    }
+  },
   "CYBER": {
     "saad": {
       "password": "1",

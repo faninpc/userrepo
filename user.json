@@ -1647,16 +1647,6 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External,Internal,Bypass"
-    },
-    "manolou": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-08-03 01:38:34",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External,Internal,Bypass"
     }
   },
   "CYBER": {

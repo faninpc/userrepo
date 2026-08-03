@@ -928,17 +928,6 @@
       "lastReset": "2026-07-28T09:33:25.555Z",
       "accessLevel": "External"
     },
-    "basitinternal": {
-      "password": "1c2x",
-      "hwid": "f1a75fff89d048d5e6db10a09f59e9d13813822dae20967ee16dbf6141419908",
-      "expiryDate": "2026-08-01",
-      "loginMessage": "This user will end in a Month !",
-      "creationDate": "2026-07-02 06:27:55",
-      "payRemaining": "1 $",
-      "contactInfo": "rF4gS5Wm9nC7aP1Wm9xE8nC7xE8Qv6Hf2gS5aP1xE8gS5",
-      "accessLevel": "External,Internal",
-      "lastReset": "2026-07-21T17:44:41.854Z"
-    },
     "sherry3213": {
       "password": "2cw2",
       "hwid": "58d7fb8c2b38b575ddcd4754e94d6d3aff9c138c9e0478ee5de936304f3f12c0",
@@ -1034,17 +1023,6 @@
       "lastReset": "",
       "contactInfo": ""
     },
-    "erenxiters": {
-      "password": "freeuser",
-      "hwid": "free",
-      "expiryDate": "2026-07-29",
-      "loginMessage": "",
-      "creationDate": "2026-07-27 05:16:01",
-      "payRemaining": "Paid",
-      "contactInfo": "Lh5vH4Dk2Qn6Dk2lA3Rk8",
-      "accessLevel": "External,Internal",
-      "lastReset": "free"
-    },
     "rohan": {
       "password": "1fs2",
       "hwid": "da0285f8242d88c6fc016ad39da1fdefa768ad18fef363897b13f11c8f0b2505",
@@ -1055,16 +1033,6 @@
       "contactInfo": "rF4Qv6xE8nC7Wm9Wm9nC7aP1Hf2Hf2nC7Qv6cA7xE8tD3",
       "accessLevel": "External,Internal",
       "lastReset": "2026-07-28T10:32:32.166Z"
-    },
-    "jexxo": {
-      "password": "13421",
-      "hwid": "4a51ac04f4b110b040fb62c408d318b03a70f1d48635a3171e21091c92a76ae3",
-      "expiryDate": "2026-07-30",
-      "loginMessage": "",
-      "creationDate": "2026-07-29 12:38:14",
-      "payRemaining": "Paid",
-      "contactInfo": "rF4gS5Wm9nC7aP1aP1Qv6nC7aP1Hf2Wm9Qv6Qv6Hf2gS5",
-      "accessLevel": "External,Internal"
     },
     "insane34c": {
       "password": "as123",
@@ -1598,20 +1566,6 @@
       "creationDate": "2026-06-24 06:55:06",
       "lastReset": "2026-07-21T13:28:42.962Z"
     },
-    "lyhour1": {
-      "password": "1",
-      "hwid": "9a713ec1a943ab38efdaae6fe12638137739d8a1c01ce770848e14a06f3c7e3b",
-      "expiryDate": "2026-07-29",
-      "loginMessage": "",
-      "creationDate": "2026-06-28 10:04:17"
-    },
-    "hong1": {
-      "password": "1",
-      "hwid": "0d15745d1452461e064e7f8a3f52ab365215e6000643934f2046c9cc3e2d48f5",
-      "expiryDate": "2026-07-29",
-      "loginMessage": "",
-      "creationDate": "2026-06-28 10:44:28"
-    },
     "hour": {
       "password": "hour",
       "passwordHash": "30d366cdbad86b9fe19380ca094e10a3:cb4f8f3b22981958774e23fcf44b430d9b09115040c84648562ebd34234b36cc774289fdcb97eabe365ef8cdf2763e2daafa38c7a618e511025a3cd525a6f583",
@@ -1756,17 +1710,6 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External"
-    },
-    "cyber1": {
-      "password": "niggafree",
-      "hwid": "free",
-      "expiryDate": "2026-08-02",
-      "loginMessage": "",
-      "creationDate": "2026-07-31 18:59:40",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External",
-      "lastReset": "free"
     }
   },
   "MOMEN": {

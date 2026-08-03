@@ -1627,18 +1627,7 @@
       "accessLevel": "External"
     }
   },
-  "MATADOR": {
-    "aymen": {
-      "password": "1",
-      "hwid": "6e8f308a102dc044a63650a15ef12d958ed36559846ab6e125dd97f5d6bfc5d2",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-07-31 22:57:32",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External,Internal,Bypass"
-    }
-  },
+  "MATADOR": {},
   "CYBER": {
     "saad": {
       "password": "1",

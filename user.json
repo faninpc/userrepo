@@ -1640,17 +1640,6 @@
     }
   },
   "CYBER": {
-    "saad": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "Wellcome Randi :)",
-      "creationDate": "2026-07-18 14:00:40",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External,Internal,Bypass",
-      "lastReset": ""
-    },
     "storm": {
       "password": "69",
       "hwid": "4c9427a0f29c39b6c558d4c5d35cb6687e7345a22f6c59d77b393db3965c8d4b",

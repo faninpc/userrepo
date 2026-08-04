@@ -1693,13 +1693,14 @@
     },
     "aethel": {
       "password": "free3day",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2026-08-06",
       "loginMessage": "",
       "creationDate": "2026-08-04 07:45:42",
       "payRemaining": "",
       "contactInfo": "",
-      "accessLevel": "External"
+      "accessLevel": "External",
+      "lastReset": "free"
     }
   },
   "MOMEN": {

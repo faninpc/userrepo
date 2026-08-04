@@ -1690,6 +1690,16 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External"
+    },
+    "aethel": {
+      "password": "free3day",
+      "hwid": "",
+      "expiryDate": "2026-08-06",
+      "loginMessage": "",
+      "creationDate": "2026-08-04 07:45:42",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External"
     }
   },
   "MOMEN": {

@@ -1690,6 +1690,16 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External,Internal,Bypass"
+    },
+    "cyber": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-08-05 07:57:25",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External,Internal,Bypass"
     }
   },
   "MOMEN": {

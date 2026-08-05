@@ -1690,6 +1690,16 @@
       "contactInfo": "",
       "accessLevel": "External",
       "lastReset": "free"
+    },
+    "n": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-08-05 00:03:21",
+      "payRemaining": "",
+      "contactInfo": "",
+      "accessLevel": "External,Internal,Bypass"
     }
   },
   "MOMEN": {

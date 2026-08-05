@@ -1660,16 +1660,6 @@
       "contactInfo": "",
       "accessLevel": "External"
     },
-    "cyber": {
-      "password": "1",
-      "hwid": "c12b3a8ef39415845ee3e6e02634694d2738915fbfab1919e389fd4c0a276e51",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-07-26 07:17:49",
-      "payRemaining": "",
-      "contactInfo": "",
-      "accessLevel": "External,Internal,Bypass"
-    },
     "legend": {
       "password": "1",
       "hwid": "05efb8604492c3369fbfe9f9049f279d72865c9586b80e8100803fe0e7cf8c3f",

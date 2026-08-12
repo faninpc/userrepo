@@ -962,13 +962,14 @@
     },
     "ninja": {
       "password": "214x",
-      "hwid": "19d2946cee5584308819618f7c0619bbf6455e3db3df18f2e185754a12d4662b",
+      "hwid": "",
       "expiryDate": "2026-10-09",
       "loginMessage": "",
       "creationDate": "2026-07-11 11:34:28",
       "payRemaining": "1 $",
       "contactInfo": "rF4gS5Wm9nC7aP1Wm9Wm9nC7MZ3xE8MZ3gS5MZ3MZ3Qv6",
-      "accessLevel": "External"
+      "accessLevel": "External",
+      "lastReset": "2026-08-12T04:26:11.713Z"
     },
     "apelo": {
       "password": "1nd2",
@@ -1396,6 +1397,13 @@
     }
   },
   "B4EVER": {
+    "123123": {
+      "password": "123123",
+      "hwid": "",
+      "expiryDate": "2026-08-28",
+      "loginMessage": "",
+      "creationDate": "2026-08-11 11:56:31"
+    },
     "fire": {
       "password": "1",
       "hwid": "5ea50e68e82489ea841efc81c32d747e3e66392e2a0118d36e02472fb9ef95fa",
@@ -1532,13 +1540,6 @@
       "expiryDate": "2026-09-03",
       "loginMessage": "",
       "creationDate": "2026-08-02 23:49:46"
-    },
-    "123123": {
-      "password": "123123",
-      "hwid": "",
-      "expiryDate": "2026-08-28",
-      "loginMessage": "",
-      "creationDate": "2026-08-11 11:56:31"
     }
   },
   "SALZ": {

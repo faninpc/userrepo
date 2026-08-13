@@ -994,13 +994,14 @@
     },
     "khairy": {
       "password": "dx21c",
-      "hwid": "a6e03dca432e0e048f1e3111efe142a828c8d8363543c8bccb304600f6a9d234",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2026-07-20 18:50:41",
       "payRemaining": "5 $",
       "contactInfo": "rF4Wm9cA7nC7tD3tD3nC7cA7cA7gS5Hf2jR4gS5MZ3gS5",
-      "accessLevel": "External,Internal"
+      "accessLevel": "External,Internal",
+      "lastReset": "2026-08-13T13:22:09.142Z"
     },
     "owner": {
       "password": "9630",

@@ -1049,13 +1049,6 @@
     }
   },
   "INSANE": {
-    "1": {
-      "password": "1",
-      "hwid": "f1a75fff89d048d5e6db10a09f59e9d13813822dae20967ee16dbf6141419908",
-      "expiryDate": "No Expiry",
-      "creationDate": "2026-06-25 20:22:15",
-      "lastReset": "2026-07-26T04:31:47.526Z"
-    },
     "2": {
       "password": "2",
       "hwid": "7147dd8fdfe62339a9b91ee208405c4399c66066cc3bd85e71dfcd314581301f",

@@ -1645,6 +1645,13 @@
       "payRemaining": "",
       "contactInfo": "",
       "accessLevel": "External,Internal,Bypass"
+    },
+    "matador": {
+      "password": "12",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2026-08-28 00:09:04"
     }
   },
   "CYBER": {

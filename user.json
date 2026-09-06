@@ -1634,15 +1634,7 @@
       "accessLevel": "External"
     }
   },
-  "MATADOR": {
-    "matador": {
-      "password": "12",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-08-28 00:09:04"
-    }
-  },
+  "MATADOR": {},
   "CYBER": {
     "storm": {
       "password": "69",
